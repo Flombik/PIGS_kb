@@ -1,0 +1,26 @@
+Q4288670
+=> nrel_main_idtf:
+	[Megevo (lake)] (* <- lang_en;; *);
+	[Межево (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Megevo (lake))] (* <-lang_en;; *);
+			[Опр.(Межево (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

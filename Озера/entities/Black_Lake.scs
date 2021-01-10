@@ -1,0 +1,26 @@
+Q14629491
+=> nrel_main_idtf:
+	[Black Lake (Berezovsky District)] (* <- lang_en;; *);
+	[Чёрное озеро (Березовский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Black Lake (Berezovsky District))] (* <-lang_en;; *);
+			[Опр.(Чёрное озеро (Березовский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

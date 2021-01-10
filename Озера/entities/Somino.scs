@@ -1,0 +1,26 @@
+Q17094599
+=> nrel_main_idtf:
+	[Somino (lake, Gorodoksky district)] (* <- lang_en;; *);
+	[Сомино (озеро, Городокский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Somino (lake, Gorodoksky district))] (* <-lang_en;; *);
+			[Опр.(Сомино (озеро, Городокский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

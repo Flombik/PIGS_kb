@@ -1,0 +1,26 @@
+Q2047864
+=> nrel_main_idtf:
+	[Blue Lakes] (* <- lang_en;; *);
+	[Голубые озёра] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Blue Lakes)] (* <-lang_en;; *);
+			[Опр.(Голубые озёра)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

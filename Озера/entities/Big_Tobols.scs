@@ -1,0 +1,26 @@
+Q20873661
+=> nrel_main_idtf:
+	[Big Tobols] (* <- lang_en;; *);
+	[Большие Тоболы] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Big Tobols)] (* <-lang_en;; *);
+			[Опр.(Большие Тоболы)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

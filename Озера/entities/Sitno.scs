@@ -1,0 +1,26 @@
+Q4421136
+=> nrel_main_idtf:
+	[Sitno (lake, Vitebsk region)] (* <- lang_en;; *);
+	[Ситно (озеро, Витебская область)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Sitno (lake, Vitebsk region))] (* <-lang_en;; *);
+			[Опр.(Ситно (озеро, Витебская область))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;
