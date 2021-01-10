@@ -1,0 +1,26 @@
+Q9986770
+=> nrel_main_idtf:
+	[Ushachskaya group of lakes] (* <- lang_en;; *);
+	[Ушачская группа озер] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Ushachskaya group of lakes)] (* <-lang_en;; *);
+			[Опр.(Ушачская группа озер)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Wikimedia category]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[категория в проекте Викимедиа]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

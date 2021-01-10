@@ -1,24 +1,24 @@
-Q17094688
+Q9955933
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Svir lakes] (* <- lang_en;; *);
+	[Свирские озера] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Svir lakes)] (* <-lang_en;; *);
+			[Опр.(Свирские озера)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[Wikimedia category]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[категория в проекте Викимедиа]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

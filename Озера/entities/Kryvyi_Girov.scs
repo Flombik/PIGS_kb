@@ -1,24 +1,24 @@
-Q9955933
+Q20873702
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Kryvyi Girov] (* <- lang_en;; *);
+	[Кривой Гиров] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Kryvyi Girov)] (* <-lang_en;; *);
+			[Опр.(Кривой Гиров)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[Wikimedia category]
+				[lake in Belarus]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[категория в проекте Викимедиа]
+				[None]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -1,18 +1,18 @@
-Q27516670
+Q19754313
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Voytyets] (* <- lang_en;; *);
+	[Войты] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Voytyets)] (* <-lang_en;; *);
+			[Опр.(Войты)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[lake in Belarus]
 				(* <-lang_en;; *);; 
 			*);
 		    ...

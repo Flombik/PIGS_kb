@@ -1,13 +1,13 @@
-Q9195131
+Q3920952
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Goshcha] (* <- lang_en;; *);
+	[Гоща] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Goshcha)] (* <-lang_en;; *);
+			[Опр.(Гоща)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*

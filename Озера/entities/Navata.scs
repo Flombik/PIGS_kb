@@ -1,24 +1,24 @@
-Q14358495
+Q17094424
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Navata] (* <- lang_en;; *);
+	[Навята] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Navata)] (* <-lang_en;; *);
+			[Опр.(Навята)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[Wikimedia template]
+				[lake in Belarus]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[шаблон в проекте Викимедиа]
+				[None]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

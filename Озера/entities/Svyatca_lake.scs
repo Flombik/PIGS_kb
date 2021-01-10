@@ -1,18 +1,18 @@
-Q6532000
+Q3920242
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Svyatca] (* <- lang_en;; *);
+	[Святца] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Svyatca)] (* <-lang_en;; *);
+			[Опр.(Святца)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[lake in Belarus]
 				(* <-lang_en;; *);; 
 			*);
 		    ...

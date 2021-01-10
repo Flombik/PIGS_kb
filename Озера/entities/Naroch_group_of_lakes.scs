@@ -1,13 +1,13 @@
 Q9890965
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Naroch group of lakes] (* <- lang_en;; *);
+	[Нарочанская группа озер] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Naroch group of lakes)] (* <-lang_en;; *);
+			[Опр.(Нарочанская группа озер)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*

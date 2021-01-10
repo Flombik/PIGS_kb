@@ -1,24 +1,24 @@
-Q15256371
+Q14358495
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Braslav lakes] (* <- lang_en;; *);
+	[Браславские озера] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Braslav lakes)] (* <-lang_en;; *);
+			[Опр.(Браславские озера)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Wikimedia template]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[шаблон в проекте Викимедиа]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

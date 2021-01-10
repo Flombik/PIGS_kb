@@ -1,24 +1,24 @@
-Q32871424
+Q19595124
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Vera] (* <- lang_en;; *);
+	[Вера] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Def.(Vera)] (* <-lang_en;; *);
+			[Опр.(Вера)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[Wikimedia category]
+				[lake in Belarus]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[категория в проекте Викимедиа]
+				[None]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
