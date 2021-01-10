@@ -1,4 +1,4 @@
-Q17047205
+Visyaty
 => nrel_main_idtf:
 	[Visyaty] (* <- lang_en;; *);
 	[Висяты] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q17047205
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake has a nearly round shape with several small bays and headlands. In the northwestern part of the lake, an island with an area of ​​0.2 hectares. The slopes of the basin are elevated, steep in places, mainly under bushes. The bottom to a depth of 2 m is sandy or silty, lined with sapropel deeper.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро имеет близкую к округлой форму с несколькими небольшими заливами и мысами. В северо-западной части озера остров площадью 0,2 га. Склоны котловины возвышенные, местами крутые, преимущественно под кустарником. Дно до глубины 2 м песчаное или илистое, глубже выстлано сапропелем.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

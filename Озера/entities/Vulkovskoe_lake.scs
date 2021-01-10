@@ -1,4 +1,4 @@
-Q17047219
+Vulkovskoe_lake
 => nrel_main_idtf:
 	[Vulkovskoe lake] (* <- lang_en;; *);
 	[Вульковское озеро] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q17047219
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The most common in the lake are perch, bream, pike, roach, less common are rudd, ruff, gudgeon, goldfish. Crayfish are also found.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Наиболее распространены в озере окунь, лещ, щука, плотва, реже встречаются краснопёрка, ёрш, пескарь, серебряный карась. Водятся также раки. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

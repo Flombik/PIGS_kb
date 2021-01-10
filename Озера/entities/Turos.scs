@@ -1,4 +1,4 @@
-Q3919293
+Turos
 => nrel_main_idtf:
 	[Turos] (* <- lang_en;; *);
 	[Туросы] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q3919293
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake is poorly overgrown. Emerging vegetation extends to a depth of 1.9 m at a distance of up to 100 m from the coast.
+
+The Diva River flows through Turos, upstream and downstream of which the Otolovo and Berezovskoye lakes are located, respectively. A stream flows from Lake Provady into the lake. In addition, lakes Turos and Otolovo are connected by an additional channel.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро зарастает слабо. Надводная растительность распространяется до глубины 1,9 м на расстояние до 100 м от берега.
+
+Через Туросы протекает река Дива, выше и ниже по течению которой расположены озёра Отолово и Берёзовское соответственно. В озеро впадает ручей, вытекающий из озера Провады. Кроме того, озёра Туросы и Отолово соединяются дополнительной протокой. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

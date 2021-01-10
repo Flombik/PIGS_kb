@@ -1,4 +1,4 @@
-Q3919697
+Vazha
 => nrel_main_idtf:
 	[Vazha] (* <- lang_en;; *);
 	[Важа] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q3919697
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake is inhabited by bream, pike, roach, tench, rudd, perch and other fish. Commercial fishing is carried out, as well as paid amateur fishing.
+
+The surrounding forests are rich in blueberries, lingonberries, cranberries, wild blackberries and mushrooms.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[В озере обитают лещ, щука, плотва, линь, краснопёрка, окунь и другая рыба. Производится промысловый лов рыбы, а также организовано платное любительское рыболовство.
+
+Окрестные леса богаты черникой, брусникой, клюквой, дикорастущей ежевикой, а также грибами. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

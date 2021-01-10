@@ -1,4 +1,4 @@
-Q27516601
+Verbnoe_lake
 => nrel_main_idtf:
 	[Verbnoe (lake, Belarus)] (* <- lang_en;; *);
 	[Вербное (озеро, Белоруссия)] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q27516601
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[A stream flows out of the northern part of the lake and flows into the Ulla River. A stream flows into the southern one, flowing from a nearby unnamed lake.
+
+The lake is inhabited by bream, pike, roach, tench, rudd, perch and other fish species.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Из северной части озера вытекает ручей, впадающий в реку Улла. В южную впадает ручей, вытекающий из близлежащего безымянного озера.
+
+В озере обитают лещ, щука, плотва, линь, краснопёрка, окунь и другие виды рыб.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

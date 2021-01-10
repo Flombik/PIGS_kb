@@ -1,4 +1,4 @@
-Q17095041
+Yazhginya
 => nrel_main_idtf:
 	[Yazhginya] (* <- lang_en;; *);
 	[Яжгиня] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q17095041
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake is located 17 km southeast of the city of Miory. The lake is located on the territory of the Yelnya landscape reserve. Yazhginya is located on the southern edge of a vast swampy area, in the center of which is Lake Elno.
+
+The lake has a rounded shape and is fed by the waters of the surrounding swamp. From the southern end of Lake Yazhgina, a channel flows into a small lake Volozevo, from which, in turn, flows into the Disna River (a tributary of the Western Dvina).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро расположено в 17 км к юго-востоку от города Миоры. Озеро находится на территории ландшафтного заказника «Ельня». Яжгиня расположено на южной окраине обширного заболоченного района, в центре которого находится озеро Ельно.
+
+Озеро имеет округлую форму, питается водами окружающего болота. Из южной оконечности озера Яжгиня вытекает протока в небольшое озеро Волозево, из которого, в свою очередь, идёт сток в реку Дисна (приток Западной Двины). ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

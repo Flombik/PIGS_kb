@@ -1,4 +1,4 @@
-Q3919317
+Snake
 => nrel_main_idtf:
 	[Snake] (* <- lang_en;; *);
 	[Полозно] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q3919317
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Belongs to the Ushacha river basin. It is located 21 km south-west of the urban settlement of Ushachi and 2 km south-east of the village of Tserkovishche.
+
+The surroundings of the lake are predominantly ridge-hilly, densely wooded and mostly marshy.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Относится к бассейну реки Ушача. Расположено в 21 км к юго-западу от городского посёлка Ушачи и в 2 км к юго-востоку от деревни Церковище.
+
+Окрестность озера преимущественно грядисто-холмистая, густо заросшая лесом и большей частью болотистая.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

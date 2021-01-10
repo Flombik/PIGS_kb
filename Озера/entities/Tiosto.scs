@@ -1,4 +1,4 @@
-Q4457893
+Tiosto
 => nrel_main_idtf:
 	[Tiosto] (* <- lang_en;; *);
 	[Тиосто] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q4457893
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Tiosto is home to pike, bream, pike perch, tench, perch, roach, rudd and other fish species.
+
+Near the lake are the villages of Selo, Selezny, and the coast near the village of Selezny is an archaeological monument - a settlement.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[В Тиосто обитают щука, лещ, судак, линь, окунь, плотва, краснопёрка и другие виды рыб.
+
+Около озера расположены деревни Село, Селезни, а берегу у деревни Селезни археологический памятник — городище. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

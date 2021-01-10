@@ -1,4 +1,4 @@
-Q13032242
+Verhita
 => nrel_main_idtf:
 	[Verhita] (* <- lang_en;; *);
 	[Верхита] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q13032242
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[The river is 28 km long, the catchment area is 266 km², the average slope of the water surface is 0.7 m/km.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Длина реки — 28 км, площадь водосборного бассейна — 266 км², средний наклон водной поверхности 0,7 м/км. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -1,4 +1,4 @@
-Q4181008
+Zhoden
 => nrel_main_idtf:
 	[Zhoden] (* <- lang_en;; *);
 	[Жодень] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q4181008
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The Kopan River flows through the lake, two streams flow into it (in the south - a stream from Lake Somino (local name Babaryki)). Near the lake is the Hunter's House of the ZAO Osotno.
+
+Lake Zhoden is home to pike, bream, roach, ide, rudd, tench, perch and other fish species.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Через озеро протекает река Копань, впадают два ручья (на юге — ручей из озера Сомино (местное название Бабарыки)). У озера расположен Дом охотника охотхозяйства ЗАО «Осотно».
+
+В озере Жодень обитают щука, лещ, плотва, язь, краснопёрка, линь, окунь и другие виды рыб. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

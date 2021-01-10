@@ -1,4 +1,4 @@
-Q19810323
+Somino2
 => nrel_main_idtf:
 	[Somino (lake, Rossony district)] (* <- lang_en;; *);
 	[Сомино (озеро, Россонский район)] (* <- lang_ru;; *);
@@ -12,13 +12,21 @@ Q19810323
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[It is located 30 km north-east of the urban village of Rossony and 3 km north-east of the village of Sherstovo, in the middle of a swampy massif overgrown with bushes. The Russian-Belarusian border runs not far from the lake.
+
+The surface area of ​​the reservoir is 0.02 km², length - 0.2 km, maximum width - 0.15 km. The length of the coastline is 0.6 km.
+
+The shores are low, overgrown with woodlands and bushes, and in places swampy.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Располагается в 30 км к северо-востоку от городского посёлка Россоны и в 3 км к северо-востоку от деревни Шерстово, посреди заболоченного массива, поросшего кустарником. Неподалёку от озера проходит российско-белорусская граница.
+
+Площадь поверхности водоёма составляет 0,02 км², длина — 0,2 км, наибольшая ширина — 0,15 км. Длина береговой линии — 0,6 км.
+
+Берега низкие, поросшие редколесьем и кустарником, местами заболоченные. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

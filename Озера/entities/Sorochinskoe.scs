@@ -1,4 +1,4 @@
-Q21867904
+Sorochinskoe
 => nrel_main_idtf:
 	[Sorochinskoe (lake)] (* <- lang_en;; *);
 	[Сорочинское (озеро)] (* <- lang_ru;; *);
@@ -12,13 +12,21 @@ Q21867904
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The surface area of ​​the reservoir is 0.13 km². Length - 0.88 km, maximum width - 0.48 km, length of the coastline - 1.91 km. The greatest depth is 8.4 m, the average is 5.62 m. The volume of water in the lake is 0.73 million m³. The catchment area is about 1 km².
+
+The basin of the lake is of a hollow type, elongated in the direction from north to south. The slopes are moderately steep, 10-12 m high. The shores mainly merge with the slopes of the basin. The coastline is slightly tortuous.
+
+In the northern part, a stream flows out of the lake and flows into the Lukomka River.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Площадь поверхности водоёма составляет 0,13 км². Длина — 0,88 км, наибольшая ширина — 0,48 км, длина береговой линии — 1,91 км. Наибольшая глубина — 8,4 м, средняя — 5,62 м. Объём воды в озере — 0,73 млн м³. Площадь водосбора — около 1 км².
+
+Котловина озера лощинного типа, вытянутая в направлении с севера на юг. Склоны умеренно крутые, высотой 10—12 м. Берега преимущественно сливаются со склонами котловины. Береговая линия слабоизвилистая.
+
+В северной части из озера вытекает ручей, впадающий в реку Лукомка. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

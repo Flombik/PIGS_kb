@@ -12,13 +12,13 @@ Svir_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Svir is experiencing significant stress associated with intensive human activities in the catchment. The lake is a large recreation center, a water intake for the reclamation network, and intensive industrial fishing is carried out on it. Ichthyofauna of the bream-pike lake. The reservoir was repeatedly stocked with silver carp, carp, carp, eel. There are roach, perch, ide, bleak, tench, burbot.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Свирь испытывает значительную нагрузку, связанную с интенсивной хозяйственной деятельностью человека на водосборе. Озеро является крупным центром рекреации, водоприемником мелиоративной сети, на нём ведется интенсивный промышленный лов рыбы. Ихтиофауна озера лещево-щучья. Водоем неоднократно зарыблялся серебряным карасем, сазаном, карпом, угрём. Обитают плотва, окунь, язь, уклейка, линь, налим. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

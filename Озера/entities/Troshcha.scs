@@ -1,4 +1,4 @@
-Q17094782
+Troshcha
 => nrel_main_idtf:
 	[Troshcha (lake)] (* <- lang_en;; *);
 	[Троща (озеро)] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q17094782
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Several streams flow into the lake, but it has no surface runoff.
+
+Lake Troshcha is mesotrophic with signs of oligotrophy. The water in the lake is highly transparent (up to 4.7 m) and oxygenated. Mineralization - up to 195 mg/l, color - 15 °.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[В озеро впадают несколько ручьёв, однако оно не имеет поверхностного стока.
+
+Озеро Троща — мезотрофное с признаками олиготрофии. Вода в озере отличается высокой прозрачностью (до 4,7 м) и насыщенностью кислородом. Минерализация — до 195 мг/л, цветность — 15°.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
