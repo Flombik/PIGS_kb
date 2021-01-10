@@ -12,13 +12,13 @@ Q3920234
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Latini is located in Myadel district Minsk region, 10 km on Northwest from the city Myadel, near d Lotva and belongs to the basin of Myadelka (D. tributary of Birveta). It is part of the Narochansky National Park. The Myadel-Postavy highway runs 0.3 km to the east.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Лотвины находится в Мядельском районе Минской обл., в 10 км на северо-запад от г. Мядель, возле д. Лотва и относится к бассейну р. Мяделка (пр. приток р. Бирвета). Входит в состав национального парка Нарочанский. В 0,3 км на восток проходит шоссе Мядель-Поставы. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

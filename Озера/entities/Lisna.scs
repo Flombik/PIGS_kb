@@ -12,13 +12,13 @@ Lisna
 		    ...
 			(*
 			-> rrel_example:
-				[lake in the Vierchniadzvinsk county, Viciebsk region, Belarus]
+				[The lake is located on the border of Verkhnedvinsky and Rossonsky districts, its northern part is the border with the Russian Federation. Lake Lisno has an area of 1602 hectares. Its southern and western banks are distinguished by a significant height (up to 30 m), in some places they form real cliffs.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро расположено на границе Верхнедвинского и Россонского районов, по его северной части проходит граница с Российской Федерацией. Озеро Лисно имеет площадь 1602 га. Его южный и западный берега отличаются значительной высотой (до 30 м), местами они образуют настоящие обрывы.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

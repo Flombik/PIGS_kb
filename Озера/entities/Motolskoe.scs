@@ -12,13 +12,13 @@ Q2039508
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Zaozerskoye (Motolskoye) is located in the Ivanovo district of the Brest region, 21 km north-east of Ivanovo, near the village of Motol and belongs to the basin of the river. Yaselda (left tributary of the Pripyat River), which flows through the lake. The area is hilly-ridged, overgrown with forest and shrubs, in the north-east and east is heavily swampy. The banks are low, sandy, overgrown with shrubs and woodlands, sometimes swampy. The shallow water is sandy, extensive, deeper than the bottom is sapropelic.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Заозерское (Мотольское) находится в Ивановском районе Брестской обл., в 21 км на северо-восток от г. Иваново, возле д. Мотоль и относится к бассейну р. Ясельда (лев. приток р. Припять), которая протекает через озеро. Местность холмисто-грядистая, поросшая лесом и кустарником, на северо-востоке и востоке сильно заболоченная. Берега низкие, песчаные, поросшие кустарникоми и редколесьем, местами заболоченные. Мелководье песчаное, обширное, глубже дно сапропелистое.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

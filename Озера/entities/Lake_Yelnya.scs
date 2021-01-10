@@ -12,13 +12,13 @@ Lake_Yelnya
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake is located in the Braslav district of the Vitebsk region, 3 km north-west of the town of Braslav, near d. Petuhova and belongs to the basin of Druyka. It is part of the Braslav Group of Lakes and the Braslav Lakes National Park. The banks are high sandy, overgrown with bushes, in the east with forest. Around the lake is a vast floodplain, swampy overgrown with shrubs and swamp vegetation.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Ельно находится в Браславском районе Витебской обл., в 3 км на северо-запад от г. Браслав, возле д. Петуховщина и относится к бассейну р. Друйка. Входит в Браславскую группу озер и в состав национального парка Браславские озера. Берега песчаные высокие, поросшие кустарником, на востоке лесом. Вокруг озера обширная пойма, заболоченная поросшая кустарником и болотной растительностью. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Q21865980
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Lokno is located in the Grodno region, 27 km east of the city of Grodno, near d. Lokno and belongs to the basin of the Berwenka River (left tributary of the Pyranka River). The area is mostly flat, sometimes ridge-hilly, overgrown with forest and shrubs, mostly swampy. In the south, the lake is bordered by a wide swampy floodplain, which is bordered by swampy meadows and arable land.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Локно расположено в Гродненском районе, в 27 км на восток от г. Гродно, возле д. Локно и относится к бассейну р. Бервенка (лев. приток р. Пыранка). Местность преимущественно равнинная, местами грядисто-холмистая, поросшая лесом и кустарником, больше частью болотистая. На юге озеро окаймлено широкой заболоченной поймой, к которой примыкают болотистые луга и пахотные земли.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

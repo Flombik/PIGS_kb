@@ -12,13 +12,14 @@ Q21391019
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake in the Gorodok district of the Vitebsk region of Belarus. Belongs to the basin of the river Oatmeal.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро в Городокском районе Витебской области Белоруссии. Относится к бассейну реки Овсянка.
+]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

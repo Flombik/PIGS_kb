@@ -12,13 +12,13 @@ Lake_Ezerische
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake ezerishe is located in Gorodok district, Vitebsk region, on the border with the Pskov region (Russian Federation), 42 km North of Town, near G. p. yezerishe and belongs to the basin of the Obol (D. tributary of Western Dvina), which is derived from it.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Езерище находится в Городокском районе Витебской обл., на границе с Псковской обл. (РФ), в 42 км на север от г. Городок, возле г.п. Езерище и относится к бассейну р. Оболь (пр. приток Западной Двины), которая вытекает из него.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

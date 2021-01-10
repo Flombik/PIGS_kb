@@ -12,13 +12,13 @@ Q21862966
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Manets is located in the Dokshitsky district of the Vitebsk region, 43 km south-east of Dokshitsy, about 2.9 km south-east of d. The settlement belongs to the basin of the Serguch River (a left tributary of the Berezina River), which flows through the lake. It is part of the Berezinsky Biosphere Reserve. The area is mostly flat, low-lying, swampy, difficult to pass, unpopulated. Around (except in the west) there are extensive woodlands.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Манец находится в Докшицком районе Витебской обл., в 43 км на юго-восток от г. Докшицы, примерно в 2,9 км на юго-восток от д. Слобода и относится к бассейну р. Сергуч (лев. приток р. Березина), которая протекает через озеро. Входит в состав Березинского биосферного заповедника. Местность преимущественно равнинная, низинная, болотистая, трудно проходимая, незаселенная. Вокруг (кроме запада) обширные лесные массивы. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

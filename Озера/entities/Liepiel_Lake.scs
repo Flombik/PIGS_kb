@@ -12,13 +12,13 @@ Liepiel_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Lepelskoye is located in the Lepel district of the Vitebsk region, on the eastern and northern outskirts of the city of Lepel. Occupies 3-e a place on the coastline, the 10-th place in depth, 13-th place by volume of water and 22-e a place on the water surface. It belongs to the Ulla River basin. The reservoir forms 3 vast zones that have retained their original names: Kustinskoe Lake (north), Beloe Lake (east), and Gorodskoe Lake (south). The banks are sandy, mostly low, overgrown with forest and shrubs, sometimes swampy.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Лепельское находится в Лепельском районе Витебской обл., на восточной и северной окраинах г. Лепель. Занимает 3-е место по протяженности береговой линии, 10-е место по глубине, 13-е место по объему воды и 22-е место по площади водного зеркала. Относится к бассейну р. Улла. Водоем образует 3 обширных зоны, сохранившие свои первозданные названия: Кустинское озеро (северная), Белое озеро (восточная), и Городское озеро (южная). Берега песчаные, преимущественно низкие, поросшие лесом и кустарником, местами заболоченные.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

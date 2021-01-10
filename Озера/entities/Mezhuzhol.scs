@@ -12,13 +12,13 @@ Q13029167
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Mezhuzhol is located in the Dokshitsky district of the Vitebsk region, 22 km north-east of Dokshitsy, between the tracts Podlavishche, Petrovschina and Medvezhy indent, about 0.45 km north-west of the village. Gornova. It belongs to the basin of the Berezina River. The area, mostly occupied by a vast upper swamp, is mostly flat, low-lying, densely overgrown with forest and shrubs, sometimes heavily swampy, difficult to pass, almost uninhabited. The surrounding forests are rich in cranberries, blueberries, cranberries, blueberries, wild blackberries.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Межужол находится в Докшицком районе Витебской обл., в 22 км на северо-восток от г. Докшицы, между урочищами Подлавище, Петровщина и Медвежий отступ, примерно в 0,45 км на северо-запад от д. Горново. Относится к бассейну р. Березина. Местность, большей частью занята обширным верховым болотом, вокруг преимущественно равнинная, низинная, густо заросшая лесом и кустарником, местами сильно заболоченная, труднопроходимая, почти незаселенная. Окрестные леса богаты клюквой, черникой, брусникой, голубикой, дикорастущей ежевикой. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

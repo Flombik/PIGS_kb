@@ -12,13 +12,13 @@ Q17047549
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Luctus located 8 km East from the town settlement of Ushachi, near the village Friday. Near the reservoir passes the republican highway R46 (Lepel-Polotsk-border of the Russian Federation).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Люкташ расположено в 8 км к востоку от городского посёлка Ушачи, рядом с деревней Пятницы. Рядом с водоёмом проходит республиканская автомобильная дорога Р46 (Лепель — Полоцк — граница Российской Федерации).]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

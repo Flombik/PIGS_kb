@@ -12,13 +12,13 @@ Q21862971
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Medzozol is located in the Dokshitsky district of the Vitebsk region, 18 km north-east of Dokshitsy, near the village of Biruli and belongs to the basin of the Berezina River (pr. tributary of the Dnieper River). The terrain is mostly flat, low-lying, sometimes ridged, swampy, around (except in the east) extensive woodlands. The lake is bordered by a wide (up to 100 m) mostly swampy floodplain, overgrown with wetland vegetation and rare shrubs. The coastline is complex, winding, and forms many bays.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Медзозол находится в Докшицком районе Витебской обл., в 18 км на северо-восток от г. Докшицы, возле д. Бирули и относится к бассейну р. Березина (пр. приток р. Днепр). Местность преимущественно равнинная, низинная, местами грядистая, болотистая, вокруг (кроме востока) обширные лесные массивы. Озеро окаймлено широкой (до 100 м) преимущественно заболоченной поймой, поросшей водно-болотной растительностью и редким кустарником. Береговая линия сложная, извилистая, образует множество заливов.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

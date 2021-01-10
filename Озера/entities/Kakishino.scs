@@ -12,13 +12,14 @@ Q17047434
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[lake in Belarus in the Lepel district, Vitebsk region. The lake is one of the deepest in the Republic of Belarus. The village is located near the village of Zagorci. 27 kilometers from the lake is the town of Lepel. The lake belongs to the basin of the river Dvina Zapadnoi. The terrain is mostly flat, low-lying, sometimes hilly.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[озеро в Белоруссии в Лепельском районе, Витебской области. Озеро является одним из самых глубоких в Республике Беларусь. Деревня находится неподалёку от деревни Загорцы. В 27 километра от озера находится город Лепель. Озеро относится к бассейну реки Западаной Двины.
+Местность преимущественно равнинная, низинная, местами холмистая.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

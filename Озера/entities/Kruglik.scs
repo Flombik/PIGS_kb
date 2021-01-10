@@ -12,13 +12,13 @@ Q4241916
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Kruglik Lake is located in the Shumilinsky district of the Vitebsk region, 5 km south of the town of Shumilino, about 0.3 km south of the village of Shumilino. Lakeside and belongs to the basin of the river Cecina (D. tributary of Zap. Dvina). The area is mostly hilly-ridged, overgrown with shrubs and sparsely wooded, swampy in places]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Круглик находится в Шумилинском районе Витебской обл., в 5 км на юг от г.п. Шумилино, примерно в 0,3 км на юг от д. Приозерная и относится к бассейну р. Сечна (пр. приток р. Зап. Двина). Местность преимущественно холмисто-грядистая, поросшая кустарником и редколесьем, местами болотистая]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

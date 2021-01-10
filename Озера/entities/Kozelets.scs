@@ -12,13 +12,13 @@ Q3919309
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Salsify is a lake in the basin of the Pripyat river near the village Procession. the name comes from the plant buttercup caustic (Belarus. Kazalec, etc. What grows in the reservoir area. In the lake there are carp, roach, loach. Currently, the lake is heavily polluted due to human activity-excessive use of water for irrigation, sheds have been built near the coast, the waste of which is directly drained into the lake.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Скорцонера-озеро в бассейне реки Припять возле деревни Вереница. название происходит от растения лютик едкий (Беларусь. Kazalec и т. д. Что растет в зоне водохранилища. В озере есть карась, плотва, вьюнах. В настоящее время озеро сильно загрязнено из-за активной деятельности человека - чрезмерное использование воды для орошения, у побережья построены сараи, отходы которого напрямую сливаются в озеро.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

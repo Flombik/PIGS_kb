@@ -12,13 +12,13 @@ Lake_Neshcharda
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[This reservoir is located 15 km east of Rosson. The lake belongs to the basin of the Neshcherda River, which flows out of it. The name, apparently, came from the Meshchera people, whose representatives once lived in these places. Around the lake there are several villages: Gorbachev, Baudino etc. Not far from the northern shore there is a highway connecting Rossony with Nevel (Pskov region). Neshcherdo is one of the largest reservoirs in the Vitebsk region: its area is 28.57 square kilometers, and the maximum depth is 8.1 m.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Этот водоем расположен в 15 км к востоку от Россон. Озеро относится к бассейну реки Нещерда, которая вытекает из него. Название, по всей видимости, произошло от народности «мещера», чьи представители некогда жили в этих местах.  Вокруг озера расположено несколько деревень: Горбачево, Байдино и др. Недалеко от северного берега проходит трасса, соединяющая Россоны с Невелем (Псковская область). Нещердо является одним из самых больших водоемов на территории Витебщины: его площадь составляет 28,57 кв.км, а максимальная глубина – 8,1 м.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

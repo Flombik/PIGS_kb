@@ -12,13 +12,13 @@ Q20873702
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Kryvyi Girov Lake is located in the Rechitsa district of the Gomel region, about 4 km east of Rechitsa, near the village of Rechitsa. Haymarket and belongs to the basin of the Dnieper River (actually located in its floodplain zone). It is a floodplain-type lake. The area is mostly flat (in the area of the lake in places hilly-ridged), overgrown with shrubs and forest, mostly swampy.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Кривой Гиров находится в Речицком районе Гомельской обл., примерно в 4 км на восток от г. Речица, возле д. Сенная и относится к бассейну р. Днепр (фактически расположено в ее пойменной зоне). Является озером пойменного типа. Местность преимущественно равнинная (в районе озера местами холмисто-грядистая), поросшая кустарником и лесом, большей частью болотистая]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
