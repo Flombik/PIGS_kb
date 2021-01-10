@@ -1,0 +1,25 @@
+Who_on_First_ID
+=> nrel_main_idtf:
+	[Who's on First ID] (* <- lang_en;; *);
+	[Who's on First ID] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Who's on First ID)] (* <-lang_en;; *);
+			[Опр.(Who's on First ID)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[identifier from the Who's on First database]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[идентификатор Who's]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

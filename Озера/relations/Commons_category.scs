@@ -1,0 +1,25 @@
+Commons_category
+=> nrel_main_idtf:
+	[Commons category] (* <- lang_en;; *);
+	[категория на Викискладе] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Commons category)] (* <-lang_en;; *);
+			[Опр.(категория на Викискладе)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[name of the Wikimedia Commons category containing files related to this item (without the prefix "Category:")]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[название категории в Wikimedia Commons (без префикса «Category:»)]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

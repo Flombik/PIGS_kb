@@ -1,0 +1,25 @@
+GeoNames_ID
+=> nrel_main_idtf:
+	[GeoNames ID] (* <- lang_en;; *);
+	[код GeoNames] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(GeoNames ID)] (* <-lang_en;; *);
+			[Опр.(код GeoNames)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[identifier in the GeoNames geographical database]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[идентификатор базы данных GeoNames]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

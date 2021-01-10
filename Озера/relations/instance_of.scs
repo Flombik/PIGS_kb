@@ -1,0 +1,25 @@
+instance_of
+=> nrel_main_idtf:
+	[instance of] (* <- lang_en;; *);
+	[это частный случай понятия] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(instance of)] (* <-lang_en;; *);
+			[Опр.(это частный случай понятия)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[that class of which this subject is a particular example and member]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[данный элемент представляет собой конкретный объект (экземпляр / частный случай) класса, категории. Не путать с Property:P279 ("подкласс от").]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

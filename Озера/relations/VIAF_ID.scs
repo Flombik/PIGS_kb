@@ -1,0 +1,25 @@
+VIAF_ID
+=> nrel_main_idtf:
+	[VIAF ID] (* <- lang_en;; *);
+	[код VIAF] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(VIAF ID)] (* <-lang_en;; *);
+			[Опр.(код VIAF)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[identifier for the Virtual International Authority File database [format: up to 22 digits]]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[идентификатор в международной базе данных нормативного контроля]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

@@ -1,0 +1,26 @@
+Druznianka
+=> nrel_main_idtf:
+	[Druznianka] (* <- lang_en;; *);
+	[Дружнянка] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Druznianka)] (* <-lang_en;; *);
+			[Опр.(Дружнянка)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[river in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,25 @@
+coordinate_location
+=> nrel_main_idtf:
+	[coordinate location] (* <- lang_en;; *);
+	[географические координаты] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(coordinate location)] (* <-lang_en;; *);
+			[Опр.(географические координаты)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[geocoordinates of the subject. For Earth, please note that only WGS84 coordinating system is supported at the moment]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[географические координаты данного предмета]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

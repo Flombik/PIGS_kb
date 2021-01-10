@@ -1,0 +1,26 @@
+Lake_Abakrytseli
+=> nrel_main_idtf:
+	[Abakryteli] (* <- lang_en;; *);
+	[Обокрители] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Abakryteli)] (* <-lang_en;; *);
+			[Опр.(Обокрители)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Белоруссии]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

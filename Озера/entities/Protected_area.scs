@@ -1,0 +1,26 @@
+Protected_area
+=> nrel_main_idtf:
+	[protected area] (* <- lang_en;; *);
+	[природоохранная зона] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(protected area)] (* <-lang_en;; *);
+			[Опр.(природоохранная зона)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[area which receives protection because of its recognized natural, ecological, or cultural values]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[природоохранная или культурная зона]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

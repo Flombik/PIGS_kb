@@ -1,0 +1,25 @@
+located_in_time_zone
+=> nrel_main_idtf:
+	[located in time zone] (* <- lang_en;; *);
+	[часовой пояс] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(located in time zone)] (* <-lang_en;; *);
+			[Опр.(часовой пояс)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[time zone for this item]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[статья Википедии про часовой пояс элемента]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

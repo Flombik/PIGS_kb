@@ -1,0 +1,33 @@
+Druksiai
+=> nrel_main_idtf:
+	[Druksiai] (* <- lang_en;; *);
+	[Дрисвяты] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Druksiai)] (* <-lang_en;; *);
+			[Опр.(Дрисвяты)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus and Lithuania]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Drūkšiai_image.JPG" (* => nrel_format: format_JPG;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

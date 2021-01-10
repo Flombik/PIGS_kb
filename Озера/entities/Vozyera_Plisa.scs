@@ -1,0 +1,26 @@
+Vozyera_Plisa
+=> nrel_main_idtf:
+	[Vozyera Plisa] (* <- lang_en;; *);
+	[Плисса (озеро, бассейн Мнюты)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vozyera Plisa)] (* <-lang_en;; *);
+			[Опр.(Плисса (озеро, бассейн Мнюты))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

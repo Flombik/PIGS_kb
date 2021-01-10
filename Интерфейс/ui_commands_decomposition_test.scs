@@ -1,0 +1,3 @@
+//Сюда добовляем новый пункт меню
+ui_commands_decomposition_test
+	-> ui_menu_na_keynodes;;

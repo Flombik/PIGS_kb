@@ -1,0 +1,25 @@
+basin_country
+=> nrel_main_idtf:
+	[basin country] (* <- lang_en;; *);
+	[бассейн объекта в странах] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(basin country)] (* <-lang_en;; *);
+			[Опр.(бассейн объекта в странах)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[country that have drainage to/from or border the body of water]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

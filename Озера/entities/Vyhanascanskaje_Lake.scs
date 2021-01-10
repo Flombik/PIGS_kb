@@ -1,0 +1,33 @@
+Vyhanascanskaje_Lake
+=> nrel_main_idtf:
+	[Vyhanascanskaje] (* <- lang_en;; *);
+	[Выгонощанское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vyhanascanskaje)] (* <-lang_en;; *);
+			[Опр.(Выгонощанское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Белоруссии]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Vyhanaščanskaje_Lake_image.JPG" (* => nrel_format: format_JPG;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

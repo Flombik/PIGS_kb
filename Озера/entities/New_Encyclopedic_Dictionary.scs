@@ -1,0 +1,26 @@
+New_Encyclopedic_Dictionary
+=> nrel_main_idtf:
+	[New Encyclopedic Dictionary] (* <- lang_en;; *);
+	[Новый энциклопедический словарь] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(New Encyclopedic Dictionary)] (* <-lang_en;; *);
+			[Опр.(Новый энциклопедический словарь)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Russian dictionary published in 1911—1916]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[русское справочное издание 1911—1916 годов]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

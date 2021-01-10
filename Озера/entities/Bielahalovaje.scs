@@ -1,0 +1,26 @@
+Bielahalovaje
+=> nrel_main_idtf:
+	[Bielahalovaje] (* <- lang_en;; *);
+	[Белоголовое] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Bielahalovaje)] (* <-lang_en;; *);
+			[Опр.(Белоголовое)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Белоруссии]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

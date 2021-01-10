@@ -1,0 +1,33 @@
+Grodno_Region
+=> nrel_main_idtf:
+	[Grodno Region] (* <- lang_en;; *);
+	[Гродненская область] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Grodno Region)] (* <-lang_en;; *);
+			[Опр.(Гродненская область)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[administrative division (voblast) in western Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[область на северо-западе Белоруссии, граничит с Польшей и Литвой]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Grodno_Region_image.svg" (* => nrel_format: format_svg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

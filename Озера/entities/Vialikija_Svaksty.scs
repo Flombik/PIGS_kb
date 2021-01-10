@@ -1,0 +1,26 @@
+Vialikija_Svaksty
+=> nrel_main_idtf:
+	[Vialikija Svaksty] (* <- lang_en;; *);
+	[Большие Швакшты] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vialikija Svaksty)] (* <-lang_en;; *);
+			[Опр.(Большие Швакшты)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Белоруссии]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

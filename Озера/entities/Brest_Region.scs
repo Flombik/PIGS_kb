@@ -1,0 +1,33 @@
+Brest_Region
+=> nrel_main_idtf:
+	[Brest Region] (* <- lang_en;; *);
+	[Брестская область] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Brest Region)] (* <-lang_en;; *);
+			[Опр.(Брестская область)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[administrative divison (voblast) in southwestern Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[область Белоруссии]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Brest_Region_image.png" (* => nrel_format: format_png;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

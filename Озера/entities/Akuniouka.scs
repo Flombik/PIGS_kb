@@ -1,0 +1,26 @@
+Akuniouka
+=> nrel_main_idtf:
+	[Akuniouka] (* <- lang_en;; *);
+	[Акунёўка] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Akuniouka)] (* <-lang_en;; *);
+			[Опр.(Акунёўка)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[river in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

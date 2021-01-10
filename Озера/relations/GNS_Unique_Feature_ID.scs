@@ -1,0 +1,25 @@
+GNS_Unique_Feature_ID
+=> nrel_main_idtf:
+	[GNS Unique Feature ID] (* <- lang_en;; *);
+	[код GNS] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(GNS Unique Feature ID)] (* <-lang_en;; *);
+			[Опр.(код GNS)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[identifier for geographic entities according to the National Geospatial-Intelligence Agency's GEOnet Names Server]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[National Geospatial-Intelligence Agency's GEOnet Names Server]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

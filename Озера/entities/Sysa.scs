@@ -1,0 +1,26 @@
+Sysa
+=> nrel_main_idtf:
+	[Sysa] (* <- lang_en;; *);
+	[Шиша (река, впадает в Межу)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Sysa)] (* <-lang_en;; *);
+			[Опр.(Шиша (река, впадает в Межу))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[river in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

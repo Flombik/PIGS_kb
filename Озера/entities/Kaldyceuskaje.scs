@@ -1,0 +1,26 @@
+Kaldyceuskaje
+=> nrel_main_idtf:
+	[Kaldyceuskaje] (* <- lang_en;; *);
+	[Колдычевское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Kaldyceuskaje)] (* <-lang_en;; *);
+			[Опр.(Колдычевское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

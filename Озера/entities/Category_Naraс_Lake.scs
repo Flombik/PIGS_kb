@@ -1,0 +1,26 @@
+Category_Narac_Lake
+=> nrel_main_idtf:
+	[Category:Naraс Lake] (* <- lang_en;; *);
+	[Категория: Озеро Нарочь] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Category:Naraс Lake)] (* <-lang_en;; *);
+			[Опр.(Категория: Озеро Нарочь)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Wikimedia category]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[категория в проекте Викимедиа]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,33 @@
+Brockhaus_and_Efron_Encyclopedic_Dictionary
+=> nrel_main_idtf:
+	[Brockhaus and Efron Encyclopedic Dictionary] (* <- lang_en;; *);
+	[Энциклопедический словарь Брокгауза и Ефрона, 1890—1907] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Brockhaus and Efron Encyclopedic Dictionary)] (* <-lang_en;; *);
+			[Опр.(Энциклопедический словарь Брокгауза и Ефрона, 1890—1907)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[comprehensive multi-volume encyclopedia in Russian]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[российская энциклопедия, изданная в 1890—1907 годах]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Brockhaus_and_Efron_Encyclopedic_Dictionary_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

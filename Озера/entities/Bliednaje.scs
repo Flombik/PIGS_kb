@@ -1,0 +1,33 @@
+Bliednaje
+=> nrel_main_idtf:
+	[Bliednaje] (* <- lang_en;; *);
+	[Бледное] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Bliednaje)] (* <-lang_en;; *);
+			[Опр.(Бледное)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Мядельском районе Минской области]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Bliednaje_image.JPG" (* => nrel_format: format_JPG;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

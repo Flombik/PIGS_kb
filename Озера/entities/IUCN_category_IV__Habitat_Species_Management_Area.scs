@@ -1,0 +1,26 @@
+IUCN_category_IV__Habitat_Species_Management_Area
+=> nrel_main_idtf:
+	[IUCN category IV: Habitat/Species Management Area] (* <- lang_en;; *);
+	[категория МСОП IV: заказник] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(IUCN category IV: Habitat/Species Management Area)] (* <-lang_en;; *);
+			[Опр.(категория МСОП IV: заказник)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[IUCN protected area category]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[сохранение местообитаний и видов через активное управление]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,26 @@
+Ozero_Rybnitsa
+=> nrel_main_idtf:
+	[Ozero Rybnitsa] (* <- lang_en;; *);
+	[Рыбница (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Ozero Rybnitsa)] (* <-lang_en;; *);
+			[Опр.(Рыбница (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

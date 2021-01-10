@@ -1,0 +1,25 @@
+volume_as_quantity
+=> nrel_main_idtf:
+	[volume as quantity] (* <- lang_en;; *);
+	[объём] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(volume as quantity)] (* <-lang_en;; *);
+			[Опр.(объём)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[quantity of three-dimensional space]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[мера измерения трёхмерной фигуры]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

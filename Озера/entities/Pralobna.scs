@@ -1,0 +1,26 @@
+Pralobna
+=> nrel_main_idtf:
+	[Pralobna] (* <- lang_en;; *);
+	[Пролобно] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Pralobna)] (* <-lang_en;; *);
+			[Опр.(Пролобно)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus and Russia]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Белоруссии и России]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

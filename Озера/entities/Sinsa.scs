@@ -1,0 +1,26 @@
+Sinsa
+=> nrel_main_idtf:
+	[Sinsa] (* <- lang_en;; *);
+	[Синьша] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Sinsa)] (* <-lang_en;; *);
+			[Опр.(Синьша)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus and Russia]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Россонском районе Витебской области Белоруссии и Невельском районе Псковской области России]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

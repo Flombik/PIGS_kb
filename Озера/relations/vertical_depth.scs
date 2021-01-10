@@ -1,0 +1,25 @@
+vertical_depth
+=> nrel_main_idtf:
+	[vertical depth] (* <- lang_en;; *);
+	[вертикальная глубина] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(vertical depth)] (* <-lang_en;; *);
+			[Опр.(вертикальная глубина)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[vertical distance from a horizontal area to a point below. Compare with "horizontal depth" (P5524)]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[расстояние между горизонтальным уровнем и точкой ниже него]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

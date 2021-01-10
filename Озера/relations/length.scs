@@ -1,0 +1,25 @@
+length
+=> nrel_main_idtf:
+	[length] (* <- lang_en;; *);
+	[длина] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(length)] (* <-lang_en;; *);
+			[Опр.(длина)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[measured dimension of an object]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[линейное измерение объекта]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

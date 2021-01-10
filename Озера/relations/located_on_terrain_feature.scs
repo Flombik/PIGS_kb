@@ -1,0 +1,25 @@
+located_on_terrain_feature
+=> nrel_main_idtf:
+	[located on terrain feature] (* <- lang_en;; *);
+	[находится в пределах природно-географического объекта] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(located on terrain feature)] (* <-lang_en;; *);
+			[Опр.(находится в пределах природно-географического объекта)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[located on the specified landform. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552).]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[место расположено на территории некого водоёма или элемента ландшафта (значения свойства не должны быть единицами административно-территориального деления)]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

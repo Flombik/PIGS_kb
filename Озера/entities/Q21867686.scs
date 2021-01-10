@@ -1,0 +1,33 @@
+Q21867686
+=> nrel_main_idtf:
+	[None] (* <- lang_en;; *);
+	[Кармановское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(None)] (* <-lang_en;; *);
+			[Опр.(Кармановское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Q21867686_image.JPG" (* => nrel_format: format_JPG;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

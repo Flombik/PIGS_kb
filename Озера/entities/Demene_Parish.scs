@@ -1,0 +1,26 @@
+Demene_Parish
+=> nrel_main_idtf:
+	[Demene Parish] (* <- lang_en;; *);
+	[Деменская волость] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Demene Parish)] (* <-lang_en;; *);
+			[Опр.(Деменская волость)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;
