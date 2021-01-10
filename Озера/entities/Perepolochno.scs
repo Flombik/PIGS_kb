@@ -12,13 +12,13 @@ Q18907666
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Perevolochno is located in the Orsha district of the Vitebsk region, 24 km north of the city of Orsha, about 1.5 km south-west of the village Lisovskie and belongs to the basin of the river. Orshitsa (pr. Tributary of the Dnieper river). The terrain is flat, in places ridge, overgrown with forest and bushes, swampy in the east. The shores are mostly low, sandy, overgrown with bushes, in places with forests. Grows moderately. The lake is inhabited by perch, roach, bream, crucian carp, tench, pike and other fish. Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Переволочно находится в Оршанском районе Витебской обл., в 24 км на север от г. Орша, примерно в 1,5 км на юго-запад от д. Лисовские и относится к бассейну р. Оршица (пр. приток р. Днепр). Местность равнинная, местами грядистая, заросшая лесом и кустарником, на востоке болотистая. Берега преимущественно низкие, песчаные поросшие кустарником, местами лесом. Зарастает умеренно. В озере обитают окунь, плотва, лещ, карась, линь, щука и др. рыба. Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

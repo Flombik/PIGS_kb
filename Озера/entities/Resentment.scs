@@ -12,13 +12,13 @@ Q13029077
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Obida is located in the Krupsky District. Minsk region, 30 km north of the town of Krupki, between the villages of Bolshiye Kholnevichi, Kholnevichi and Malye Kholnevichi. Refers to the river basin. Yugna flowing from the lake (pr. Tributary of the Lukomka river). It is a part of the state landscape reserve of republican significance "Selyava". The terrain is ridged, in places overgrown with bushes, in the south-west and north-east there are vast forests. The shores are low, sandy, overgrown with shrubs and woodlands, swampy in the southeast. The shallow waters are narrow, sandy along the shores (clayey in areas), deeper the bottom is clayey-silty and sapropelous.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Обида находится в Крупском р-не. Минской обл., в 30 км на север от г. Крупки, между деревнями Большие Хольневичи, Хольневичи и Малые Хольневичи. Относится к бассейну р. Югна, вытекающей из озера (пр. приток р. Лукомка). Входит в состав государственного ландшафтного заказника республиканского значения "Селява". Местность грядистая, местами поросшая кустарником, на юго-западе и северо-востоке обширные лесные массивы. Берега низкие, песчаные, поросшие кустарником и редколесьем, на юго-востоке заболоченные. Мелководье узкое, вдоль берегов песчаное (участками глинистое), глубже дно глинисто-илистое и сапропелистое.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

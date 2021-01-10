@@ -12,13 +12,30 @@ Q21866421
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Osotno is located in the Gorodok district of the Vitebsk region,
+				1.2 km from the border with the Pskov region. (RF), 38 km north-west of the town of Gorodok,
+				about 2.2 km north-west of the village of Moiseevo and belongs to the river basin. Chernets.
+				The shores are mostly high (low in the north and north-west), sandy, overgrown with bushes,
+				in places with forest. It grows poorly. The terrain is ridge-hilly, swampy, overgrown with forest,
+				woodland and shrubs. The surrounding forests are rich in blueberries,
+				lingonberries, cranberries and mushrooms. In the north, it is connected by streams with the lake.
+				Big Tobols and r. Chernets. The lake is inhabited by bream, pike, roach, tench, rudd, perch and other fish.
+				Commercial fishing is carried out. Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Осотно расположено в Городокском районе Витебской обл.,
+				в 1,2 км от границы с Псковской обл. (РФ), в 38 км на северо-запад от г. Городок, примерно в 2,2 км
+				на северо-запад от д. Моисеево и относится к бассейну р. Чернец.
+				Берега преимущественно высокие (на севере исеверо-западе низкие),
+				песчаные, поросшие кустарником, местами лесом. Зарастает слабо.
+				Местность грядисто-холмистая, болотистая, поросшая лесом, редколесьем и кустарником.
+				Окрестные леса богаты черникой, брусникой, клюквой, а также грибами.
+				На севере соединено ручьями с оз. Большие Тоболы и р. Чернец.
+				В озере обитают лещ, щука, плотва, линь, красноперка, окунь и др. рыба.
+				Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,21 @@ Q17094444
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Nesino is located in the Lepel district of the Vitebsk region. 22 km north-east of Lepel, near the village of Nesino.
+				 Refers to the river basin. Lukomka.
+				 The terrain is hilly, overgrown with shrubs and woodlands, in places swampy, around the lake there are small forests.
+				  The lake (except for the east) is bordered by a high (up to 15 m) ridge, overgrown with bushes, in places with light woods.
+				   The shores are mostly low, sandy, overgrown with bushes, in the south-west in places with forests.
+				   The shallow water is narrow (wider in the south and in the bays), sandy, the bottom is silty deeper.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Несино находится в Лепельском районе Витебской обл. в 22 км на северо-восток от г. Лепель, возле д. Несино.
+				 Относится к бассейну р. Лукомка. Местность холмистая, поросшая кустарником и редколесьем, местами болотистая, вокруг озера расположены небольшие лесные массивы.
+				  Озеро (кроме востока) окаймлено высокой (до 15 м) грядой, поросшей кустарником, местами редколесьем. Берега преимущественно низкие, песчаные, поросшие кустарником, на юго-западе местами лесом.
+				   Мелководье узкое (на юге и в заливах шире), песчаное, глубже дно илистое.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

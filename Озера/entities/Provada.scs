@@ -12,13 +12,13 @@ Q20010566
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Providing is located in the Ushachsky district of the Vitebsk region, 23 km south-east of the town. Ushachi, about 0.6 km northeast of the lake. Otolovo, near the Provada farm (abandoned) and belongs to the river basin. Turovlyanka (left tributary of the Zap. Dvina river). The terrain is predominantly ridge-hilly, in places overgrown with forest and bushes, in places swampy. The shores are sandy, mostly high, overgrown with bushes, in places with forests. It grows slightly.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Проводы находится в Ушачском районе Витебской обл., в 23 км на юго-восток от г.п. Ушачи, примерно в 0,6 км на северо-восток от оз. Отолово, возле хутора Провады (заброшенный) и относится к бассейну р. Туровлянка (лев. приток р. Зап. Двина). Местность преимущественно грядисто-холмистая, местами поросшая лесом и кустарником, местами болотистая. Берега песчаные, преимущественно возвышенные, поросшие кустарником, местами лесом. Зарастает незначительно.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

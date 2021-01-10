@@ -12,13 +12,13 @@ Q13029093
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Ostrovno is located in the Lepel district of the Vitebsk region, 22 km northeast of Lepel, near the village of Pozemshchina and belongs to the basin of the river. Diva (called Turovlyanka in the lower reaches). The terrain is predominantly hilly-ridged, overgrown with shrubs and woodlands, in places swampy, in the west there is a vast forest. The shores are predominantly elevated (low in the east and north-east), sandy, overgrown with bushes, in places with light forests.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Островно находится в Лепельском районе Витебской обл., в 22 км на северо-восток от г. Лепель, возле д. Поземщина и относится к бассейну р. Дива (в нижнем течении называется Туровлянка). Местность преимущественно холмисто-грядистая, поросшая кустарником и редколесьем, местами болотистая, на западе расположен обширный лесной массив. Берега преимущественно возвышенные (на востоке и северо-востоке низкие), песчаные, поросшие кустарником, местами редколесьем. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

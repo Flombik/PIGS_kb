@@ -12,13 +12,13 @@ Q19799297
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Pasuzha is located in the Polotsk district of the Vitebsk region, 30 km northeast of the city of Polotsk, about 1.4 km east of the village of Konny Bor and belongs to the river basin. Polota (pr. Tributary of the Zap. Dvina river). The terrain is hilly-ridged, overgrown with dense forest, in places strongly swampy, almost uninhabited. The shores are low, overgrown with forest and bushes, in places swampy. In the southwest, a stream flows into the river. Suffering. The lake is inhabited by perch, roach, bream, pike, tench, rudd, and other fish. Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[Озеро в Белоруссии]
+				[Озеро Пасужа расположено в Полоцком районе Витебской обл., в 30 км на северо-восток от г. Полоцк, примерно в 1,4 км на восток от д. Конный Бор и относится к бассейну р. Полота (пр. приток р. Зап. Двина). Местность холмисто-грядистая, заросшая густым лесом, местами сильно заболоченная, почти незаселенная. Берега низкие, заросшие лесом и кустарником, местами заболоченные. На юго-западе вытекает ручей в р. Страдань. В озере обитают окунь, плотва, лещ, щука, линь, красноперка, и др. рыба. Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

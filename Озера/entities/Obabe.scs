@@ -12,13 +12,22 @@ Q13029076
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[16 kilometers northeast of the city of Braslav, on the territory of the NP "Braslav Lakes",
+				near the village of Obabye, there is a lake of the same name - Obabye.
+				The lake belongs to the basin of the Druyka River, which is a left tributary of
+				the Western Dvina River. It is connected by narrow channels in the north with Lake Dubro,
+				in the east with Lake Dubrok and in the west with Lake Yelnya Bolshaya. 2 streams flow
+				into Lake Obabe and the Obabitsa River flows out in the south.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[В 16 километрах на северо-востоке от города Браслав, на территории НП «Браславские озера»,
+				возле деревни Обабье расположилось озеро с одноименным названием – Обабье. Относиться озеро
+				к бассейну реки Друйка, которая является левым притоком реки Западная Двина.
+				Узкими протоками соединено на севере с озером Дубро, на востоке – с озером Дуброк
+				и на западе – с озером Ельня Большая. В озеро Обабье впадают 2 ручья и вытекает река Обабица на юге.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

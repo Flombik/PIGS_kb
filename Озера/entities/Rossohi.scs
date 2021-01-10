@@ -13,13 +13,13 @@ Rossokhi (lake)] (* <- lang_en;; *);
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Rossokhi is located in the Myadel district of the Minsk region, 9.5 km north-west of the town of Myadel, near the village of Rossokhi and belongs to the basin of the river. Myadelka (pr. Tributary of the Birveta river). The Myadel-Postavy highway runs 1.2 km to the east. It is part of the Narochansky National Park. The terrain is predominantly flat, in places ridge-hilly, with small forests, copses and forest plantations, in places swampy. The shores are mostly low, sandy (clayey in places), overgrown with bushes. The shallow water is narrow (wider in the bays and in the south), sandy, deeper the bottom is sapropelous.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Россохи находится в Мядельском районе Минской обл., в 9,5 км на северо-запад от г. Мядель, возле д. Россохи и относится к бассейну р. Мяделка (пр. приток р. Бирвета). В 1,2 км на восток проходит шоссе Мядель-Поставы. Входит в состав национального парка Нарочанский. Местность преимущественно равнинная, местами грядисто-холмистая, с небольшими лесными массивами, перелесками и лесопосадками, местами болотистая. Берега преимущественно низкие, песчаные (местами глинистые), поросшие кустарником. Мелководье узкое (в заливах и на юге шире), песчаное, глубже дно сапропелистое.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
