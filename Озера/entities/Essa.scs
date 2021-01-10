@@ -12,13 +12,13 @@ Q2045172
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[Essa is a river in Krupsky district of Minsk oblast and Lepelsky and Chashniksky districts of Vitebsk oblast. The length is 84 km, the basin area is 1040 km2, the average annual flow rate at the mouth is 7.28 m3 / s. The source of the river is in the Krupsky district. River flows in Verkhnebureinskiy lowland and Ushachi-Lepel hills. In the upper reaches for 38 km, the river is canalized, width-2-5 m in the upper reaches, up to 12 m in the lower reaches. It flows into Lake Lepelskoye (Ulla basin). It starts 0.6 km south of d. Dvor-Peresika (Krupsky district). The average slope of the water surface is 0.4 %. The main tributaries: Derazhenka, Bona, Svyaditsa (right), Birch (left), the density of the river network is 0.4 km/km2. The relief is slightly hilly, composed of moraine deposits — sand and clay. Lake content of 1 %. Forests (48 %) are mixed, with a predominance of coniferous species, distributed mainly in the lower part of the catchment area. 40 % under plowing.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[река в Белоруссии]
+				[Э́сса— река в Крупском районе Минской области и Лепельском и Чашникском районах Витебской области. Длина — 84 км, площадь бассейна — 1040 км², среднегодовой расход воды в устье — 7,28 м³/с. Истоки реки — в Крупском районе. Протекает река по Верхнеберезинской низменности и Ушачско-Лепельской возвышенности. В верхнем течении на протяжении 38 км река канализирована, ширина — 2—5 м в верховьях, до 12 м в низовьях. Впадает в озеро Лепельское (бассейн Уллы). Начинается в 0,6 км на юг от д. Двор-Пересика (Крупский район). Средний наклон водной поверхности 0,4 ‰. Основные притоки: Дераженка, Бойна, Свядица (справа), Береща (слева), густота речной сети 0,4 км/км². Рельеф слабохолмистый, сложенный из моренных отложений — песка и глин. Озёрность 1 %. Леса (48 %) смешанные, с преобладанием хвойных пород, распространены в основном в нижней части водосбора. 40 % под пахотой. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Homiel_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Gomel (Belarus. Gomel) is a lake in the Polotsk district of the Vitebsk region, near the agro-town of Gomel. Area of 3.46 km2, maximum depth 23 m and length of 3.4 km, maximum width 1.2 km, shoreline length of 11.7 km, a water volume of 19.01 million m3. The catchment area is 744 km2.In the basin Turbelance, 18 km South of the city of Polotsk, a part of Usha group of lakes. The slopes of the basin are 4-8 m high, on the SE up to 18 m, mostly plowed, in the lower part overgrown with shrubs. The banks are sandy, partly pebbly and stony, the bottom of the northern reach is flat, the southern one is deeper, leucoid with steep slopes. The shallow water is sandy and sandy-pebble. In the southern Bay, the island has an area of 0.1 hectares. Flows into the Creek from the lake Kanasi, connected by a channel to lake Maty. Flow through the channel into Lake Suya. The width of the overgrowth strip is up to 100 m.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Гомель (белор. Гомель) — озеро в Полоцком районе Витебской обл, возле агрогородка Гомель.Площадь 3,46 км², максимальная глубина 23 м, длина 3,4 км, наибольшая ширина 1,2 км, длина береговой линии 11,7 км, объём воды 19,01 млн м³. Площадь водосбора 744 км².В бассейне реки Туровлянка, в 18 км к югу от города Полоцка, в составе Ушачской группы озёр. Склоны котловины высотой 4-8 м, на ЮВ до 18 м, преимущественно распаханные, в нижней части заросли кустарником. Берега песчаные, частично галечные и каменистые, дно северного плёса плоское, южного — более глубокое, лейкообразное с крутыми склонами. Мелководье песчаное и песчано-галечное. В южном заливе остров площадью 0,1 га. Впадает ручей из озера Конаши, соединено протокой с озером Щаты. Сток по протоке в озеро Суя. Ширина полосы зарастания до 100 м.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

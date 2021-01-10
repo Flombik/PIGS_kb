@@ -12,13 +12,13 @@ Batoryna
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Batorino is located in the Myadel district of the Minsk region, adjacent to the southern outskirts of Myadel between the villages of Kruti, Azarki and Shikovichi, and belongs to the Naroch River basin. It is part of the Narochansky group of lakes and the Narochansky National Park. The area is hilly, overgrown with sparse woodlands and shrubs, in the south and south-west of the lake is adjacent to a vast forest area. The banks are mostly low, swampy, overgrown with woodlands and shrubs, sometimes forest. In the north-west there is a vast swampy floodplain that turns into a swamp. The shallow water is narrow (extensive in the northeast), sandy and sandy-muddy. The greatest depths are located in the center of the narrowing neck of the lake, opposite the village of Shikovichi. Overgrown strongly. The lake is a water intake of swamp waters (about 10 reclamation channels and 3 streams flow into it). In the north-west it is connected by a wide channel with Lake Myastro, in the south by a narrow channel with Lake oz. Azarko (nameless). The lake is home to pike, bream, tench, roach, rudd, perch and other fish.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро Баторино находится в Мядельском районе Минской обл., примыкает к южной окраине г. Мядель между деревнями Крути, Азарки и Шиковичи, и относится к бассейну р. Нарочь. Входит в Нарочанскую группу озер и в состав национального парка "Нарочанский". Местность грядисто-холмистая, поросшая редколесьем и кустарником, на юге и юго-западе к озеру примыкает обширный лесной массив. Берега преимущественно низкие, заболоченные, поросшие редколесьем и кустарником, местами лесом. На северо-западе обширная заболоченная пойма, переходящая в болото. Мелководье узкое (на северо-востоке обширное), песчаное и песчано-илистое. Наибольшие глубины находятся в центре сужающейся горловины озера, напротив д. Шиковичи. Зарастает сильно. Озеро является водоприемником болотных вод (впадают около 10 мелиоративных каналов и 3 ручья). На северо-западе соединено широкой протокой с озером Мястро, на юге узкой протокой с оз. Азарки (безымянное). В озере обитают щука, лещ, линь, плотва, красноперка, окунь и др. рыба. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

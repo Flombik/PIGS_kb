@@ -12,13 +12,13 @@ Q13667890
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Busnezhye is located in the Rechitsa district of the Gomel region, about 5 km east of Rechitsa, about 1.4 km south-west of d. Kopan and belongs to the basin of the Dnieper River (actually located in its floodplain zone). It is a floodplain-type lake. The terrain is mostly flat, sometimes hilly-ridged, overgrown with shrubs and sparse woodlands, mostly swampy. To the east is a vast forest area. It is connected by narrow channels to 2 unnamed old lakes (in the north and south-east) and the Dnieper River (in the west).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Буснежье находится в Речицком районе Гомельской обл., примерно в 5 км на восток от г. Речица, примерно в 1,4 км на юго-запад от д. Копань и относится к бассейну р. Днепр (фактически расположено в ее пойменной зоне). Является озером пойменного типа. Местность преимущественно равнинная, местами холмисто-грядистая, поросшая кустарником и редколесьем, большей частью болотистая. На востоке расположен обширный лесной массив. Узкими протоками соединено с 2 безымянными старичными озерами (на севере и юго-востоке) и р. Днепр (на западе).]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Bliednaje
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Blednoye (White, Blyado) is a lake in the Myadelsky district of the Minsk region, part of the Naroch group. The lake with a mirror area of 1.95 km2 lies to the south of the village of Gatovichi. The catchment area is 4.72 km2, the maximum depth is 8.1 m, the length of the coastline is 6 km.Unlike other Naroch lakes, Pale is drainless.The shores of the lake are mostly sandy, the slopes of the basin are 2-5 m high, at a depth below 3 m — sapropel. The width of the coastal thickets is up to 180 m, aquatic plants are found up to a depth of 2 m. The sibilant swan nests on the banks. The area of the lake is included in the hydrological reserve "Cheremshitsy", part of the national Park "Narochansky".Now the water level in the lake has slightly increased. There is a natural beach on the shores of the lake. This is one of the favorite places for swimming, fishing, picnics and even sunbathing among Minsk residents. Nearby is the sanatorium "Sosny". There is an access road. There are plentiful berry fields nearby.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Мядельском районе Минской области]
+				[Бледное (Белое, Блядо) — озеро в Мядельском районе Минской области, входит в Нарочанскую группу. Озеро с площадью зеркала 1,95 км² лежит к югу от деревни Гатовичи. Площадь водосбора — 4,72 км², максимальная глубина — 8,1 м, длина береговой линии — 6 км.В отличие от других Нарочанских озёр, Бледное бессточно.Берега озера — преимущественно песчаные, склоны котловины высотой 2-5 м, на глубине ниже 3 м — сапропель. Ширина прибережных зарослей до 180 м, водные растения встречаются до глубины 2 м. На берегах гнездуется лебедь-шипун. Район озера входит в гидрологический заказник «Черемшицы», часть национального парка «Нарочанский».Сейчас уровень воды в озере немного повысился. На берегах озера существует естественный пляж. Это одно из любимых мест для купания, рыбалки, пикников и даже загара среди минчан. Рядом расположен санаторий «Сосны». Существует подъездная дорога. Рядом обильные ягодники.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

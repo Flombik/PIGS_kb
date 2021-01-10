@@ -12,13 +12,13 @@ Q2666609
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Glublya is located in the Myadel district of the Minsk region, 35 km north-west of Myadel, 2 km north-east of d. Olshevo, within the boundaries of the Blue Lakes landscape Reserve. Belongs to the basin of the river Stracha (D. a tributary of the river Viliya). Area 0.47 km2. Length 1.15 km, maximum width 0.51 km, maximum depth 26.8 m, average 10.4 m. The slopes of the basin are up to 20-35 m high, sandy, covered with forest. The banks are mostly elevated (in the south and north-west low, swampy), sandy, overgrown with shrubs, sometimes forest. The shallow water is narrow (wider in the south and west), sandy, and the bottom is deeper sapropelic. The shallow water is narrow, sandy, and the bottom is lined with sapropels. The stream flows from the lake Glubelka, the stream flows into the Country. Overgrown with underwater vegetation to a depth of 7 m. The lake is home to perch, roach, bream, pike, tench and other fish. It is forbidden to use watercraft with motors and boats.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Глубля находится в Мядельском районе Минской обл., в 35 км на северо-запад от г. Мядель, за 2 км на северо-восток от д. Ольшево, в границах ландшафтного заказника Голубые озера. Относится к бассейну р. Страча (пр. приток р. Вилия). Площадь 0,47 км2. Длина 1,15 км, максимальная ширина 0,51 км, максимальная глубина 26,8 м, средняя 10,4 м. Склоны котловины высотой до 20 - 35 м, песчаные, покрыты лесом. Берега преимущественно возвышенные (на юге и северо-западе низкие, заболоченные), песчаные, поросшие кустарником, местами лесом. Мелководье узкое (на юге и западе шире), песчаное, глубже дно сапропелистое. Мелководье узкое, песчаное, глубже дно выстлано сапропелями. Впадает ручей из озера Глубелька, вытекает ручей в Страну. Зарастает подводной растительностью до глубины 7 м. В озере обитают окунь, плотва, лещ, щука, линь и др. рыба. Запрещено использование плавсредств с моторами и катеров.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

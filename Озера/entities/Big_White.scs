@@ -12,13 +12,13 @@ Q21864589
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Bolshoe Beloe is located in the Polotsk district of the Vitebsk region, 1.8 km from the border with the Pskov region (Russia), 51 km north-east of Polotsk, 0.7 km south-west of the village of Belaya, from the south-west adjacent to the tract Titovschina. It belongs to the basin of the Zap River. Dvina. The area is difficult to access, densely forested, and heavily swampy. The lake is eutrophic. The banks are high (low in the north and south-west), overgrown with forest and shrubs. The shallow water is sandy, narrow (in the southern bays it is extensive, the bottom is deeper muddy and sapropelic. Water transparency up to 4 m (in summer). Separated from the lake. Small White narrow isthmus, overgrown with forest. On the lake there is a small island with an area of 0.1 hectares. In the north, it is connected by a narrow channel to the lake. A nail. The lake is home to pike, bream, walleye, tench, roach, rudd, perch and other fish. Commercial fishing is carried out. Paid amateur fishing is organized. In the lake grows polushnik ozerny, listed in the Red Book of the Republic of Belarus.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Большое Белое находится в Полоцком районе Витебской обл., в 1,8 км от границы с Псковской обл. (РФ), в 51 км на северо-восток от г.Полоцк, в 0,7 км на юго-запад от д. Белая, с юго-запада прилегает к урочищу Титовщина. Относится к бассейну р. Зап. Двина. Местность труднодоступная, густо заросшая лесом, сильно заболоченная. Озеро эвтрофное. Берега высокие (на севере и юго-западе низкие), заросшие лесом и кустарником. Мелководье песчаное, узкое (в южных заливах обширное, глубже дно илистое и сапропелистое. Прозрачность воды до 4 м (летом). Отделено от оз. Малое Белое узким перешейком, заросшим лесом. На озере имеется небольшой остров, площадью 0,1 га. На севере соединено узкой протокой с оз. Гвоздок. В озере обитают щука, лещ, судак, линь, плотва, красноперка, окунь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство. В озере произрастает полушник озерный, занесенный в Красную книгу Республики Беларусь.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

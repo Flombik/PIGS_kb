@@ -12,13 +12,13 @@ Demene_Parish
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Demi Parish (Latvian. Demenes pagasts) is one of the administrative territories of the Daugavpils Region of Latvia. The administrative center of the parish is the village of Demene.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Деменская волость (латыш. Demenes pagasts) является одной из входящих в Даугавпилсский край Латвии административных территорий. Административным центром волости является село Демене.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

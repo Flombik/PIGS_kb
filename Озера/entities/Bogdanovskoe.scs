@@ -12,13 +12,13 @@ Q17046831
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Bogdanovskoe (belor. Bogdanka) is a lake in Braslav district Vitebsk region of Belarus. The lake is located in the basin of the Yanka River (a tributary of the Disna), 16 km south of Braslav. It is part of the Braslav Lakes National Park.The surface area of the lake is 1.04 km2. The length is 2.72 km, the maximum width is 0.63 km, the length of the coastline is 7 km. The maximum depth of 3.9 m. The volume of water is 2.57 million m3. The catchment area is 11.8 km2.There are no settlements on the shores of the lake, Bogdanovskoye is surrounded by forest.The slopes of the basin are up to 5 meters high, plowed. The banks are low, sandy, overgrown with bushes. The bottom is flat, covered with sapropel, the shallow water is sandy. Overgrown with underwater vegetation to a depth of 3 m. In bohdanivs'ke flow into two streams, from the southernmost tip river flows Janka.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Богда́новское (белор. Багда́наўскае) — озеро в Браславском районе Витебской области Белоруссии. Озеро находится в бассейне реки Янка (приток Дисны), в 16 км к югу от города Браслав. Входит в состав национального парка Браславские озёра.Площадь поверхности озера 1,04 км². Длина 2,72 км, наибольшая ширина 0,63 км, длина береговой линии 7 км. Максимальная глубина 3,9 м. Объём воды — 2,57 млн м³. Площадь водосбора 11,8 км².Населённых пунктов на берегах озера нет, Богдановское окружено лесным массивом.Склоны котловины высотой до 5 метров, распаханные. Берега низкие, песчаные, заросшие кустарником. Дно плоское, покрыто сапропелем, мелководье песчаное. Зарастает подводной растительностью до глубины 3 м. В Богдановское впадают два ручья, из южной оконечности вытекает река Янка.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

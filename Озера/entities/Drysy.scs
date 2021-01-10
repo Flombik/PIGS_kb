@@ -12,13 +12,13 @@ Drysy
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Drissa Lake is located in the Rossonsky district of the Vitebsk region, 2.2 km from the border with the Pskov region (Russia), 35 km north-east of the town of Rossony, near the village of Transportation. It belongs to the basin of the Drissa River, which flows out of the lake. It is part of the national landscape reserve of Sinsha. The area is hilly, densely forested, in some places very swampy, almost uninhabited. The surrounding forests are rich in blueberries, cranberries, cranberries, wild blackberries and rose hips, as well as mushrooms. The banks are sandy, mostly elevated, overgrown with shrubs and forest. The shallow water is narrow, sandy, and the bottom is muddy. The greatest depths are in the central part of the lake, closer to the western shore. Overgrown slightly. The rivers flow into the lake. Gorges and 2 streams. It is connected by wide channels with the lakes Glyba and Ostrovtsy. There are 5 islands with a total area of about 1 ha. The lake is home to pike, roach bream, bleak, gustera, crucian carp, ide, tench, ruff, perch]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Россонском районе Витебской области Белоруссии]
+				[Озеро Дриссы находится в Россонском районе Витебской обл., в 2,2 км от границы с Псковской обл. (РФ), в 35 км на северо-восток от г.п. Россоны, возле д. Перевоз. Относится к бассейну р. Дрисса, которая вытекает из озера. Входит в состав республиканского ландшафтного заказника Синьша. Местность грядисто-холмистая, густо заросшая лесом, местами сильно заболоченная, почти незаселенная. Окрестные леса богаты черникой, брусникой, клюквой, дикорастущими ежевикой и шиповником, а также грибами. Берега песчаные, преимущественно возвышенные, поросшие кустарником и лесом. Мелководье узкое, песчаное, глубже дно илистое. Наибольшие глубины находятся в центральной части озера, ближе к западному берегу. Зарастает незначительно. В озеро впадают р. Уща и 2 ручья. Соединено широкими протоками с озерами Глыба и Островцы. Имеется 5 островов общей площадью около 1 га. В озере обитают щука, плотва лещ, уклейка, густера, карась, язь, линь, ёрш, окунь.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
