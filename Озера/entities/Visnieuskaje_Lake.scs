@@ -12,13 +12,13 @@ Visnieuskaje_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake is intensively used by humans. It serves as a recipient of bog waters from the reclaimed catchment areas. Water is used by the population for domestic needs, livestock watering. Amateur fishing is widely developed. The ichthyofauna of the lake is represented by pike, crucian carp, perch and roach, and Vishnevskoe was also stocked with juveniles of carp, eel and grass carp.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро интенсивно используется человеком. Оно служит водоприёмником болотных вод с мелиорируемых участков водосбора. Вода используется населением для бытовых нужд, водопоя скота. Широко развит любительский лов. Ихтиофауна озера представлена щукой, карасем, окунем и плотвой, также Вишневское зарыблялось молодью сазана, угря и белого амура. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

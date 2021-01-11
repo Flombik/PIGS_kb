@@ -1,4 +1,4 @@
-Q3919153
+Ugly
 => nrel_main_idtf:
 	[Ugly] (* <- lang_en;; *);
 	[Урода] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q3919153
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The reservoir is eutrophic, low-flowing. Vegetation extends to a depth of 2 m. The width of the strip of coastal vegetation is 10–100 m.
+
+The lake is home to pike, bream, perch, roach, rudd, silver bream and other fish species, as well as eel.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Водоём эвтрофный, слабопроточный. Растительность распространяется до глубины 2 м. Ширина полосы прибрежной растительности составляет 10—100 м.
+
+В озере водятся щука, лещ, окунь, плотва, краснопёрка, густера и другие виды рыб, а также встречается угорь. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

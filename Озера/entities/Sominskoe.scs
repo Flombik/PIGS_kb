@@ -1,4 +1,4 @@
-Q21865872
+Sominskoe
 => nrel_main_idtf:
 	[Sominskoe] (* <- lang_en;; *);
 	[Соминское] (* <- lang_ru;; *);
@@ -12,13 +12,21 @@ Q21865872
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[On the north side, two small streams flow into the lake, on the south side one flows out. On the western shore of the lake lies the village of Somino.
+
+Small estates were built along the shores of the lakes. The lake is very popular with tourists and anglers. The owners of local farmsteads organize hunting at the request of tourists.
+
+In the lake there are such fish species as: perch, roach, pike, bream, tench and others.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[С северной стороны в озеро впадают два небольших ручья, с южной стороны вытекает один. На западном берегу озера лежит деревня Сомино.
+
+По берегам озёр построены небольшие усадьбы. Озеро пользуется большой популярность у туристов а также у рыболовов. Хозяева местных усадьб по желанию туристов организуют охоту.
+
+В озере водятся такие виды рыб как: окунь, плотва, щука, лещ, линь и другие. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,17 @@ Svino
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The height of the slopes of the basin is 2-4 m, in the west and south-west it reaches 15 m. The banks are low, overgrown with wetland vegetation. The bottom in shallow water is sandy, muddy deeper than 1.5-3 m. A strip of vegetation up to 220 m wide extends to a depth of 2.2 m.
+
+The river Chernets (Oboli basin) flows into Bolshoe Svino, the Osmotitsa river flows out.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Высота склонов котловины составляет 2—4 м, на западе и юго-западе доходит до 15 м. Берега низкие, поросшие водно-болотной растительностью. Дно на мелководье песчаное, глубже 1,5—3 м илистое. Полоса растительности шириной до 220 м простирается до глубины 2,2 м.
+
+В Большое Свино впадает река Чернец (бассейн Оболи), вытекает река Осмотица. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

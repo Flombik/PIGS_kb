@@ -1,4 +1,4 @@
-Q21867687
+Zaozerskoe
 => nrel_main_idtf:
 	[Zaozerskoe (lake, Mogilev region)] (* <- lang_en;; *);
 	[Заозерское (озеро, Могилёвская область)] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q21867687
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake is located near the village of Zaozerye on the territory of the Moshchanitsky village council, 15 km north-west of the administrative center of the village council - the agricultural town of Bolshaya Moshchanitsa, and 16 km north-west of the administrative center of the district - the city of Belynichi. Lake Karmanovskoye is located 0.65 km to the north-east.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро находится возле деревни Заозерье на территории Мощаницкого сельсовета, в 15 км северо-западнее административного центра сельсовета — агрогородка Большая Мощаница, и в 16 км северо-западнее административного центра района — города Белыничи. В 0,65 км к северо-востоку находится озеро Кармановское.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

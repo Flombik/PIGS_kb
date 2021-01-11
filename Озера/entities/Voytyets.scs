@@ -1,4 +1,4 @@
-Q19754313
+Voytyets
 => nrel_main_idtf:
 	[Voytyets] (* <- lang_en;; *);
 	[Войты] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q19754313
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The swamp adjoins the southeastern and southwestern shores. The lake is shallow. The bottom is flat, sandy in shallow water, muddy in places, deeper lined with sapropel. It grows substantially. The lake has 2 small islands with a total area of ​​0.2 hectares. In the southwest it is connected by a stream with the lake. Snudy. The lake is inhabited by crucian carp, tench, roach, perch and other fish. Commercial fishing is carried out. Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[ К юго-восточному и юго-западному берегам примыкает болото. Озеро мелководное. Дно плоское, на мелководье песчаное, местами илистое, глубже выстлано сапропелем. Зарастает существенно. На озере имеется 2 небольших острова, общей площадью 0,2 га. На юго-западе соединено ручьем с оз. Снуды. В озере обитают карась, линь, плотва, окунь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

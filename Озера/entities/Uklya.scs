@@ -1,4 +1,4 @@
-Q3920334
+Uklya
 => nrel_main_idtf:
 	[Uklya] (* <- lang_en;; *);
 	[Укля] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q3920334
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The surrounding forests are rich in wild strawberries, blueberries, lingonberries, wild raspberries and mushrooms.
+
+The lake is home to perch, bream, pike, roach, rudd, tench, burbot, pike perch, eel and other fish species. Commercial fishing is carried out, and paid amateur fishing is also organized. Spearfishing allowed.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Окрестные леса богаты земляникой, черникой, брусникой, дикорастущей малиной, а также грибами.
+
+В озере водятся окунь, лещ, щука, плотва, краснопёрка, линь, налим, судак, угорь и другие виды рыб. Производится промысловый лов рыбы, также организовано платное любительское рыболовство. Разрешена подводная охота. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

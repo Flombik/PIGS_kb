@@ -1,4 +1,4 @@
-Q4129018
+Vymno
 => nrel_main_idtf:
 	[Vymno] (* <- lang_en;; *);
 	[Вымно] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q4129018
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[There are seven islands on the lake with a total area of ​​8.7 hectares. The largest of them is called Bolshoi.
+
+Mineralization of water reaches 190 mg/l, transparency - up to 1 m. The lake is eutrophic, weak flowing. It is connected by channels with lakes Voslepno and Arleiko, during floods by a stream with Lake Zakhbeika. The Luzhesyanka river flows out of Vymno.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[На озере расположены семь островов общей площадью 8,7 га. Самый крупный из них носит название Большой.
+
+Минерализация воды достигает 190 мг/л, прозрачность — до 1 м. Озеро эвтрофное, слабопроточное. Соединено протоками с озёрами Вослепно и Арлейко, в половодье ручьём с озером Захбейка. Из Вымно вытекает река Лужесянка. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -1,4 +1,4 @@
-Q13029184
+Smoothly
 => nrel_main_idtf:
 	[Smoothly] (* <- lang_en;; *);
 	[Плавно] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q13029184
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Mineralization of water - about 120 mg / l. Due to the transparency of the water, the bottom is clearly visible. The reservoir is prone to dystrophy.
+
+In the lake there are crucian carp, tench, pike, perch, roach, rudd, bream, silver bream.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Минерализация воды — около 120 мг/л. Благодаря прозрачности воды дно хорошо просматривается. Водоём подвержен дистрофикации.
+
+В озере водятся карась, линь, щука, окунь, плотва, краснопёрка, лещ, густера. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

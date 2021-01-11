@@ -12,13 +12,13 @@ Vyhanascanskaje_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The bottom is flat, covered with sapropel, the banks are peaty, overgrown, the valley is swampy. The lake is rich in fish, the most common are pike, perch, roach, ruff, bream, tench, rudd are found. Phytoplankton is represented by 106 species.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Дно — плоское, покрыто сапропелем, берега торфяные, заросшие, долина заболочена. Озеро богато рыбой, наиболее распространены щука, окунь, плотва, ёрш, встречаются лещ, линь, краснопёрка. Фитопланктон представлен 106 видами.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,21 @@ Vozyera_Plisa
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Coastal vegetation forms a narrow discontinuous strip. Reed, reed and calamus prevail. To a depth of 3 m, pondweed grows.
+
+The lake is inhabited by pike, bream, silver bream, roach, carp, ide, rudd, perch, crucian carp and other fish species.
+
+The shore of the lake is covered mainly with coniferous forests. Many springs gush from the bottom of the lake, thanks to which the lake is considered one of the cleanest lakes in Belarus.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Прибрежная растительность образует узкую прерывистую полосу. Преобладают тростник, камыш, аир. До глубины 3 м растут рдесты.
+
+В озере обитают щука, лещ, густера, плотва, карп, язь, краснопёрка, окунь, карась и другие виды рыб.
+
+Берег озера покрывают преимущественно хвойные леса. Со дна озера бьёт множество родников, благодаря чему озеро считается одним из чистейших озёр Беларуси. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

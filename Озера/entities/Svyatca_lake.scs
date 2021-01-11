@@ -1,4 +1,4 @@
-Q3920242
+Svyatca
 => nrel_main_idtf:
 	[Svyatca] (* <- lang_en;; *);
 	[Святца] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q3920242
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake area is about 0.09 km, the length is about 0.49 km, the maximum width is about 0.21 km, the length of the coastline is about 1.2 km.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Площадь озера около 0,09 км, длина около 0,49 км, наибольшая ширина около 0,21 км, длина береговой линии около 1,2 км.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

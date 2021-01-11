@@ -1,4 +1,4 @@
-Q27516670
+Zagnoek
 => nrel_main_idtf:
 	[Zagnoek] (* <- lang_en;; *);
 	[Загноек] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q27516670
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[It is part of the Braslav Lakes National Park. The terrain is flat, hilly in places, with small forests around. Zero is surrounded by a swampy floodplain. The shores are mostly low, swampy, in places overgrown with bushes. A canalized stream flows into the west, a stream flows into the lake in the south. Berezha. It grows substantially.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Входит в состав национального парка Браславские озера. Местность равнинная, местами холмистая, вокруг расположены небольшие лесные массивы. Зеро окружено заболоченной поймой. Берега преимущественно низкие, заболоченные, местами поросшие кустарником. На западе впадает канализованный ручей, на юге вытекает ручей в оз. Бережа. Зарастает существенно.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

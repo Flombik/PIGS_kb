@@ -1,4 +1,4 @@
-Q9986770
+Ushachskaya_group_of_lakes
 => nrel_main_idtf:
 	[Ushachskaya group of lakes] (* <- lang_en;; *);
 	[Ушачская группа озер] (* <- lang_ru;; *);
@@ -12,13 +12,17 @@ Q9986770
 		    ...
 			(*
 			-> rrel_example:
-				[Wikimedia category]
+				[It includes more than 60 lakes with a total area of ​​more than 75 km² and a water volume of more than 350 million m³. The largest lakes of the group are: Cherstvyatskoye, Paulskoye, Otolovo, Polozerie, Yanovo, Berezovskoye, Krivoye, Gomel.
+
+The collection of lakes is over 803 km². The coastline is mostly plowed, represented by a complex of glacial and water-glacial landforms.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[категория в проекте Викимедиа]
+				[Включает более 60 озёр общей площадью более 75 км² и объёмом воды более 350 млн м³. Самые большие озёра группы: Черствятское, Паульское, Отолово, Полозерье, Яново, Березовское, Кривое, Гомель.
+
+Водсбор озёр более 803 км². Береговая линия в основном распаханная, представлена комплексом ледниковых и водно-ледниковых форм рельефа. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Sho_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Refers to the basin of the Shosha River flowing out of the lake. The lake is considered one of the contenders for the status of the geographical center of Europe.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Относится к бассейну реки Шоша, вытекающей из озера. Озеро считается одним из претендентов на статус географического центра Европы. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

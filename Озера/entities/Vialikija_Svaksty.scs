@@ -12,13 +12,17 @@ Vialikija_Svaksty
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Bolshiye Shvakshty is a part of the water tourist route "Naroch Ring".
+
+On the shore of the lake, there are several tourist sites and recreation facilities. Paid fishing is allowed on the lake.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро Большие Швакшты входит в состав водного туристического маршрута «Нарочанское кольцо».
+
+На берегу озера оборудовано несколько туристских стоянок и объектов отдыха. На озере разрешена платная рыбалка. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

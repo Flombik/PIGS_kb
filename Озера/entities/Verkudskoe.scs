@@ -1,4 +1,4 @@
-Q3919431
+Verkudskoe
 => nrel_main_idtf:
 	[Verkudskoe] (* <- lang_en;; *);
 	[Веркудское] (* <- lang_ru;; *);
@@ -12,13 +12,13 @@ Q3919431
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The lake is eutrophic, low flowing. The width of the strip of vegetation is up to 140 m on the shore and up to 3 m in depth. A stream flows out of the northern part and flows into Lake Paulskoe. A stream and a channel flow into the lake from Linz.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро эвтрофное, слабопроточное. Ширина полосы растительности составляет до 140 м на берегу и до 3 м в глубину. Из северной части вытекает ручей, впадающий в озеро Паульское. Впадают ручей и канал из озера Линец. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Valoba_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Voloba is located 34 km east of the urban village of Rossony, surrounded by small lakes in the Drissa basin, connected by channels to each other. The Ozernaya village is located near the western end of the lake.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Волоба находится в 34 км к востоку от городского посёлка Россоны, в окружении небольших озёр бассейна Дриссы, соединённых протоками друг с другом. Возле западной оконечности озера расположена деревня Озёрная. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

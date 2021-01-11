@@ -1,4 +1,4 @@
-Q21860087
+Usomlya
 => nrel_main_idtf:
 	[Usomlya] (* <- lang_en;; *);
 	[Усомля] (* <- lang_ru;; *);
@@ -12,13 +12,25 @@ Q21860087
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[On Lake Usomlya there is an island with an area of ​​3000 m².
+
+Mineralization of water is 130 g / l, transparency - 0.3 m.
+
+The reservoir is overgrown to a depth of 1.4 m. The width of the strip of coastal vegetation ranges from 15 to 170 m. The lake is subject to eutrophication.
+
+Usoml is home to bream, pike, tench, crucian carp, perch, bleak and other fish species.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[На озере Усомля есть остров площадью 3000 м².
+
+Минерализация воды составляет 130 г/л, прозрачность — 0,3 м.
+
+Водоём зарастает до глубины 1,4 м. Ширина полосы прибрежной растительности составляет от 15 до 170 м. Озеро подвержено эвтрофикации.
+
+В Усомле водятся лещ, щука, линь, карась, окунь, уклейка и другие виды рыб. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
