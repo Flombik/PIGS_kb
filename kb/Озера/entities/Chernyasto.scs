@@ -12,13 +12,21 @@ Q4514514
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Chernyasto is a lake in Belarus, on the territory of Gorodok district of Vitebsk region in the basin of the Lovat River (flows through the lake). It is located 40 km north-east of the town of Gorodok, 2 km from the village of Mezha.
+
+The lake has a surface area of 1.9 km2, a length of 2.1 km, and a maximum width of 1.43 km. The maximum depth reaches 9 meters, the average is about 4.9 m. The catchment area is 275 km2. The height above sea level is 145.4 m.
+
+The basin of the lake is thermokarst type. The slopes of the basin in the east are steep with a height of 15-20 m, in the west they are flat and low. The coastline forms 2 bays. The banks are low and sandy. The floodplain is swampy, 10-15 meters wide. The littoral zone with a width of 10-15 m passes into a clearly marked sublittoral ledge. The bottom of the lake is flat, up to a depth of 2-3 m covered with sand, deeper-clay silt. In the eastern bay, the bottom is covered with a layer of silica sapropel. The lake is overgrown to a depth of 1.2 m with a strip of 2 to 20 m along the shore. On the lake is an island with an area of 0.008 km2. The lake is flowing, eutrophic. 3 flow of the stream, and the river Lovat, connecting Cerreto lake Castel.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Черня́сто — озеро в Беларуси, на территории Городокского района Витебской области в бассейне реки Ловать (протекает через озеро). Расположено в 40 км на северо-восток от города Городок, в 2 км от деревни Межа.
+
+Площадь поверхности озера составляет 1,9 км², длина 2,1 км, наибольшая ширина 1,43 км. Максимальная глубина достигает 9 метров, средняя около 4,9 м. Площадь водосборного бассейна — 275 км². Высота над уровнем моря — 145,4 м.
+
+Котловина озера термокарстового типа. Склоны котловины на востоке крутые высотой 15—20 м, на западе пологие и низкие. Береговая линия образует 2 залива. Берега низкие и песчаные. Пойма заболоченная, шириной 10—15 метров. Литоральная зона шириной 10—15 м переходит в явно выраженную уступом сублитораль. Дно озера плоское, до глубины 2—3 м покрыто песком, глубже — глинистым илом. В восточном заливе дно покрыто слоем кремнезёмистого сапропеля. Озеро зарастает до глубины в 1,2 м полосой от 2 до 20 м вдоль берега. На озере остров площадью 0,008 км². Озеро проточное, эвтрофное. Впадают 3 ручья, и протекает река Ловать, соединяющая Чернясто с озером Сосно.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

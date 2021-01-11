@@ -12,13 +12,17 @@ Q2045189
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The Myadel Lakes are a group of lakes in the Myadel district of the Minsk Region of Belarus.
+
+The area of the lakes is about 20 km2, the largest of them is Myadel (16.2 km2), the rest do not exceed 1 km2. The lakes are connected by small channels. With the exception of Lake Kuzmichi, all of them are part of the Myadelka River basin]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Мя́дельские озёра  — группа озёр в Мядельском районе Минской области Беларуси.
+
+Площадь озёр — около 20 км², крупнейшнее из них — Мядель (16,2 км²), остальные не превышают 1 км². Озёра связаны мелкими протоками. За исключением озера Кузьмичи, все они входят в бассейн реки Мяделки]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,17 @@ Damashkauskaye_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Domashkovskoye is a lake in the Dokshitsky district of the Vitebsk region of Belarus. The area is 0.67 km2.
+
+It is located in the basin of the Berezina River.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Домашковское — озеро в Докшицком районе Витебской области Беларуси. Площадь 0,67 км².
+
+Расположено в бассейне реки Березина.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

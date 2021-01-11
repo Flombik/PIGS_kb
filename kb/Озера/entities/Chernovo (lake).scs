@@ -12,13 +12,33 @@ Q4513869
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Chernovo is a lake in Gorodok district of Vitebsk region in the Obol River basin.
+
+The mirror area of Lake Chernovo is 3.18 km2, the length is 5.72 km, the maximum width is 0.92 km. The greatest depth is 19.3 m, the average is 7.2 m. The basin of the lake is of a hollow type. The slopes of the basin are 6-8 m high, in the north — up to 16 m. In the southwest, the slopes are swampy. The coastline is 17.8 km long and winding, forming several bays. The banks are high and sandy.
+
+The bottom is trough-shaped with alternating depressions and shoals. The littoral zone is 10-20 m wide. Depths of up to 2 m occupy about 15 % of the lake area. Most of the bottom is covered with clay silt, in the littoral zone and on the shallows the bottom is sandy or covered with sanded silt.
+
+The lake is mesotrophic, weakly flowing (5 streams flow in, the Chernavka River flows out. The width of the vegetation strip is from 10 to 150 m. The lake has 5 islands with a total area of about 0.6 hectares.
+
+Lake Chernovo is home to bream, walleye, pike, perch, roach, tench, rudd and other fish species. There are cancers.
+
+Near the lake are the villages of Cancer, Korsaka, Krusevo, MeGUI, Lyska. In the village of Mezhui there is a hunting and fishing base of the Pervomaisky hunting farm of the Gorodok Professional College of Agricultural Production.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Черно́во — озеро в Городокском районе Витебской области в бассейне реки Оболь.
+
+Площадь зеркала озера Черново составляет 3,18 км², длина — 5,72 км, наибольшая ширина — 0,92 км. Наибольшая глубина 19,3 м, средняя — 7,2 м. Котловина озера ложбинного типа. Склоны котловины высотой 6—8 м, на севере — до 16 м. На юго-западе склоны заболочены. Береговая линия длиной 17,8 км извилистая, образует несколько заливов. Берега высокие и песчаные.
+
+Дно корытообразной формы с чередующимися впадинами и отмелями. Литоральная зона шириной 10—20 м. Глубины до 2 м занимают около 15 % площади озера. Бо́льшая часть дна покрыта глинистым илом, в литоральной зоне и на отмелях дно песчаное или покрыто опесчаненным илом.
+
+Озеро мезотрофное, слабопроточное (впадает 5 ручьёв, вытекает река Чернавка. Ширина полосы растительности от 10 до 150 м. На озере 5 островов общей площадью около 0,6 га.
+
+В озере Черново обитают лещ, судак, щука, окунь, плотва, линь, краснопёрка и другие виды рыб. Встречаются раки.
+
+Около озера расположены деревни Раково, Корсаки, Клюшево, Межуи, Лыска. В деревне Межуи расположена охотничье-рыболовная база Первомайского охотхозяйства Городокского профессионального колледжа сельскохозяйственного производства.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

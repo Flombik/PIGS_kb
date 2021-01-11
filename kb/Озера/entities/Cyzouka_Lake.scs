@@ -12,13 +12,13 @@ Cyzouka_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Chizhovka  is a lake in the Grodno district of the Grodno region of Belarus. Belongs to the basin of the river Piranka.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Чижо́вка — озеро в Гродненском районе Гродненской области Беларуси. Относится к бассейну реки Пыранка.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

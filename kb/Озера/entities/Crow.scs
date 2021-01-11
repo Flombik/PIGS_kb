@@ -12,13 +12,21 @@ Q13029113
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Crow is a lake in the Lepel district of Vitebsk region in the Ulla River basin.
+
+The lake has a surface area of 2.4 km2, a length of 2.6 km, and a maximum width of 1.47 km. The greatest depth of the lake reaches 16 m. The length of the coastline is 9.8 km, the catchment area is 57.1 km2, the water volume is 17.5 million m3.
+
+The lake is located 13 km north of the town of Lepel.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Во́ронь  — озеро в Лепельском районе Витебской области в бассейне реки Улла.
+
+Площадь поверхности озера 2,4 км², длина 2,6 км, наибольшая ширина 1,47 км. Наибольшая глубина озера достигает 16 м. Длина береговой линии 9,8 км, площадь водосбора — 57,1 км², объём воды 17,5 млн м³.
+
+Озеро расположено в 13 км к северу от города Лепель.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
