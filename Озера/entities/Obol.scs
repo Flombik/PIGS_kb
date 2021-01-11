@@ -12,13 +12,26 @@ Q2047820
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[This reservoir is located in the Braslav region, near the Lithuanian border, and belongs to the Drisvyata river basin.
+
+                 It is characterized by an elongated shape (the length of the lake
+                 is 6.55 km, while the maximum width is only 1.43 km). Approximately in the middle,
+                 Obole narrows noticeably, there is a bridge over which you can get from the village
+                 of Voleynishki to the village of Dvorishche. Several more settlements are located on
+                 the shores of the lake. Not surprisingly, its surroundings are mostly agricultural land.
+                 Only from the west is a large forest and swamp massif known as the Great Dumblya adjoining Obol.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Этот водоем расположен в Браславском районе, недалеко от литовской границы, и относится к бассейну реки Дрисвята.
+                 Для него характерна вытянутая форма (длина озера составляет 6,55 км,
+                 в то время как максимальная ширина – всего 1,43 км). Примерно посередине
+                 Оболе заметно сужается, здесь расположен мост, по которому можно попасть из д. Волейнишки
+                 в д. Дворище. На берегах озера расположены еще несколько населенных пунктов.
+                 Не удивительно, что его окрестности представляют собой большей частью сельскохозяйственные угодья.
+                 Лишь с запада к Оболе примыкает большой лесоболотный массив, известный под названием Великая Думбля. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

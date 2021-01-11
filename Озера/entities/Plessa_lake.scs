@@ -12,13 +12,13 @@ Q19799298
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Plissa is located in the Glubokoye district of the Vitebsk region, 17 km north-east of the town of Glubokoe, near the village of Plissa. The lake is mesotrophic and belongs to the river basin. Mnyuta (prospect tributary of the Disna river). The terrain is predominantly ridge-hilly, mostly overgrown with forest, in places swampy. The surrounding forests are rich in raspberries, strawberries, lingonberries, hazelnuts and mushrooms. The lake is surrounded by a high (10-12 m) long ridge, overgrown with forest and kustvrnik. The shores are mostly low, overgrown with bushes and woodlands, in places with forest.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Плисса находится в Глубокском районе Витебской обл., в 17 км на северо-восток от г. Глубокое, возле д. Плисса. Озеро мезотрофное и относится к бассейну р. Мнюта (пр. приток р. Дисна). Местность преимущественно грядисто-холмистая, большей частью заросшая лесом, местами болотистая. Окрестные леса богаты малиной, земляникой, брусникой, лесным орехом и грибами. Озеро окружено высокой (10-12 м) протяженной грядой, поросшей лесом и кустврником. Берега преимущественно низкие, поросшие кустарником и редколесьем, местами лесом.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

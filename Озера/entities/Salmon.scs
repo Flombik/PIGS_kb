@@ -12,13 +12,13 @@ Q13029156
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Lososno is located in the Polotsk district of the Vitebsk region, 45 km northeast of the city of Polotsk, near the village of Bykhovtsy and belongs to the basin of the river. A pig that flows through the lake. The terrain is flat, low-lying, in places ridge-hilly, overgrown with forest, swampy. The surrounding forests are rich in blueberries, lingonberries and mushrooms. On both sides of the lake, there are two long winding ridges, overgrown with forest and bushes, creating a kind of valley for the reservoir. The lake is almost completely surrounded by a narrow swampy floodplain adjacent to a boggy meadow overgrown with bog-meadow vegetation and rare bushes.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Лососно находится в Полоцком районе Витебской обл., в 45 км на северо-восток от г. Полоцк, возле д. Быховцы и относится к бассейну р. Свина, которая протекает через озеро. Местность равнинная, низинная, местами грядисто-холмистая, заросшая лесом, болотистая. Окрестные леса богаты черникой, брусникой и грибами. По обеим сторонам озера тянутся две протяженных извилистых гряды, поросшие лесом и кустарником, создавая для водоема своеобразную долину. Озеро почти полностью окружено узкой заболоченной поймой, примыкающей к заболоченному лугу, поросшему болотно-луговой растительностью и редким кустарником. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

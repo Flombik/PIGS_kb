@@ -12,13 +12,13 @@ Ozero_Svito
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Svito is located in the Postavy district of the Vitebsk region, approximately 7.5 km south of the town of Postavy, between the villages of Simonki, Falkovo and Yatsevichi and belongs to the river basin. Myadelka (pr. Tributary of the Birveta river). The terrain is hilly-ridged, with small forests, copses and forest plantations. The surrounding forests are rich in strawberries. The lake is surrounded by a vast floodplain (up to 300m), overgrown with bog-meadow vegetation and rare bushes. The shores are sandy, mostly low, overgrown with shrubs and woodlands.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[Озеро в Белоруссии]
+				[Озеро Свито находится в Поставском районе Витебской обл., примерно в 7,5 км на юг от г. Поставы, между деревнями Симоньки, Фальково и Яцевичи и относится к бассейну р. Мяделка (пр. приток р. Бирвета). Местность холмисто-грядистая, с небольшими лесными массивами, перелесками и лесопосадками. Окрестные леса богаты земляникой. Озеро окружено обширной поймой (до 300м), поросшей болотно-луговой растительностью и редким кустарником. Берега песчаные, преимущественно низкие, поросшие кустарником и редколесьем. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

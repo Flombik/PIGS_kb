@@ -1,7 +1,7 @@
 Niedrava_Lake
 => nrel_main_idtf:
 	[Niedrava Lake] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Озеро Недрово] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
@@ -12,13 +12,23 @@ Niedrava_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[This reservoir is located 7 km north-east of Braslav, between the villages of Maskovichi and Ustye, and belongs to the Druyka river basin.
+				 Due to the fact that it connects Nedrovo with other lakes, it becomes possible to make multi-day water trips.
+				 The lake area is 3.76 km2 and the maximum depth is 12.2 m.
+
+				 Nedrovo is considered one of the most beautiful lakes in Belarus due to the purity of the water,
+				 which is bright blue on a sunny day, as well as the rugged, forested shores with many bays and capes.
+				  One of the best views of the lake and other water bodies located nearby opens from the top of the Maskovichi settlement.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Этот водоем расположен в 7 км северо-восточнее Браслава, между деревнями Масковичи и Устье, и относится к бассейну реки Друйка.
+				 Благодаря тому, что она соединяет Недрово с другими озерами, появляется возможность совершать многодневные водные походы.
+				 Площадь озера составляет 3,76 км2, а максимальная глубина – 12,2 м.
+				  Недрово считается одним из самых красивых озер Беларуси благодаря чистоте воды, которая в солнечный день имеет ярко-синий цвет, а также изрезанным, покрытым лесом берегам с множеством заливов и мысов.
+				  Один из лучших видов на озеро и другие водоемы, расположенные поблизости, открывается с вершины городища Масковичи.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

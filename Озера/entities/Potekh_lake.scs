@@ -12,13 +12,13 @@ Q3919308
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Potsekh is located in the Braslav district of the Vitebsk region, 10 km north-east of Braslav, near the village of Slobodka and belongs to the basin of the river. Druyka (left tributary of the Zap. Dvina river). It is included in the Braslav group of lakes and the Braslav Lakes National Park. The terrain is hilly ridge, in the south overgrown with forest, in places overgrown with bushes. The banks are mostly high, overgrown with bushes and woodlands. Along the southern coast stretches a long (about 2.5 km) ridge of ozone, up to 30 m high, along which an ecological observation trail is laid.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Поцех находится в Браславском районе Витебской обл., в 10 км на северо-восток от г. Браслав, возле д. Слободка и относится к бассейну р. Друйка (лев. приток р. Зап. Двина). Входит в Браславскую группу озер и в состав национального парка Браславские озера. Местность холмисто-грядистая, на юге заросшая лесом, местами заросшая кустарником. Берега преимущественно высокие, поросшие кустарником и редколесьем. Вдоль южного берега тянется протяженная (около 2,5 км) озовая гряда, высотой до 30 м, по которой проложена обзорная экологическая тропа. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Q4416226
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Senno is located in the Senno district of the Vitebsk region, adjacent to the northern outskirts of Senno and belongs to the basin of the river. Krivinka (left tributary of the Western Dvina River). Around are the villages of Turovo, Korolevichi, Krasny Luch, Svobodnoye and Zaozerye. The terrain is predominantly ridge-hilly, overgrown with bushes and woodlands, in places marshy. In the east and north there are vast forests, in the west a complex of small forests connected by copses. The surrounding forests are rich in almost all kinds of berries, hazelnuts and mushrooms. The lake is mesotrophic, hollow type, divided into northern (shallow) and southern (deep-water) reaches. The coastline is heavily indented, forming many bays, capes and peninsulas.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Сенно находится в Сенненском районе Витебской обл., примыкает к северной окраине г. Сенно и относится к бассейну р. Кривинка (лев. приток р. Западная Двина). Вокруг расположены деревни Турово, Королевичи, Красный Луч, Свободное и Заозерье. Местность преимущественно грядисто-холмистая, поросшая кустарником и редколесьем, местами болотистая. На востоке и севере расположены обширные лесные массивы, на западе комплекс небольших лесов, соединенных перелесками. Окрестные леса богаты почти всеми видами ягод, лесным орехом и грибами. Озеро мезотрофное, ложбинного типа, разделяется на северный (мелководный) и южный (глубоководный) плесы. Береговая линия сильно изрезанная, образует множество заливов, мысов и полуостровов.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

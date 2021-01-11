@@ -12,13 +12,13 @@ Q13029217
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Servech is located in the Dokshitsy district of the Vitebsk region, 18 km north-west of the town of Dokshitsy, between the villages of Veshnee and Shantorovshchina and belongs to the basin of the river. Servech (pr. Tributary of the river Viliya), which flows out of the lake. It is part of the Servech Republican Hydrological Reserve. The terrain is predominantly flat, marshy, in places ridge-hilly, in places overgrown with light forests and bushes, around there are small forests. The lake is surrounded by a vast (up to 300 m) swampy floodplain adjacent to a marshy lowland, overgrown with bushes and woodlands.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Сервеч находится в Докшицком районе Витебской обл., в 18 км на северо-запад от г. Докшицы, между деревнями Вешнее и Шанторовщина и относится к бассейну р. Сервеч (пр. приток р. Вилия), которая вытекает из озера. Входит в состав республиканского гидрологического заказника Сервеч. Местность преимущественно равнинная, болотистая, местами грядисто-холмистая, местами поросшая редколесьем и кустарником, вокруг расположены небольшие лесные массивы. Озеро окружено обширной (до 300 м) заболоченной поймой, примыкающей к болотистой низине, поросшей кустарником и редколесьем.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

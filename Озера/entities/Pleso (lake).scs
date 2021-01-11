@@ -1,24 +1,28 @@
 Q35003635
 => nrel_main_idtf:
-	[None] (* <- lang_en;; *);
-	[Pleso (lake)] (* <- lang_ru;; *);
+	[Pleso] (* <- lang_en;; *);
+	[Плесо] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(None)] (* <-lang_en;; *);
-			[Опр.(Pleso (lake))] (* <-lang_ru;; *);;
+			[Def.(Pleso)] (* <-lang_en;; *);
+			[Опр.(Плесо)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Lake Pleso is located in the Zhitkovichi district of the Gomel region, about 24 km southeast of the town of Zhitkovichi, near the village of Khlupin and belongs to the basin of the r. Pripyat (actually located in its floodplain). It is an old-type lake. It is connected by wide channels with lakes Glukhovo and Ploskoe. The terrain is ridged, marshy, in places overgrown with bushes, in the east and south there is an extensive forest. It is part of the Pripyatsky National Park.
+
+                 The area of ​​the mirror is 0.22 km ?, the length is 2.1 km, the maximum width is 0.25 km, the length of the coastline is about 4.5 km.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Плесо находится в Житковичском районе Гомельской обл., примерно в 24 км на юго-восток от г. Житковичи, возле д. Хлупин и относится к бассейну р. Припять (фактически расположено в ее пойме). Является озером старичного типа. Соединено широкими протоками с озерами Глухово и Плоское. Местность грядистая, болотистая, местами поросшая кустарником, на востоке и юге расположен обширный лесной массив. Входит в состав Национального парка Припятский.
+
+                 Площадь зеркала 0,22 км?, длина 2,1 км, наибольшая ширина 0,25 км, длина береговой линии около 4,5 км.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
