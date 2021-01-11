@@ -12,13 +12,17 @@ Q3920181
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Naroch Lakes (belor. Narachanskiya azery) - a group of lakes in the north-west of the Myadel district of Minsk region, including the largest reservoir of Belarus Naroch, as well as Myastro, Batorino and Pale.
+
+The total area of the lakes reaches 100 km2, the catchment area is 279 km2. Group is located in Narochno-Vileika lowland. Lake Naroch myastro with the connected channel of Skem, but with Batorino — river Drobna. From Naroch flows the river of the same name, a tributary of the Vilia. The lake is Pale in perpetuity.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Нарочанские озёра (белор. Нарачанскія азёры) — группа озёр на северо-западе Мядельского района Минской области, включающая в себя крупнейший водоём Белоруссии Нарочь, а также Мястро, Баторино и Бледное.
+
+Общая площадь озёр достигает 100 км², водосбора — 279 км². Расположена группа в Нарочано-Вилейской низменности. Озеро Мястро с Нарочью соединено протокой Скема, а с Баторино — рекой Дробня. Из Нарочи вытекает одноимённая река, приток Вилии. Озеро Бледное бессточно.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

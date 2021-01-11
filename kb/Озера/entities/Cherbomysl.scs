@@ -12,13 +12,13 @@ Q21866431
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Cherbomyslo is a lake in the Polotsk district of the Vitebsk region of Belarus. It belongs to the Western Dvina River basin.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Чербомы́сло — озеро в Полоцком районе Витебской области Белоруссии. Относится к бассейну реки Западная Двина.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

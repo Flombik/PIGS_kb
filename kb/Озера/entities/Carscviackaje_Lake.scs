@@ -12,13 +12,13 @@ Carscviackaje_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake in the Ushachsky district of the Vitebsk region of Belarus. Included in the group Usha lakes. Belongs to the basin of the river Diva, in turn, a member in the pool of Turblance.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро в Ушачском районе Витебской области Белоруссии. Входит в группу Ушачских озёр. Относится к бассейну реки Дива, в свою очередь входящей в бассейн Туровлянки.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

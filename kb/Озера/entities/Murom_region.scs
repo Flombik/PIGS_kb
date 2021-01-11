@@ -12,13 +12,17 @@ Q20873696
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Muramshina lake in Glubokoye district, Vitebsk region.
+
+The area is 0.1 km2. Length of 0.75 km. The maximum width is 0.17 km. The length of the coastline is 1.58 km. The catchment area is 6.16 km2. In the basin Dobryanka, 12 km North from city Deep, near the village Zagorje. The slopes of the basin are up to 3 m high, plowed, in the north-west up to 16 m, overgrown with forest. The stream flows into Lake Beloe.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Муромщина — озеро в Глубокском районе Витебской области.
+
+Площадь 0,1 км². Длина 0,75 км. Наибольшая ширина 0,17 км. Длина береговой линии 1,58 км. Площадь водосбора 6,16 км². В бассейне реки Добрыловка, в 12 км к северу от города Глубокое, около деревни Загорье. Склоны котловины высотой до 3 м, распаханные, на северо-западе до 16 м, поросли лесом. Вытекает ручей в озеро Белое.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,21 @@ Q17094921
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Cerasulo — lake in the Lepelsky district Vitebsk region of Belarus in the basin of the river Deva. Belongs to the group of Ushachsky timber lakes.
+
+The surface area of the lake is 0.52 km2, the length is 1.6 km, the maximum width is 0.5 km. The greatest depth reaches 12.2 m. The length of the coastline is 3.74 km, the catchment area is 13.3 km2, the water volume is 3.34 million m3.
+
+The lake is located 20 km northeast of the town of Lepel. On the southeastern shore of the lake is the village Yard-Grudziadz, in the North village Chereshovo. The Lepel-Ulla highway runs west and north of the lake. Channels from the surrounding lakes Kamenskoye and Devichye flow into the lake, the channel flows into Lake Ostrovno. The lake has an elongated shape from north to south, there are no islands.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Черо́сово — озеро в Лепельском районе Витебской области Беларуси в бассейне реки Дива. Принадлежит к группе Ушачских озёр.
+
+Площадь поверхности озера 0,52 км², длина 1,6 км, наибольшая ширина 0,5 км. Наибольшая глубина достигает 12,2 м. Длина береговой линии 3,74 км, площадь водосбора — 13,3 км², объём воды — 3,34 млн м³.
+
+Озеро расположено в 20 км к северо-востоку от города Лепель. На юго-восточном берегу озера находится деревня Двор-Поречье, на северном — деревня Черосово. Западнее и севернее озера проходит автодорога Лепель — Улла. В озеро впадают протоки из окрестных озёр Каменское и Девичье, вытекает протока в озеро Островно. Озеро имеет вытянутую с севера на юг форму, островов нет.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

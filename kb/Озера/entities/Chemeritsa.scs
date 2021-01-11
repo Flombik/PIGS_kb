@@ -12,13 +12,13 @@ Q21391288
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Chemeritsa is located in the Chashniki district of the Vitebsk region, 26 km south-east of Chashniki, about 0.6 km south-west of the village of Chashniki. Pervomayskaya and belongs to the Ulla River basin (left tributary of the Western Dvina River).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Чемерица находится в Чашникском районе Витебской обл., в 26 км на юго-восток от г. Чашники, примерно в 0,6 км на юго-запад от д. Первомайская и относится к бассейну р. Улла (лев. приток р. Западная Двина).]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Q4512684
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Chereiskoe - lake in the Chashniki district, Vitebsk region of Belarus. It belongs to the Lukomka River basin. It is located 26 km south-east of the city of Chashniki.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Чере́йское — озеро в Чашникском районе Витебской области Белоруссии. Относится к бассейну реки Лукомка. Находится в 26 км к юго-востоку от города Чашники.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

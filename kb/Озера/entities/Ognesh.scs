@@ -12,13 +12,13 @@ Q3919460
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[Agnes — river, Gorodok district, Vitebsk region (the Western Dvina basin). The length is 13 km. Catchment area 48 km2]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[река в Белоруссии]
+				[Огнеш — река в Городокском районе Витебской области (бассейн Западной Двины). Длина 13 км. Площадь водосбора 48 км²]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

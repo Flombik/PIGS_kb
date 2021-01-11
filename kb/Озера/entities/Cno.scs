@@ -12,13 +12,13 @@ Q9195131
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Tsno is located in the Braslav district of the Vitebsk region, about 1.4 km east of Braslav, about 0.8 km east of d. Fence Threshing Floors. It belongs to the basin of the Druika River (left tributary of the Zap River. Dvina), which flows through the lake. It is part of the Braslav Lakes National Park and the Braslav Group of Lakes.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Цно находится в Браславском районе Витебской обл., примерно в 1,4 км на восток от г. Браслав, примерно в 0,8 км на восток от д. Заборные Гумны. Относится к бассейну р. Друйка (лев. приток р. Зап. Двина), которая протекает через озеро. Входит в состав национального парка Браславские озера и в Браславскую группу озер. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
