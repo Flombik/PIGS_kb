@@ -12,13 +12,13 @@ Snudy_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Vitebsk Region, Belarus]
+				[The second largest among the Braslav lakes. The lake occupies a vast basin stretching from northwest to southeast. The coastline is heavily indented, characterized by a large number of capes and bays. Moraine and sandy slopes, up to 30 m high, prevail over a large area.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Второе по площади среди Браславских озер. Озеро занимает обширную котловину, вытянутую с северо-запада на юго-восток. Береговая линия сильно изрезана, характеризуется наличием большого числа мысов и заливов. На большом протяжении преобладают моренные и песчаные склоны, высотой до 30 м. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

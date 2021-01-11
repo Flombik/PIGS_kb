@@ -1,0 +1,41 @@
+Shevino
+=> nrel_main_idtf:
+	[Shevino (lake, Vitebsk district)] (* <- lang_en;; *);
+	[Шевино (озеро, Витебский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Shevino (lake, Vitebsk district))] (* <-lang_en;; *);
+			[Опр.(Шевино (озеро, Витебский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The Shevino Basin is of a thermokarst type, stretching from north to south. The slopes of the hollow are from 2 to 17 meters high. The bottom of the lake is sandy down to a depth of 0.5-0.8 m, and is deeper covered with silt. The coastline forms small bays.
+
+The lake is eutrophic and flowing. The Shevinka River flows through the lake (it flows under the name Zaronovka) and the Uzhnitsa River flows into it.
+
+The width of the strip of coastal emerging vegetation reaches 40 meters. The lake is overgrown to a depth of 2.5 m. The bays are overgrown with water lilies, elodea, hornwort, pondweed. The lake is home to bream, pike, perch, roach, silver bream, tench and other fish species.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Котловина Шевино термокарстового типа, вытянута с севера на юг. Склоны котловины высотой от 2 до 17 метров. Дно озера до глубины 0,5—0,8 м песчаное, глубже покрыто илом. Береговая линия образует небольшие заливы.
+
+Озеро эвтрофное, проточное. Через озеро протекает река Шевинка (впадает под названием Зароновка) и впадает река Ужница.
+
+Ширина полосы прибрежной надводной растительности достигает 40 метров. Озеро зарастает до глубины 2,5 м. Заливы зарастают кувшинками, элодеей, роголистником, рдестом. В озере обитают лещ, щука, окунь, плотва, густера, линь и другие виды рыб.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Q4521969_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

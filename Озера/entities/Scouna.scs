@@ -12,13 +12,13 @@ Scouna
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Shcholno is located in the Miory district of the Vitebsk region, 7 km north-west of the town of Miory, 1.2 km south-east of the village of Krichevo, near the farmsteads Russkoe Selo and Shchelo. Refers to the river basin. Vyata that flows out of the lake. The shores are low, sandy, in places peaty, boggy, overgrown with bushes and woodlands. The shallow water is long, sandy, sandy-silty and peaty, deeper the bottom is sapropelous. It grows substantially. In the southwest the river flows into. Horobrovka, in the north flows the river. Vyata. In the west, it is connected by a drainage canal with a system of drainage canals. Ridge terrain, overgrown with bushes and woodlands, in places with forest. The settlements are mainly in the form of farms (some are abandoned). The lake is inhabited by perch, roach, pike, bream, tench, rudd and other fish. Commercial fishing is carried out. Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро Щолно находится в Миорском районе Витебской обл., в 7 км на северо-запад от г. Миоры, в 1,2 км на юго-восток от д. Кричево, возле хуторов Русское Село и Щелно. Относится к бассейну р. Вята, которая вытекает из озера. Берега низкие, песчаные, местами торфянистые, заболоченные, поросшие кустарником и редколесьем. Мелководье протяженное, песчаное, песчано-илистое и торфянистое, глубже дно сапропелистое. Зарастает существенно. На юго-западе впадает р. Хоробровка, на севере вытекает р. Вята. На западе мелиоративным каналом соединено с системой мелиоративных каналов. Местность грядистая, поросшая кустарником и редколесьем, местами лесом. Населенные пункты преимущественно в виде хуторов (некоторые заброшенные). В озере обитают окунь, плотва, щука, лещ, линь, красноперка и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

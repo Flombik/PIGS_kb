@@ -12,13 +12,13 @@ Lake_Ikazn
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Ikazn is located in the Braslav district of the Vitebsk region, 14 km east of Braslav, between the villages of Ikazn and Kolesniki and belongs to the Druika River basin. The area is hilly, overgrown with forest and shrubs, sometimes swampy. The coastline is complex, rugged, and forms many bays and capes. The banks are mostly low (elevated in the west and south-west), overgrown with shrubs and sparsely wooded, sometimes abrasive.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Иказнь находится в Браславском районе Витебской обл., в 14 км на восток от г. Браслав, между деревнями Иказнь и Колесники и относится к бассейну р. Друйка. Местность грядисто-холмистая, поросшая лесом и кустарником, местами болотистая. Береговая линия сложная, изрезанная, образует множество заливов и мысов. Берега преимущественно низкие (на западе и юго-западе возвышенные), поросшие кустарником и редколесьем, местами абразионные.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

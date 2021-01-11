@@ -1,0 +1,26 @@
+Q4145290
+=> nrel_main_idtf:
+	[Gorodno (lake, Vitebsk district)] (* <- lang_en;; *);
+	[Городно (озеро, Витебский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Gorodno (lake, Vitebsk district))] (* <-lang_en;; *);
+			[Опр.(Городно (озеро, Витебский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Gorodno is located in the Beshenkovichi district of the Vitebsk region, 26 km north-east of the town of Beshenkovichi, near the village of Gorodno and belongs to the basin of the Ostrovnitsa River (a left tributary of the Western Dvina River). The area is mostly flat (sometimes ridge-hilly), overgrown with shrubs and sparsely wooded, sometimes swampy. In the west and north there are extensive woodlands that are rich in strawberries, blueberries, cranberries and mushrooms. The lake is eutrophic, hollow type. The banks are mostly elevated (in the north-east and north-west low), sandy, overgrown with shrubs, sometimes sparsely wooded. The shallow water is narrow (wider in bays), sandy, and the bottom is muddy deeper. The greatest depths are in the northeastern part of the lake, about 0.09 km west of the southwestern extremity of the eastern peninsula. Overgrown moderately. In the south, a stream flows into the river. Ostrovica. There are 2 small islands with a total area of 0.4 hectares. The lake is home to bream, pike, roach, tench, rudd, perch and other fish. Commercial fishing is carried out. Paid amateur fishing is organized.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Городно находится в Бешенковичском районе Витебской обл., в 26 км на северо-восток от г.п. Бешенковичи, возле д. Городно и относится к бассейну р. Островница (лев. приток р. Западная Двина). Местность преимущественно равнинная (местами грядисто-холмистая), поросшая кустарником и редколесьем, местами, болотистая. На западе и севере расположены обширные лесные массивы, которые богаты земляникой, черникой, брусникой и грибами. Озеро эвтрофное, ложбинного типа. Берега преимущественно возвышенные (на северо-востоке и северо-западе низкие), песчаные, поросшие кустарником, местами редколесьем. Мелководье узкое (в заливах шире), песчаное, глубже дно илистое. Наибольшие глубины находятся в северо-восточной части озера, примерно в 0,09 км на запад от юго-западной конечности восточного полуострова. Зарастает умеренно. На юге вытекает ручей в р. Островница. Имеется 2 небольших острова общей площадью 0,4 га. В озере обитают лещ, щука, плотва, линь, красноперка, окунь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

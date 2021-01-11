@@ -12,13 +12,13 @@ Mulnaje
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Mulnoe (Malno) is located in the Ivanovo district of the Brest region, 25 km north of the city of Ivanovo, about 0.7 km north-east of d. Tyshkovichi and belongs to the basin of the river. Yaselda (left tributary of the Pripyat River). The area is mostly flat, sometimes hilly, overgrown with shrubs and woodlands. The banks are sandy, mostly low (high in the north), overgrown with shrubs. The shallow water is narrow (in the north, north-west and west extensive), along the coast sandy and sandy-muddy, deeper bottom sapropelistoe.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Мульное (Мално) находится в Ивановском районе Брестской обл., в 25 км на север от г. Иваново, примерно в 0,7 км на северо-восток от д. Тышковичи и относится к бассейну р. Ясельда (лев. приток р. Припять). Местность преимущественно равнинная, местами холмистая, поросшая кустариником и редколесьем. Берега песчаные, преимущественно низкие (на севере высокие), поросшие кустарником. Мелководье узкое (на севере, северо-западе и западе обширное), вдоль берегов песчаное и песчано-илистое, глубже дно сапропелистое. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -1,0 +1,26 @@
+Q19953678
+=> nrel_main_idtf:
+	[Linets (lake, Ushachsky district)] (* <- lang_en;; *);
+	[Линец (озеро, Ушачский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Linets (lake, Ushachsky district))] (* <-lang_en;; *);
+			[Опр.(Линец (озеро, Ушачский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Linets is located in the Ushachsky district of the Vitebsk region, 19 km east of the town of Ushachi, about 0.8 km south of the village of Ushachi. Vines and belongs to the basin of the Diva (in its lower course is called Turbelence). The area is mostly flat, sometimes ridged and hilly, overgrown with shrubs and sparsely wooded, swampy, with copses and forest plantations.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Линец находится в Ушачском районе Витебской обл., в 19 км на восток от г.п. Ушачи, примерно в 0,8 км на юг от д. Лозы и относится к бассейну р. Дива (в нижнем течении называется Туровлянка). Местность преимущественно равнинная, местами грядистая и холмистая, поросшая кустарником и редколесьем, болотистая, с перелесками и лесопосадками. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

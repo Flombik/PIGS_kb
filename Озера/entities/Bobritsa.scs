@@ -1,0 +1,33 @@
+Q17047116
+=> nrel_main_idtf:
+	[Bobritsa] (* <- lang_en;; *);
+	[Бобрица] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Bobritsa)] (* <-lang_en;; *);
+			[Опр.(Бобрица)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Bobritsa is located in the Lepel district of the Vitebsk region, 10 km north-east of the town of Lepel, near the villages of Borovka 1st and Staroe Lyadno and belongs to the Ulla River basin. The area is ridged, overgrown with dense forest, in the south-west with sparse woodlands and shrubs, in places swampy. The surrounding forests are rich in a variety of berries and mushrooms. The lake is surrounded (except in the south-west) by a high (up to 20 m) long lake ridge, overgrown with forest and shrubs. The banks are mostly high, overgrown with forest and shrubs in the south, at the confluence of streams, swampy. The shallow water is narrow, sandy, in the south-west sandy-clay. The greatest depths are located in the north-eastern part of the western ples (near the village of Borovka 1) and in the central part of the eastern ples. The bottom is sandy, complex configuration, at a depth of lined with sapropel. 4 streams flow into the lake, in the north-east it is connected by a narrow channel with the lake. Ukleina. There are 2 small islands with a total area of 0.2 hectares. Along the western part of the lake passes]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Бобрица находится в Лепельском районе Витебской обл., в 10 км на северо-восток от г. Лепель, возле деревень Боровка 1-ая и Старое Лядно и относится к бассейну р. Улла. Местность грядистая, заросшая густым лесом, на юго-западе редколесьем и кустарником, местами болотистая. Окрестные леса богаты разнообразной ягодой и грибами. Озеро окружено (кроме юго-запада) высокой (до 20 м) протяженной озовой грядой, поросшей лесом и кустарником. Берега преимущественно высокие, поросшие лесом и кустарником на юге, при впадении ручьев, заболоченные. Мелководье узкое, песчаное, на юго-западе песчано-глинистое. Наибольшие глубины находятся в северо-восточной части западного плеса (в районе д. Боровка 1-ая) и в центральной части восточного плеса. Дно песчаное, сложной конфигурации, на глубине выстлано сапропелем. В озеро впадают 4 ручья, на северо-востоке оно соединено узкой протокой с оз. Уклеино. Имеется 2 небольших острова, общей площадью 0,2 га. Вдоль западной части озера проходит автодорога Лепель-Бешенковичи. На берегу озера расположен Лепельский военный санаторий. В озере обитают окунь, плотва, щука, лещ, линь, красноперка, карась, налим и др. рыба.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Q17047116_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

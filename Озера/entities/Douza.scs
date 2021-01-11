@@ -12,13 +12,13 @@ Douza
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Dolzha is located in the Postavsky district of the Vitebsk region, 8 km south of the town of Postavy, between the villages of Dolzhe, Paraski, Shabany and Derevyanki. It belongs to the basin of the Myadelka River (pr. tributary of the Birveta River). A long ribbon-shaped hollow-type basin is cut into the northern spurs of the Sventsyan upland and stretches from south-east to north-west for almost 5 km. The area is hilly, mostly overgrown with forest and shrubs, sometimes swampy. The indentation of the coastline is significant. The shore is sandy, low, abrasion in places, overgrown with bushes and light forest, sometimes the forest. The shallow water is sandy, narrow (in bays up to 10 m), the bottom is deeper muddy and sapropelic. Overgrown significantly. 2 streams flow in. In the north, it is connected by a narrow channel to the lake. Glodovo. In the south, a narrow high isthmus is separated from the lake. Voronets (the name is not indicated on the topographic map) is one of the most beautiful and mysterious lakes in Belarus. The lake is home to perch, roach, pike, bream, crucian carp, tench, rudd, ruff, bleak, and crayfish. Commercial fishing is carried out. Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Должа находится в Поставском районе Витебской обл., в 8 км на юг от г. Поставы, между деревнями Долже, Параски, Шабаны и Деревянки. Относится к бассейну р. Мяделка (пр. приток р. Бирвета). Длинная лентовидная котловина ложбинного типа врезана в северные отроги Свенцянской возвышенности и вытянута с юго-востока на северо-запад почти на 5 км. Местность грядисто-холмистая, большей частью заросшая лесом и кустарником, местами болотистая. Изрезанность береговой линии значительная. Берега песчаные, низкие, местами абразионные, поросшие кустарником и редколесьем, местами лесом. Мелководье песчаное, узкое (в заливах до 10 м), глубже дно илистое и сапропелистое. Зарастает существенно. Впадают 2 ручья. На севере соединено узкой протокой с оз. Глодово. На юге узким высоким перешейком отделено от оз. Воронец (на топографической карте название не обозначено) - одним из самых красивых и загадочных озер Беларуси. В озере обитают окунь, плотва, щука, лещ, карась, карп, линь, красноперка, ёрш, уклейка, а также раки. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -1,0 +1,33 @@
+Q21867867
+=> nrel_main_idtf:
+	[Leskovichi] (* <- lang_en;; *);
+	[Лесковичи] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Leskovichi)] (* <-lang_en;; *);
+			[Опр.(Лесковичи)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Leskovichi is in the Shumilino district, Vitebsk region, 5 km on South from the G. p. Shumilino, between the villages of Leskovichi and Unwhipped and belongs to the basin of the river Cecina (D. tributary of Zap. Dvina). The terrain is mostly flat, sometimes hilly-ridged, overgrown with shrubs and sparsely wooded, sometimes swampy. The banks are sandy, mostly high (in the west, low, swampy), overgrown with shrubs and woodlands, sometimes forest. The shallow water is narrow (extensive in the south and north-west), mostly sandy (clayey in parts), the bottom is deeper clay-muddy and muddy.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Лесковичи находится в Шумилинском районе Витебской обл., в 5 км на юг от г.п. Шумилино, между деревнями Лесковичи и Непороты и относится к бассейну р. Сечна (пр. приток р. Зап. Двина). Местность преимущественно равнинная, местами холмисто-грядистая, поросшая кустарником и редколесьем, местами болотистая. Берега песчаные, преимущественно высокие (на западе низкие, заболоченные), поросшие кустарником и редколесьем, местами лесом. Мелководье узкое (на юге и северо-западе обширное), преимущественно песчаное (участками глинистое), глубже дно глинисто-илистое и илистое.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Q21867867_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

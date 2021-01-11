@@ -1,0 +1,34 @@
+Vedrenskoe
+=> nrel_main_idtf:
+	[Vedrenskoe] (* <- lang_en;; *);
+	[Ведреньское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vedrenskoe)] (* <-lang_en;; *);
+			[Опр.(Ведреньское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is located 10 kilometers from the town of Chashniki, between the villages of Maly Vedren and Bolshoy Vedren.
+
+It is connected by the Svina River in the north with Lake Glubochino, in the south with Lake Konechnoye.
+
+The terrain is predominantly ridged and hilly, overgrown with shrubs and woodlands, in places swampy. The shores are sandy, mostly high, overgrown with bushes.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро находится в 10 километрах от города Чашники, между деревнями Малый Ведрень и Большой Ведрень.
+
+Соединено рекой Свина на севере с озером Глубочино, на юге — с озером Конечное.
+
+Местность преимущественно грядистая и холмистая, поросшая кустарником и редколесьем, местами болотистая. Берега песчаные, преимущественно высокие, поросшие кустарником. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,30 @@
+Somino
+=> nrel_main_idtf:
+	[Somino (lake, Gorodoksky district)] (* <- lang_en;; *);
+	[Сомино (озеро, Городокский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Somino (lake, Gorodoksky district))] (* <-lang_en;; *);
+			[Опр.(Сомино (озеро, Городокский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Somino is located 32 km northwest of the town of Gorodok. Not far from the reservoir is the village of Bobaryki.
+
+The name of the village is also used in Russian and Belarusian sources as an alternative name for the lake.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Сомино располагается в 32 км к северо-западу от города Городок. Неподалёку от водоёма находится деревня Бобарыки (Бабарыки; белор. Бабарыкі).
+
+Название деревни также используется в русско- и белорусскоязычных источниках в качестве альтернативного названия озера. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

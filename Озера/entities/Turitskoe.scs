@@ -1,0 +1,26 @@
+Turitskoe
+=> nrel_main_idtf:
+	[Turitskoe] (* <- lang_en;; *);
+	[Турицкое] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Turitskoe)] (* <-lang_en;; *);
+			[Опр.(Турицкое)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is located 10 km southwest of the town of Chashniki. The lake has an elongated, curved shape, the western part is oriented in the west-east direction, the east - in the south-west-north-east direction. The western part belongs administratively to the Lepel district, the eastern part to the Chashniki district. On the eastern shore of the lake is the village of Zazeritsa. Several streams flow into the lake, from the northern part a stream flows into the Ulla River.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро расположено в 10 км к юго-западу от города Чашники. Озеро имеет вытянутую, изогнутую форму, западная часть ориентирована в направлении запад-восток, восточная — в направлении юго-запад — северо-восток. Западная часть административно принадлежит Лепельскому району, восточная — Чашникскому. На восточном берегу озера находится деревня Зазерица. В озеро впадает несколько ручьёв, из северной части вытекает ручей, впадающий в реку Улла. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

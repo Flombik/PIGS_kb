@@ -1,0 +1,33 @@
+Q3918496
+=> nrel_main_idtf:
+	[Selyava] (* <- lang_en;; *);
+	[Селява] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Selyava)] (* <-lang_en;; *);
+			[Опр.(Селява)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Selyava is located in the Krupsky district of the Minsk region, 20 km north of the town of Krupki, between the villages of Yanovshchina, Klisheno, Barki, Storozhische, Khudovo, Proshika, Guzovino, Duby, Kolodnitsa and Vysokoe. Refers to the river basin. Yugna (pr. Tributary of the Lukomka river). It is one of the largest lakes in Belarus and ranks 9th in terms of water volume and 12th in terms of mirror area. It was formed as a result of the construction of a hydroelectric power station (currently inactive) on the river. Yugna on the site of the Selyava and Rabtsa lakes and belongs to the hollow type lakes. In 1993, the state landscape reserve Selyava was created on the basis of the lake.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Селява находится в Крупском районе Минской обл., в 20 км на север от г. Крупки, между деревнями Яновщина, Клишено, Барки, Сторожище, Худово, Прошика, Гузовино, Дубы, Колодница и Высокое. Относится к бассейну р. Югна (пр. приток р. Лукомка). Является одним из самых крупных озер Беларуси и занимает 9-е место по объему воды и 12-е место по площади зеркала. Образовалось в результате строительства ГЭС (в наст. время недействующая) на р. Югна на месте озер Селява и Рабца и относится к озерам ложбинного типа. В 1993 г. на базе озера создан государственный ландшафтный заказник Селява.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Q3918496_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

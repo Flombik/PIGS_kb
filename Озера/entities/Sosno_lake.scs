@@ -1,0 +1,34 @@
+Sosno
+=> nrel_main_idtf:
+	[Sosno (lake, Gorodoksky district)] (* <- lang_en;; *);
+	[Сосно (озеро, Городокский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Sosno (lake, Gorodoksky district))] (* <-lang_en;; *);
+			[Опр.(Сосно (озеро, Городокский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Mineralization of water is 150 mg / l, transparency - 1.3 m, color - 110-150 °. The lake is flowing, but eutrophic. The Lovat River flows through the lake, connecting Sosno with lakes Mezha and Chernyasto (Chernyasta).
+
+Coastal vegetation forms a discontinuous strip of about 8 meters and to a depth of 0.7 m. To a depth of 1.7 m, pondweed grows.
+
+The lake is inhabited by pike, bream, perch, ide, roach, rudd and other fish species.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Минерализация воды составляет 150 мг/л, прозрачность — 1,3 м, цветность — 110—150°. Озеро проточное, однако эвтрофное. Через озеро протекает река Ловать, соединяющая Сосно с озёрами Межа и Чернясто (Черняста).
+
+Прибрежная растительность образует прерывистую полосу около 8 метров и до глубин 0,7 м. До глубины 1,7 м растут рдесты.
+
+В озере обитают щука, лещ, окунь, язь, плотва, краснопёрка и другие виды рыб.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

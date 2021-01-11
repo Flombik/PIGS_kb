@@ -12,13 +12,13 @@ Druznianka
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[Druzhnenko - river in Braslav district Vitebsk region in the basin of the Western Dvina. The river is 15 km long. The catchment area is 73 km2. Flows from lake Rudower flows within the Braslav range, flows through the lake together. It flows into Lake Drivyaty from the south-east near the village of Akhremovtsy. The channel in the high and low reaches is canalized. The average slope of the water surface is 1.5 m / km. The river receives runoff from a network of reclamation channels. In the river basin ozyory Solve the centerpiece, Shilovo, HOMESTEAD.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Дружнянка-река в Браславском районе Витебской области в бассейне Западной Двины. Длина реки 15 км. Площадь водосбора 73 км2. Вытекает из озера Рудовец, течет в пределах Браславской гряды, протекает через озеро дружно. Впадает в озеро Дривяты с юго-востока возле деревни Ахремовцы. Русло в высоком и низком течении канализировано. Средний наклон водной поверхности 1,5 м/км. Река принимает Сток из сети мелиоративных каналов. В бассейне реки Озеры Золва, средник, Шилово, подворное.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

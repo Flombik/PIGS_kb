@@ -1,0 +1,26 @@
+Q6507436
+=> nrel_main_idtf:
+	[Luchay] (* <- lang_en;; *);
+	[Лучай] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(None)] (* <-lang_en;; *);
+			[Опр.(Лучай)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Ray lake is located in Postavy district, Vitebsk region., 15 km Southeast from the town of Postavy, between the villages of ray, Gavrilovici and Skvortsove tracts near Goat Meadow and belongs to the basin of the river Lucica. The Polotsk-Vilnius motorway runs approximately 1.4 km to the south.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Лучай находится в Поставском районе Витебской обл., в 15 км на юго-восток от г. Поставы, между деревнями Лучай, Гавриловичи и Скворцово, возле урочища Козиный Луг и относится к бассейну р. Лучайка. Примерно в 1,4 км на юг проходит автомагистраль Полоцк-Вильнюс.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,7 +1,7 @@
 Plucinok
 => nrel_main_idtf:
 	[Plucinok] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Плюсинок] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;

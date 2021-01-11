@@ -12,13 +12,13 @@ Bahinskaje
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Vitebsk Region, Belarus]
+				[Lake Boginskoe is located near the village of Bogino, which is 28 km south-west of Braslav. The lake is widely known among tourists, thanks to its picturesque islands and shores, clear water, and the intricate shape of the basin.The shores of the lake are sandy and low: the north and north-west merge with the slopes, the south and south-west of the lake are swampy. The Eastern shore is bordered by the picturesque forest – Park Abramovici Belmont.On the pond with eight Islands, two of which (Cirenaica and Settlement) are monuments of nature. The shores of the lake near the islands are overgrown with water lilies, reeds, calamus, reeds, horsetail, in general, it is characterized by an average degree of overgrowth. At the same time, underwater plants with a strip of reeds, reeds, which are sometimes joined by sitnyag, calamus, cattail, form a kind of second bank.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Богинское находится возле д. Богино, что в 28 км на юго-запад от Браслава. Озеро широко известно среди туристов, благодаря его живописным островам и берегам, чистой воде, затейливой форме котловины.Берега озера песчаные и низкие: северные и северо-западные сливаются со склонами, юг и юго-запад озера – заболоченные. Восточный берег граничит с живописным лесным массивом – Ахремовицким парком «Бельмонт».На водоеме находится восемь островов, двое из которых (Церенцейка и Городище) относятся к памятникам природы. Берега озера вблизи островов зарастают кувшинками, камышом, аиром, тростником, хвощем, в целом оно отличается средней степенью зарастания. При этом подводные растения полосой из камыша, тростника, к которым местами присоединяются ситняг, аир, рогоз, формируют своеобразный второй берег.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -1,0 +1,26 @@
+Q2080644
+=> nrel_main_idtf:
+	[Lyuban] (* <- lang_en;; *);
+	[Любань] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Lyuban)] (* <-lang_en;; *);
+			[Опр.(Любань)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Among the alluring landscapes of the Belarusian Polesie, in the Kobrin district, the famous Brest region, where the picturesque heights are replaced by a chain of delightful meadows, rich forests, emerald swamps with an exceptional natural ecosystem, clean rivers and reclamation channels, there is a lake of glacial origin called Luban. This lake belongs to the basin of the Mukhavets River and is located near the town of Kobrin and the village of Divin.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Среди заманчивых пейзажей Белорусского Полесья, в Кобринском районе, знаменитой Брестской области, там, где колоритные высоты сменяются цепью восхитительных лугов, насыщенных лесов, изумрудных болот с исключительной природной экосистемой, чистых рек и мелиоративных каналов, расположено озеро ледникового происхождения под названием Любань. Это озеро относится к бассейну реки Мухавец и располагается вблизи города Кобрин и деревушки Дивин.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

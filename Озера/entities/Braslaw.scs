@@ -1,24 +1,24 @@
 Braslaw
 => nrel_main_idtf:
-	[Braslaŭ] (* <- lang_en;; *);
+	[Braslau] (* <- lang_en;; *);
 	[Браслав] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(Braslaŭ)] (* <-lang_en;; *);
+			[Def.(Braslau)] (* <-lang_en;; *);
 			[Опр.(Браслав)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[city in Belarus]
+				[Braslau (belor. Braslay is a resort town in the north-west of Belarus, the administrative center of the Braslav district of the Vitebsk region. The population is 9829 people (as of January 1, 2018).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[город, центр Браславского района Витебской области Белоруссии]
+				[Бра́слав (белор. Браслаў) — курортный город на северо-западе Белоруссии, административный центр Браславского района Витебской области. Население — 9829 человек (на 1 января 2018 года)]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

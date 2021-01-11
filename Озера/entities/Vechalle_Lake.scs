@@ -12,13 +12,13 @@ Vechalle_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The maximum depth is 35.9 m. The length is 3.68 km, the maximum width is 0.48 km. The coastline is 8.2 km long. The volume of water in the lake is 25.1 million m³, the catchment area is 37.2 km².]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Максимальная глубина — 35,9 м. Длина 3,68 км, наибольшая ширина 0,48 км. Длина береговой линии 8,2 км. Объём воды в озере составляет 25,1 млн м³, площадь водосбора 37,2 км². ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

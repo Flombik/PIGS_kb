@@ -12,13 +12,13 @@ Miadziel_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[The reservoir is located 4 km northwest of Myadel. The area of Miadel is 16.2 km. However, by the volume of water contained in it (102 million tons). m3) this lake occupies the eighth place in Belarus.The Myadelka River flows out of the reservoir. Together with the small lakes located nearby, it forms the Miadel group. The heavily indented shores with many peninsulas and bays are picturesque, largely due to the forested ozovoi ridge that stretches along the lake (its height can reach 20 m).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Водоем расположен в 4 км к северо-западу от Мяделя. Площадь Мяделя составляет 16,2 км. Однако по объему содержащийся в нем воды (102 млн. м3) это озеро занимает восьмое место в Беларуси.Из водоема вытекает река Мяделка. Вместе с расположенными поблизости небольшими озерами оно   Мядельскую группу. Сильно изрезанные берега с множеством полуостровов и заливов отличаются живописностью, во многом благодаря поросшей лесом озовой гряде, которая тянется вдоль озера (ее высота может достигать 20 м).]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

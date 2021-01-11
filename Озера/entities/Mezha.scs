@@ -1,0 +1,26 @@
+Q4288048
+=> nrel_main_idtf:
+	[Mezha (lake)] (* <- lang_en;; *);
+	[Межа (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Mezha (lake))] (* <-lang_en;; *);
+			[Опр.(Межа (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Mezha is located in the Gorodok district of the Vitebsk region, 36 km north-east of the town of Gorodok, near d. Mezha and belongs to the basin of the Lovat River, which flows through the lake. Surrounded by a vast swampy floodplain. The banks are low sandy, sometimes peaty, overgrown with bushes, sometimes with forest. Shallow water is wide, sandy, deeper bottom is muddy and sapropelic.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Межа находится в Городокском районе Витебской обл., в 36 км на северо-восток от г. Городок, возле д. Межа и относится к бассейну р. Ловать, которая протекает через озеро. Окружено обширной заболоченной поймой. Берега низкие песчаные, местами торфянистые, поросшие кустарником, местами лесом. Мелководье широкое, песчаное, глубже дно илистое и сапропелистое.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

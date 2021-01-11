@@ -12,13 +12,13 @@ Lake_Chervonoye
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Belarusian Polesie is a huge natural open-air museum in the center of Europe. And its unique natural exhibit is Lake Chervonoe (or Knyaz-lake) — the third largest in Belarus and the largest in the Gomel region. It is located 19 km from Zhitkovichi, near the village of Pukhovichi. The area of the lake today is about 40 square kilometers.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Белорусское Полесье — огромный естественный музей под открытым небом в центре Европы. И его уникальным природным экспонатом является озеро Червоное (или Князь-озеро) — третье по площади в Беларуси и самое большое на Гомельщине. Оно находится в 19 км от Житковичей, у деревни Пуховичи. Площадь озера на сегодняшний день — около 40 квадратных километров.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

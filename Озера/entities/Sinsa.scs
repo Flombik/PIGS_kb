@@ -12,13 +12,13 @@ Sinsa
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus and Russia]
+				[The lake consists of two parts, divided longitudinally by a peninsula and two islands with a total area of ​​0.17 km². The Drissa River flows through the reservoir, upstream and downstream of which there are lakes Ostrovtsy and Buza, respectively. Lake Sinsha is connected by channels with lakes Voloba (in Belarus) and Donskoe (in Russia).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Россонском районе Витебской области Белоруссии и Невельском районе Псковской области России]
+				[Озеро состоит из двух частей, разделённых в продольном направлении полуостровом и двумя островами общей площадью 0,17 км². Через водоём протекает река Дрисса, выше и ниже по течению которой располагаются озёра Островцы и Буза соответственно. Озеро Синьша соединено протоками с озёрами Волоба (в Беларуси) и Донское (в России). ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

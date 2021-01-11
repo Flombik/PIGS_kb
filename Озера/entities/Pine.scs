@@ -1,0 +1,26 @@
+Q4429481
+=> nrel_main_idtf:
+	[Pine (lake, Shumilinsky district)] (* <- lang_en;; *);
+	[Сосна (озеро, Шумилинский район)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Pine (lake, Shumilinsky district))] (* <-lang_en;; *);
+			[Опр.(Сосна (озеро, Шумилинский район))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Sosno is located in the Shumilinsky district of the Vitebsk region, 14 km south-east of the urban settlement. Shumilino, between the villages Russkie and Gorodno and belongs to the basin of the river. Zap. Dvina. The lake and its surroundings have been declared Sosno hydrological reserve. The terrain is mainly flat, in places hilly-ridged, overgrown with bushes and woodlands, in places swampy. In the east and south-west, there are vast forests. The surrounding forests are rich in blueberries, lingonberries, strawberries and mushrooms.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Сосно находится в Шумилинском районе Витебской обл., в 14 км на юго-восток от г.п. Шумилино, между деревнями Русские и Городно и относится к бассейну р. Зап. Двина. Озеро и окрестности объявлены гидрологическим заказником Сосно. Местность преимущественно равнинная, местами холмисто-грядистая, поросшая кустарником и редколесьем, местами болотистая. На востоке и юго-западе расположены обширные лесные массивы. Окрестные леса богаты черникой, брусникой, земляникой и грибами.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

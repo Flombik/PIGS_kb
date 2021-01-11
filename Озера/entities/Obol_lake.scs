@@ -1,0 +1,46 @@
+Q4329587
+=> nrel_main_idtf:
+	[Obol (lake)] (* <- lang_en;; *);
+	[Оболь (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Obol (lake))] (* <-lang_en;; *);
+			[Опр.(Оболь (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Obol (Belorussian. Obal) is a lake in the Gorodok district of the Vitebsk region in the Obol
+				river basin near the villages of Obol and Konovalovo.
+
+                 The basin of the lake is an extended channel of the Obol River.
+                 The slopes are 6-10 m high, loamy and sandy loam. The water surface area is 0.3 km².
+                 Length 2.56 km, maximum width 0.4 km. The average depth is 2.3 m, the maximum is 2.8 m.
+                 The bottom is flat, covered with silt and sapropel, the banks are swampy. The catchment area is 568 km².
+                 The lake is dystrophic, overgrown with reeds, reeds, water lilies, pondweed.
+
+                 Four streams flow into the lake.
+                 The lake is home to bream, pike, river perch, bleak, roach, silver bream,
+                 ide, tench, burbot, and other types of fish.
+]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[О́боль (белор. О́баль) — озеро в Городокском районе Витебской области в бассейне реки Оболь у деревень Оболь и Коновалово.
+
+                 Котловина озера представляет собой расширенное русло реки Оболь. Склоны высотой 6—10 м, суглинистые и супесчаные.
+                 Площадь водной поверхности 0,3 км². Длина 2,56 км, максимальная ширина 0, 4 км. Средняя глубина 2,3 м,
+                 максимальная — 2,8 м. Дно плоское, покрыто илом и сапропелем, берега заболоченные. Площадь водосбора 568 км².
+                 Озеро дистрофирующее, зарастает камышом, тростником, кувшинкой, рдестом.
+
+                 В озеро впадает четыре ручья.
+                 В озере водятся лещ, щука, окунь речной, уклейка, плотва, густера, язь, линь, налим, и другие виды рыб.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

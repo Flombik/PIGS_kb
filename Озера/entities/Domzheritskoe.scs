@@ -1,0 +1,26 @@
+Q17047331
+=> nrel_main_idtf:
+	[Domzheritskoe] (* <- lang_en;; *);
+	[Домжерицкое] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Domzheritskoe)] (* <-lang_en;; *);
+			[Опр.(Домжерицкое)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Domzheritskoye is located in Lepel district Vitebsk region on the territory of Berezinski biosphere reserve, 26 km South-West of Lepel, 1.1 km on East from D. Domzheritsy. It belongs to the basin of the Serguch River (left tributary of the Berezina River). The lake is a dystrophic, residual type. The area is flat, low-lying, overgrown with dense forest and shrubs, wooded, heavily swampy, difficult to access, almost uninhabited. The catchment area has a low-lying terrain, is composed of lake sands and peat, overgrown with forest and shrubs, and is swampy. The banks are low, swampy, overgrown with shrubs and swamp vegetation, sometimes forest, in the southern part peaty. The bottom is flat, flat, the shallow water is extensive, along the banks peaty, sometimes lined with sand, in the central part with sapropel (the thickness of the formation is 3-4 m). The water is brownish, has a low degree of transparency (up to 0.6 m) and is saturated with a large amount of organic substances. The greatest depths are at the entrance to the eastern bay. Overgrown significantly. In the north-west it is connected by a wide channel with the Serguch River. Domzheritsky Guest House is located on the shore of the lake (200 m). The lake is home to carp, bream, silver carp, tench, roach.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Домжерицкое находится в Лепельском районе Витебской обл., на территории Березинского биосферного заповедника, в 26 км на юго-запад от г. Лепель, в 1,1 км на восток от д. Домжерицы. Относится к бассейну р. Сергуч (лев. приток р. Березина). Озеро дистрофирующее, остаточного типа. Местность равнинная, низинная, заросшая густым лесом и кустарником, поймистая, сильно заболоченная, труднодоступная, почти незаселенная. Водосбор имеет низинный рельеф, сложен озерными песками и торфом, зарос лесом и кустарником, заболочен. Берега низкие, заболоченные, поросшие кустарником и болотной растительностью, местами лесом, в южной части торфянистые. Дно ровное, плоcкое,мелководье обширное, вдоль берегов торфянистое, местами выстлано песком, в центральной части сапропелем (мощность пласта 3-4 м). Вода коричневатая, отличается низкой степенью прозрачности (до 0,6 м) и насыщена большим количеством органических веществ. Наибольшие глубины находятся на входе в восточный залив. Зарастает значительно. На северо-западе соединено широкой протокой с р. Сергуч. На берегу озера (в 200 м) расположен Гостевой дом "Домжерицкий". В озере обитают карась, лещ, карась серебряный, линь, плотва.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

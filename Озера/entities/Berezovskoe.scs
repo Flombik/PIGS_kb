@@ -1,0 +1,26 @@
+Q17047166
+=> nrel_main_idtf:
+	[Berezovskoe] (* <- lang_en;; *);
+	[Берёзовское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Berezovskoe)] (* <-lang_en;; *);
+			[Опр.(Берёзовское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Berezovskoye is located in the Ushachsky district of the Vitebsk region, 23 km north-east of the town of Ushachi, between three villages with the same name Berezovo and d. Krivushin (South-East) and Thatcham (North-West). It belongs to the basin of the Diva River, which flows through it. Part of Ushachi group of lakes. The area is mostly ridge-hilly, mostly overgrown with sparse woodlands and shrubs, sometimes swampy, with small woodlands. The surrounding forests are rich in strawberries, raspberries, cranberries, blueberries and mushrooms. The lake is bordered by a low (in the east up to 5-8 m) long ridge, overgrown with shrubs and woodlands. Surrounded (in places) by a narrow swampy floodplain. The banks are low, mostly sandy (sometimes sandy and pebbly), overgrown with shrubs and sparsely wooded, sometimes swampy and raft. A fairly extensive shallow water (shallow bays completely), along the banks of the sandy, the deeper the bottom sapropelite.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Березовское находится в Ушачском районе Витебской обл., в 23 км на северо-восток от г.п. Ушачи, между тремя деревнями с одинаковым названием Березово и д. Кривущино (на юго-востоке) и Тетча (на северо-западе). Относится к бассейну р. Дива, которая протекает через него. Входит в Ушачскую группу озер. Местность преимущественно грядисто-холмистая, большей частью поросшая редколесьем и кустарником, местами болотистая, с небольшими лесными массивами. Окрестные леса богаты земляникой, малиной, брусникой, черникой и грибами. Озеро окаймлено невысокой (на востоке до 5-8 м) протяженной грядой, поросшей кустарником и редколесьем. Окружено (местами) узкой заболоченной поймой. Берега низкие, преимущественно песчаные (местами песчано-галечниковые), поросшие кустарником и редколесьем, местами заболоченные и сплавинные. Мелководье довольно обширное (заливы полностью мелководны), вдоль берегов песчаное, глубже дно сапропелистое.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

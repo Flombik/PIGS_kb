@@ -12,13 +12,13 @@ Brest_Region
 		    ...
 			(*
 			-> rrel_example:
-				[administrative divison (voblast) in southwestern Belarus]
+				[Brest region (Brestskaya voblast) is a region in the south-west of Belarus. Population 1 348 115 people (according to the census of 2019). Its administrative center is the city of Brest.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[область Белоруссии]
+				[Бре́стская о́бласть (Брэ́сцкая вобласць) — область на юго-западе Белоруссии. Население 1 348 115 человек (по переписи 2019 года). Административный центр — город Брест.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Braslau_Lakes
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Braslav Lakes National Park is a national park in the north-west of Belarus.The National Park serves as a protection of unique natural complexes from human economic activity, preserving them for future generations. It was established in August 1995. The core was the Braslav group of lakes[1]. The park includes the southern part of the Braslav district with significant swamp and forest areas. The total area of the national park is 71,500 ha[2]. From north to south, it stretches for 56 km, with a width of 7 to 29 km. About 17% of its territory is occupied by lakes, forests occupy 46 % of the surface.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Национальный парк «Бра́славские озёра» — национальный парк на северо-западе Белоруссии. Национальный парк служит защитой уникальных природных комплексов от хозяйственной деятельности человека, сохранению их для будущих поколений. Он был создан в августе 1995 года. Ядром стала Браславская группа озёр[1]. В состав парка вошла южная часть Браславского района со значительными болотными и лесными массивами. Общая площадь национального парка составляет 71500 га[2]. С севера на юг он тянется на 56 км, при ширине от 7 до 29 км. Около 17 % его территории занимают озёра, леса занимают 46 % поверхности.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

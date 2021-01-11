@@ -1,0 +1,30 @@
+Turos
+=> nrel_main_idtf:
+	[Turos] (* <- lang_en;; *);
+	[Туросы] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Turos)] (* <-lang_en;; *);
+			[Опр.(Туросы)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is poorly overgrown. Emerging vegetation extends to a depth of 1.9 m at a distance of up to 100 m from the coast.
+
+The Diva River flows through Turos, upstream and downstream of which the Otolovo and Berezovskoye lakes are located, respectively. A stream flows from Lake Provady into the lake. In addition, lakes Turos and Otolovo are connected by an additional channel.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро зарастает слабо. Надводная растительность распространяется до глубины 1,9 м на расстояние до 100 м от берега.
+
+Через Туросы протекает река Дива, выше и ниже по течению которой расположены озёра Отолово и Берёзовское соответственно. В озеро впадает ручей, вытекающий из озера Провады. Кроме того, озёра Туросы и Отолово соединяются дополнительной протокой. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

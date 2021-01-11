@@ -1,0 +1,26 @@
+Q4236613
+=> nrel_main_idtf:
+	[Kachaiskoe] (* <- lang_en;; *);
+	[Качайское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Kachaiskoe)] (* <-lang_en;; *);
+			[Опр.(Качайское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The area is 0.17 km2. Length of 0.48 km. The length of the coastline is 1.52 km. It belongs to the Tsna River basin and is located in the middle of a forest area. A canal runs through the lake.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Площадь 0,17 км². Длина 0,48 км. Длина береговой линии 1,52 км. Принадлежит бассейну реки Цна, находится среди лесного массива. Через озеро проходит канал.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

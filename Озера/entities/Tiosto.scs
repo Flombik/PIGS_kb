@@ -1,0 +1,30 @@
+Tiosto
+=> nrel_main_idtf:
+	[Tiosto] (* <- lang_en;; *);
+	[Тиосто] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Tiosto)] (* <-lang_en;; *);
+			[Опр.(Тиосто)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Tiosto is home to pike, bream, pike perch, tench, perch, roach, rudd and other fish species.
+
+Near the lake are the villages of Selo, Selezny, and the coast near the village of Selezny is an archaeological monument - a settlement.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[В Тиосто обитают щука, лещ, судак, линь, окунь, плотва, краснопёрка и другие виды рыб.
+
+Около озера расположены деревни Село, Селезни, а берегу у деревни Селезни археологический памятник — городище. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

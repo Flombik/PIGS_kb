@@ -1,0 +1,26 @@
+Q3256421
+=> nrel_main_idtf:
+	[Berezhe] (* <- lang_en;; *);
+	[Береже] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Berezhe)] (* <-lang_en;; *);
+			[Опр.(Береже)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Take care (belor. Baraga) is a lake in Braslav district Vitebsk region of Belarus.Lake Bereze is among the Braslav lakes are located in the North-Western outskirts of Braslav.The area is 1.93 km2. Maximum depth 8.2 m, length 2.2 km, maximum width 1.4 km.  The length of the coastline is 6.4 km, the volume of water is 7.8 million m3. The catchment area of 11.6 km2 The lake belongs to the basin of the river Druika. The slopes of the basin are 2-7 m high, plowed, the western ones are covered with forest. The banks are mostly low, but the eastern shore is high and sandy. The bottom is sandy, sometimes sapropelic. The lake is overgrown, the width of the coastal vegetation strip is 200-300 m.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Бере́же (белор. Бярэ́жа) — озеро в Браславском районе Витебской области Белоруссии.Озеро Береже входит в число Браславских озёр, расположено на северо-западной окраине города Браслав.Площадь 1,93 км². Наибольшая глубина 8,2 м, длина 2,2 км, максимальная ширина 1,4 км. Длина береговой линии 6,4 км, объём воды 7,8 млн м³. Площадь водосбора 11,6 км²]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

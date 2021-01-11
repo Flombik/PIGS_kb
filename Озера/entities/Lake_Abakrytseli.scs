@@ -12,13 +12,13 @@ Lake_Abakrytseli
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[A small lake in Opavska the village Council in the West of the Braslav district Vitebsk region of Belarus.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[небольшое озеро в Опсовском сельсовете на западе Браславского района Витебской области Белоруссии.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

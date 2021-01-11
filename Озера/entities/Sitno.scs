@@ -1,0 +1,26 @@
+Sitno
+=> nrel_main_idtf:
+	[Sitno (lake, Vitebsk region)] (* <- lang_en;; *);
+	[Ситно (озеро, Витебская область)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Sitno (lake, Vitebsk region))] (* <-lang_en;; *);
+			[Опр.(Ситно (озеро, Витебская область))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The basin of the lake stretches from northeast to southwest. Slopes 8-9 m high (up to 17 m in the south) are composed of sand and sandy loam. The coastline is slobically winding. The shores are up to 0.5 m high. The underwater part of the basin is trough-shaped, the shallow water zone occupies about 70% of the area. To a depth of 4 m, the bottom is covered with sand and silt, deeper - with silica sapropel.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Котловина озера вытянута с северо-востока на юго-запад. Склоны высотой 8—9 м (на юге до 17 м) сложены из песков и супесей. Береговая линия слобоизвилистая. Берега высотой до 0,5 м. Подводная часть котловины корытообразной формы, зона мелководья занимает около 70 % площади. До глубины 4 м дно покрыто песком и илом, глубже — кремнезёмистым сапропелем. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

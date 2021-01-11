@@ -1,0 +1,26 @@
+Q21862999
+=> nrel_main_idtf:
+	[Navlitskoe] (* <- lang_en;; *);
+	[Навлицкое] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Navlitskoe)] (* <-lang_en;; *);
+			[Опр.(Навлицкое)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Nawlicki is located in Polotsk district Vitebsk region, 20 km South-West of Polotsk, between the villages of Nauliza, mountains, Oak trees and the Yard Chotevice and belongs to the basin of the river Ushacha. The area is hilly, overgrown with forest and shrubs, mostly swampy. The lake is mesotrophic, podprudnoe type. It is surrounded by an extensive peaty, swampy floodplain, overgrown with marsh-meadow vegetation and rare shrubs.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Навлицкое находится в Полоцком районе Витебской обл., в 20 км на юго-запад от г. Полоцк, между деревнями Навлица, Гуры, Дубняки и Двор Хотцевичи и относится к бассейну р. Ушача. Местность грядисто-холмистая, заросшая лесом и кустарником, преимущественно болотистая. Озеро мезотрофное, подпрудного типа. Окружено обширной торфянистой, заболоченной поймой, поросшей болотно-луговой растительностью и редким кустарником.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

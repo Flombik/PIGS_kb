@@ -1,0 +1,27 @@
+Q21391019
+=> nrel_main_idtf:
+	[Lyashuga] (* <- lang_en;; *);
+	[Ляшуга] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Lyashuga)] (* <-lang_en;; *);
+			[Опр.(Ляшуга)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake in the Gorodok district of the Vitebsk region of Belarus. Belongs to the basin of the river Oatmeal.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро в Городокском районе Витебской области Белоруссии. Относится к бассейну реки Овсянка.
+]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

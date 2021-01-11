@@ -1,0 +1,26 @@
+Q32871424
+=> nrel_main_idtf:
+	[Boginskoe] (* <- lang_en;; *);
+	[Богинское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Boginskoe)] (* <-lang_en;; *);
+			[Опр.(Богинское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Boginskoe is located near the village of Bogino, which is 28 km south-west of Braslav. The lake is widely known among tourists, thanks to its picturesque islands and shores, clear water, and the intricate shape of the basin.The shores of the lake are sandy and low: the north and north-west merge with the slopes, the south and south-west of the lake are swampy. The Eastern shore is bordered by the picturesque forest – Park Abramovici Belmont.On the pond with eight Islands, two of which (Cirenaica and Settlement) are monuments of nature. The shores of the lake near the islands are overgrown with water lilies, reeds, calamus, reeds, horsetail, in general, it is characterized by an average degree of overgrowth. At the same time, underwater plants with a strip of reeds, reeds, which are sometimes joined by sitnyag, calamus, cattail, form a kind of second bank. The central and northern part of the lake with a width of vegetation reaches 20-25 meters. To the south, it increases,in some places reaching a hundred meters. Around the islands above water]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[ Озеро Богинское находится возле д. Богино, что в 28 км на юго-запад от Браслава. Озеро широко известно среди туристов, благодаря его живописным островам и берегам, чистой воде, затейливой форме котловины.Берега озера песчаные и низкие: северные и северо-западные сливаются со склонами, юг и юго-запад озера – заболоченные. Восточный берег граничит с живописным лесным массивом – Ахремовицким парком «Бельмонт».На водоеме находится восемь островов, двое из которых (Церенцейка и Городище) относятся к памятникам природы. Берега озера вблизи островов зарастают кувшинками, камышом, аиром, тростником, хвощем, в целом оно отличается средней степенью зарастания. При этом подводные растения полосой из камыша, тростника, к которым местами присоединяются ситняг, аир, рогоз, формируют своеобразный второй берег. Центральная и северная часть озера с шириной полосы растительности достигает 20—25 метров. К югу она увеличивается,в отдельных местах достигая ста метров. Вокруг островов надводные растения создают полосы, а на мелях — зоны растительности.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

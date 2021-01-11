@@ -1,24 +1,24 @@
 Lake_Narach
 => nrel_main_idtf:
-	[Narač] (* <- lang_en;; *);
+	[Narach] (* <- lang_en;; *);
 	[Нарочь] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
-			[Def.(Narač)] (* <-lang_en;; *);
+			[Def.(Narach)] (* <-lang_en;; *);
 			[Опр.(Нарочь)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Naroch is not only the largest (79.6 sq.km), but also one of the most beautiful lakes in the country. Thanks to the shallow water Naroch is well warmed. The swimming season here lasts 100 days a year. If you add to this the gentle sandy shores overgrown with pine forests, it becomes clear why this place has become the main resort area of Belarus. The rich history of the region allows you to diversify your beach holiday by visiting attractions. It has all the necessary infrastructure for a comfortable stay in nature: ecological trails, tourist bases, hotels for every taste and financial possibilities.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Нароч является не только самым большим (79,6 кв.км), но и одним из самых красивых среди озер страны. Благодаря небольшой глубине воды Нарочи хорошо прогреваются. Купальный сезон здесь продолжается 100 дней в году. Если прибавить к этому пологие песчаные берега, поросшие сосновыми лесами, становится понятно, почему именно это место превратилось в главную курортную зону Беларуси. Богатая история края позволяет разнообразить пляжный отдых посещением достопримечательностей. Здесь имеется вся необходимая инфраструктура для комфортного пребывания на природе: экологические тропы, туристские базы, гостиницы на любой вкус и финансовые возможности.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

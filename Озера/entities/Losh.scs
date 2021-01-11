@@ -1,0 +1,26 @@
+Q20010646
+=> nrel_main_idtf:
+	[Losh (lake)] (* <- lang_en;; *);
+	[Лош (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Losh (lake))] (* <-lang_en;; *);
+			[Опр.(Лош (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Loshanskoe reservoir is located in Uzden district, Minsk region, 12 km south-east of the town of Uzda. It was established in 1968 on the Losha River, 32 km from the mouth for agricultural purposes and fish farming. It belongs to the basin of the Neman River, the left tributary of which is the Losha River.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Водохранилище Лошанское находится в Узденском р-не, Минской обл, в 12 км к юго-востоку от г.п. Узда. Создано в 1968 г. на р. Лоша, в 32 км от устья для селькохозяйственных целей и рыборазведения. Принадлежит бассейну р. Нёман, левым притоком которого и является р. Лоша.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

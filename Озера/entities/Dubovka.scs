@@ -1,24 +1,24 @@
 Dubovka
 => nrel_main_idtf:
 	[Dubovka] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Дубовка] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
 			[Def.(Dubovka)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Опр.(Дубовка)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[Dubovskoye Lake is located in the Gantsevichi district of the Brest region, 9 km south of Gantsevichi, about 1 km north-west of d. Polon, in the west it adjoins the Zadny Bor tract and belongs to the basin of the Tsna River (left tributary of the Pripyat River) The lake area is about 0.19 km? (according to other data, 0.18 km?), the length is 0.63 km, the maximum width is 0.38 km, the maximum depth is 2.9 m, the length of the coastline is about 1.7 km. The volume of water is about 0.3 million m3.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Дубовское находится в Ганцевичском районе Брестской обл., в 9 км на юг от г. Ганцевичи, примерно в 1 км на северо-запад от д. Полонь, на западе примыкает к урочищу Задний Бор и относится к бассейну р. Цна (лев. приток р. Припять) Площадь озера около 0,19 км? (по др. данным 0,18 км?), длина 0,63 км, наибольшая ширина 0,38 км, максимальная глубина 2,9 м, длина береговой линии около 1,7 км. Объем воды около 0,3 млн. м3.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

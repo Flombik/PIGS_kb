@@ -12,13 +12,15 @@ Miastra
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[This reservoir is located on the outskirts of Myadel and belongs to the Naroch River basin. He is a member of the Naroch group. The area of the water mirror is 13.1 km2, and the maximum depth is 11.3 m.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Минской области Белоруссии]
+				[Этот водоем расположен на окраине Мяделя и относится к бассейну реки Нарочь. Он входит в Нарочанскую группу. Площадь водного зеркала составляет 13,1 км2, а максимальная глубина – 11,3 м.
+
+]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

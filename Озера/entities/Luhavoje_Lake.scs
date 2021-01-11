@@ -12,13 +12,13 @@ Luhavoje_Lake
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Lugovoye is located in the Gorodok district of the Vitebsk region, on the south-western outskirts of the town of Gorodok, and belongs to the river basin. Usysa, which flows through the lake. The area is mostly ridge-hilly, sometimes overgrown with forest and shrubs, sometimes swampy. The banks are low, overgrown with bushes and sparsely wooded, in places swampy in the north. The shallow water is sandy, narrow (wider in the bays), the bottom is deeper silty-sandy and sapropelic.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Луговое находится в Городокском районе Витебской обл., на юго-западной окраине г. Городок, и относится к бассейну р. Усыса, которая протекает через озеро. Местность преимущественно грядисто-холмистая, местами поросшая лесом и кустарником, местами болотистая. Берега низкие, поросшие кустарником и редколесьем, на севере местами заболоченные. Мелководье песчаное, узкое (в заливах шире), глубже дно илисто-песчаное и сапропелистое. ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

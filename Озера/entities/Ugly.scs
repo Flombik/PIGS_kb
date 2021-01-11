@@ -1,0 +1,30 @@
+Ugly
+=> nrel_main_idtf:
+	[Ugly] (* <- lang_en;; *);
+	[Урода] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Ugly)] (* <-lang_en;; *);
+			[Опр.(Урода)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The reservoir is eutrophic, low-flowing. Vegetation extends to a depth of 2 m. The width of the strip of coastal vegetation is 10–100 m.
+
+The lake is home to pike, bream, perch, roach, rudd, silver bream and other fish species, as well as eel.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Водоём эвтрофный, слабопроточный. Растительность распространяется до глубины 2 м. Ширина полосы прибрежной растительности составляет 10—100 м.
+
+В озере водятся щука, лещ, окунь, плотва, краснопёрка, густера и другие виды рыб, а также встречается угорь. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

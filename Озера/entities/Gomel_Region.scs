@@ -12,13 +12,13 @@ Gomel_Region
 		    ...
 			(*
 			-> rrel_example:
-				[administrative division (voblast) in southern Belarus]
+				[Gomel region is one of the six regions of Belarus. It is located in the south-eastern part of the country. Gomel region is the largest region in Belarus (40.4 thousand square kilometers). The region borders the Bryansk region of Russia, as well as the Kiev, Chernihiv, Zhytomyr and Rivne regions of Ukraine. Agricultural land occupies 30% of the region's territory.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[область Белоруссии]
+				[Гомельская область – одна из шести областей Беларуси. Расположена в юго-восточной части страны. Гомельская область – крупнейшая по территории область Беларуси (40,4 тыс.кв. км). Область граничит с Брянской областью России, а также с Киевской, Черниговской, Житомирской и Ровненской областями Украины. Сельскохозяйственные угодья занимают 30% территории региона.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

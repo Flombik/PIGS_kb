@@ -1,0 +1,26 @@
+Q15256371
+=> nrel_main_idtf:
+	[Rozhevo] (* <- lang_en;; *);
+	[Рожево] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Rozhevo)] (* <-lang_en;; *);
+			[Опр.(Рожево)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Rozhevo is located in the Braslav district of the Vitebsk region, 8 km south-west of the city of Braslav, near the village of Rozhevo and belongs to the basin of the river. Druyka (left tributary of the Zap. Dvina River. Ridged terrain, overgrown with light woodland and shrubs, in places marshy. The banks are mostly high (in the south and southeast are low, partly swampy), in places abrasive, overgrown with bushes, in places with sparse forests. Shallow water is narrow, sandy, deeper bottom is sandy-silty and silty. It grows insignificantly. In the south 2 streams flow, in the north-west a stream flows into Lake Raka. The lake is inhabited by perch, roach, bream, pike, tench, and other fish. The paid amateur fishing is organized.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Рожево находится в Браславском районе Витебской обл., в 8 км на юго-запад от г. Браслав, возле д. Рожево и относится к бассейну р. Друйка (лев. приток р. Зап. Двина. Местность грядистая, поросшая редколесьем и кустарником, местами болотистая. Берега преимущественно высокие (на юге и юго-востоке низкие, частично заболоченные), местами абразионные, поросшие кустарником, местами редколесьем. Мелководье узкое, песчаное, глубже дно песчано-илистое и илистое. Зарастает незначительно. На юге впадают 2 ручья, на северо-западе вытекает ручей в оз. Рака. В озере обитают окунь, плотва, лещ, щука, линь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

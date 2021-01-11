@@ -1,0 +1,26 @@
+Q4240681
+=> nrel_main_idtf:
+	[Krivets (lake)] (* <- lang_en;; *);
+	[Кривец (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Krivets (lake))] (* <-lang_en;; *);
+			[Опр.(Кривец (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Krivets is located in the Braslav district of the Vitebsk region, 2.6 km from the border with Latvia, 18 km north-east of Braslav, about 0.8 km north-west of d. Shashnishki and belongs to the basin of the Druika River (left tributary of the Zap River. Dvina). The area is ridged, sometimes overgrown with bushes and sparsely wooded, in the east it is swampy. The shores are sandy, low, in the bays low, swampy. The greatest depths are in the north-eastern part of the lake.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Кривец находится в Браславском районе Витебской обл., в 2,6 км от границы с Латвией, в 18 км на северо-восток от г. Браслав, примерно в 0,8 км на северо-запад от д. Шашнишки и относится к бассейну р. Друйка (лев. приток р. Зап. Двина). Местность грядистая, местами поросшая кустарником и редколесьем, на востоке болотистая. Берега песчаные, невысокие, в заливах низкие, заболоченные. Наибольшие глубины находятся в северо-восточной части озера.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;
