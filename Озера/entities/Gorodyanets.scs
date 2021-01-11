@@ -12,13 +12,13 @@ Q27516632
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Lake Gorodets is located in the Vetkovsky district of the Gomel region, about 7 km south-west of the town of Vetka, about 1.7 km south-west of the village. The old Village belongs to the basin of the Sozh River (actually located in its floodplain). It is a floodplain-type lake. The area is treeless, hilly-ridged, sometimes overgrown with bushes, swampy areas. In the northeast, it is connected by a narrow channel to an unnamed floodplain lake.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Городец находится в Ветковском районе Гомельской обл., примерно в 7 км на юго-запад от г. Ветка, примерно в 1,7 км на юго-запад от д. Старое Село и относится к бассейну р. Сож (фактически расположено в ее пойме). Является озером пойменного типа. Местность безлесная, холмисто-грядистая, местами поросшая кустарником, участками болотистая. На северо-востоке соединено узкой протокой с безымянным пойменным озером.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

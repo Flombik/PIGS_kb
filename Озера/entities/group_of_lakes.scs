@@ -12,13 +12,13 @@ group_of_lakes
 		    ...
 			(*
 			-> rrel_example:
-				[several lakes generally described together]
+				[Several lakes generally described together]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Несколько озер, обычно описываются вместе]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

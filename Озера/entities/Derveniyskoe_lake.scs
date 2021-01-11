@@ -12,13 +12,13 @@ Q21865986
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Derveniske is located in the Grodno region, 32 km north-east of Grodno, between the villages of Glushnevo and Novaya Ruda. Belongs to the basin of the river Paranka (D. tributary of the KOTRA). It is part of the national landscape reserve Ozery. It is covered by a massive lake ridge, overgrown with forest and shrubs. The area is flat, overgrown with picturesque coniferous forest (mostly pine). The banks are mostly elevated, overgrown with forest, in the north low, overgrown with woodlands and shrubs. It is connected by wide channels with lakes Verovskoe and Belyashka. In the east, a stream flows into the lake, connecting it with a system of reclamation channels and with the lake. Chizhovka. The lake is home to bream, pike, roach, tench, perch and other fish. Commercial fishing is carried out. It is prohibited to use floating vehicles with motors (resolution of the Council of Ministers of the Republic of Belarus of 27.12.2007 ? 1833). Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Дервениское находится в Гродненском районе, в 32 км на северо-восток от г. Гродно, между деревнями Глушнево и Новая Руда. Относится к бассейну р. Пыранка (пр. приток р. Котра). Входит в состав республиканского ландшафтного заказника Озеры. Охвачено массивной озовой грядой, заросшей лесом и кустарником. Местность равнинная, поросшая живописным хвойным лесом (в основном сосна). Берега преимущественно возвышенные, поросшие лесом, на севере низкие, заросшие редколесьем и кустарником. Соединено широкими протоками с озерами Веровское и Беляшка. На востоке впадает ручей, соединяющий озеро с системоц мелиоративных каналов и с оз. Чижовка. В озере обитают лещ, щука, плотва, линь, окунь и др. рыба. Производится промысловый лов рыбы. Запрещено использование плавучих средств с моторами (постановление СМ РБ от 27.12.2007 г. ? 1833). Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

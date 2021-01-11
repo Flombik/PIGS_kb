@@ -12,13 +12,13 @@ Ilava
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Sludge is Sharkovshina district, Vitebsk region, 32 km to the East from G. p. sharkivschyna 6.4 km on East from D. Pohori and belongs to the basin of the river Disna. It is located in a vast upper swamp. The banks are elevated, peaty, overgrown with forest and shrubs, mostly swampy. Shallow water ofanite, extensive, deeper bottom sapropelite. The water is highly transparent. It is poorly overgrown, however, with underwater vegetation almost completely. In the west, it is connected by a stream with an extensive system of reclamation channels. The surroundings of the lake are rich in cranberries, blueberries and cranberries. The lake is home to bream, pike, roach, tench, rudd, perch and other fish. Commercial fishing is carried out. Paid amateur fishing is organized. In the area of the lake, there is a rare plant species listed in the Red Book of the Republic of Belarus - small-fruited cranberry. The area of the lake is about 1.33 km? (according to other data, 1.44 km?), the length is about 1.5 km, the maximum width is about 1.12 km]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро Илово находится в Щарковщинском районе Витебской обл., в 32 км на восток от г.п. Шарковщина, в 6,4 км на восток от д. Погоры и относится к бассейну р. Дисна. Расположено в обширном верховом болоте. Берега возвышенные, торфянистые, поросшие лесом и кустарником, большей частью заболоченные. Мелководье тофянистое, обширное, глубже дно сапропелистое. Вода отличается высокой прозрачностью. Зарастает слабо, однако, подводной растительностью почти полностью. На западе соединено ручьем с обширной системой мелиоративных каналов. Окрестности озера богаты клюквой, голубикой и брусникой. В озере обитают лещ, щука, плотва, линь, красноперка, окунь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство. В районе озера отмечено обитание редкого вида растений, занесенного в Красную книгу Республики Беларусь - клюква мелкоплодная.Площадь озера около 1,33 км? (по др. данным 1,44 км?), длина около 1,5 км, наибольшая ширина около 1,12 км, максимальная глубина 4 м, длина береговой линии около 5 км. Объем воды около 4,95 млн. м3.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

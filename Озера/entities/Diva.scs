@@ -12,13 +12,13 @@ Q13032267
 		    ...
 			(*
 			-> rrel_example:
-				[river in Belarus]
+				[Diva (belor. Dziva is a river in the Lepelsky and Ushachsky districts of the Vitebsk Region of Belarus, in the Turovlyanka basin (a tributary of the Western Dvina).]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[река в Белоруссии]
+				[Ди́ва (белор. Дзі́ва) — река в Лепельском и Ушачском районах Витебской области Белоруссии, в бассейне Туровлянки (приток Западной Двины). ]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Q13030622
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Devichye Lake is located in the Lepel district of the Vitebsk region, 18 km north-east of Lepel, between the villages of Kamen, Dvory-Porechye and Porechye and belongs to the basin of the Diva River (in the lower reaches it is called Turovlyanka). The area is mostly hilly-ridged, overgrown with shrubs and sparsely wooded, sometimes swampy, in the north-east there is a vast forest area. The banks are mostly low (elevated in the west), sandy, overgrown with bushes, sometimes sparsely wooded. The shallow water is sandy, narrow (wider in the northern bay), the bottom is deeper muddy, sometimes sapropelic. The bottom relief is complex: deep-sea depressions alternate with underwater elevations. The greatest depths are located in the south-eastern part of the lake and in the north-western bay, the maximum is about 0.21 km north of the southern shore, opposite the northern edge of d. Porech'ye. Overgrown significantly. Connected by a stream to the lake. Cerasulo (North-West), in the West flows a small stream. The lake is home to perch, roach, bream, pike, tench, carp and other fish. Commercial fishing is carried out. Paid amateur fishing is organized.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Девичье находится в Лепельском районе Витебской обл., в 18 км на северо-восток от г. Лепель, между деревнями Камень, Дворы-Поречье и Поречье и относится к бассейну р. Дива (в нижнем течении называется Туровлянка). Местность преимущественно холмисто-грядистая, поросшая кустарником и редколесьем, местами болотистая, на северо-востоке расположен обширный лесной массив. Берега преимущественно низкие (на западе возвышенные), песчаные, поросшие кустарником, местами редколесьем. Мелководье песчаное, узкое (в северном заливе шире), глубже дно илистое, местами сапропелистое. Рельеф дна сложный: глубоководные впадины чередуются с подводными возвышениями. Наибольшие глубины находятся в юго-восточной части озера и в северо-западном заливе, максимальная - примерно в 0,21 км на север от южного берега, напротив северной окраины д. Поречье. Зарастает существенно. Соединено ручьем с оз. Черосово (на северо-западе), на западе впадает небольшой ручей. В озере обитают окунь, плотва, лещ, щука, линь, сазан и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

@@ -12,13 +12,13 @@ Q13030554
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Ginkovo is located in the Glubokoe district of the Vitebsk region, 33 km north-east of the city of Glubokoe, near d. Sekhnovichi and belongs to the basin of the Heathen (D. tributary Out). The lake is mesotrophic, with signs of oligotrophy. It is the third (after Long and Ritchie) lake in depth in Belarus. The area is mostly ridge-hilly, almost treeless, settlements, mainly in the form of farms (some abandoned). The trough-shaped basin of the lake is cut into heavy moraine loam at 60 m. The lake is bordered by a double high (up to 30 m) ridge with steep slopes, overgrown with shrubs and sparse woodlands, which in many places the slopes drop steeply into the water. The reservoir itself is surrounded by high, steep, wooded and ravine-cut slopes, and their length reaches 200-300 m. The banks are high, merge with the slopes, overgrown with bushes and woodlands, in the east with forest. The shallow water is narrow (wider in the northern bay), sandy (sometimes up to a depth of 10 m), the bottom is muddy deeper. The greatest depths are located in the center of the northwestern part of the lake, opposite the southern edge of D. Sakhnovichi (39.2 m) and in the center of the lake, opposite the farm Badgers (43.3 m). Overgrown moderately.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Гиньково находится в Глубокском районе Витебской обл., в 33 км на северо-восток от г. Глубокое, возле д. Сахновичи и относится к бассейну р. Нехристь (пр. приток р. Аута). Озеро мезотрофное, с признаками олиготрофии. Является третьим (после Долгого и Ричи) по глубине озером Беларуси. Местность преимущественно грядисто-холмистая, почти безлесная, населенные пункты, в основном, в виде хуторов (некоторые заброшенные). Котловина озера корытообразной формы на 60 м врезана в тяжелый мореный суглинок. Озеро окаймлено двойной высокой (до 30 м) грядой с крутыми склонами, поросшими кустарником и редколесьем, которые во многих местах склоны отвесно обрываются в воду. Сам водоем окружают высокие, крутые, поросшие лесом и иссеченные оврагами склоны, а длина их достигает 200-300 м. Берега высокие, сливаются со склонами, заросшие кустарником и редколесьем, на востоке лесом. Мелководье узкое (в северном заливе шире), песчаное (местами до глубины 10 м), глубже дно илистое. Наибольшие глубины находятся в центре северо-западной части озера, напротив южной окраины д. Сахновичи (39,2 м) и в центре озера, напротив хутора Барсуки (43,3 м). Зарастает умеренно.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

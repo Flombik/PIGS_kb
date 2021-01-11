@@ -1,24 +1,24 @@
 Dzvina_basin
 => nrel_main_idtf:
 	[Dzvina basin] (* <- lang_en;; *);
-	[None] (* <- lang_ru;; *);
+	[Бассейн Двины] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
 		<- sc_definition;;
 		=> nrel_main_idtf:
 			[Def.(Dzvina basin)] (* <-lang_en;; *);
-			[Опр.(None)] (* <-lang_ru;; *);;
+			[Опр.(Бассейн Двины)] (* <-lang_ru;; *);;
 	    <= nrel_sc_text_translation:
 		    ...
 			(*
 			-> rrel_example:
-				[drainage basin]
+				[The northern regions of Belarus are covered by the Western Dvina River basin, whose area within the republic exceeds 33 thousand km2. The basin almost coincides with the borders of the Belarusian Lake district. The river originates on the Valdai Hill and carries its waters to the Baltic Sea. In total length, the Western Dvina is second only to the Dnieper. Within Belarus, its length is 328 m. It flows mainly through the Polotsk lowland. The river and especially its tributaries are characterized by a rapid flow. There are numerous lakes in the Western Dvina basin. The largest tributaries are the Obol, Drysa, Ulla, and Disna. The valley of the Western Dvina is deeply cut. The riverbed is winding, with steep banks, rifts and islands. The average width of the river is 100 — 300 m. Features of the structure of the Western Dvina valley caused the longest period with ice phenomena and the highest rise in the water level during the spring flood (9-12 m). All along the river sudokhodny. On it are the major cities of Vitebsk (port), Polotsk and Novopolotsk.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Северные районы Беларуси охватывает бассейн реки Западная Двина, площадь которого в пределах республики превышает 33 тыс. км². Бассейн почти совпадает с границами Белорусского Поозерья. Река берёт начало на Валдайской возвышенности и несёт свои воды в Балтийское море. По общей длине Западная Двина уступает только Днепру. В пределах Беларуси её длина 328 м. Она протекает преимущественно по Полоцкой низменности. Река и особенно её притоки характеризуются быстрым течением. В бассейне Западной Двины расположены многочисленные озёра. Крупнейшие притоки — Оболь, Дрыса, Улла, Дисна. Долина Западной Двины глубоко врезана. Русло извилистое, с крутыми берегами, перекатами и островами. Средняя ширина реки 100 — 300 м. Особенности строения долины Западной Двины обусловили самый протяжённый период с ледовыми явлениями и самый высокий подъём уровня воды во время весеннего половодья (9 — 12 м). На всём протяжении река судноходна. На ней находятся крупные города Витебск (порт), Полоцк и Новополоцк.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

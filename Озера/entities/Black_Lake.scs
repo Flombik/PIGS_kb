@@ -12,13 +12,13 @@ Q14629491
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Chernoe is located in the Berezovsky district of the Brest region, 17 km south-east of the city of Bereza, near Beloozersk and belongs to the basin of the Zhigulyanka River (a left tributary of the Pripyat River), which flows through the lake. The area is mostly flat, sometimes hilly, swampy, overgrown with forest and shrubs, mostly covered with a network of reclamation channels. In the west and north-east there are extensive woodlands. The banks are sandy, low, swampy, overgrown with shrubs and woodlands, sometimes forest. Extensive shallow water, along the shores of sandy and sandy-silty, deeper bottom sapropelite. Along the coast there are strips of reeds, reeds and rdest up to 120 m wide. Overgrown almost completely. It is connected by channels with extensive systems of reclamation channels, with the river. Yaselda and with oz. White. The lake is home to carp, carp, roach, perch and other fish.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Черное находится в Березовском районе Брестской обл., в 17 км на юго-восток от г. Береза, возле г. Белоозерск и относится к бассейну р. Жигулянка (лев. приток р. Припять), которая протекает через озеро. Местность преимущественно равнинная, местами холмистая, болотистая, поросшая лесом и кустарником, большей частью покрыта сетью мелиоративных каналов. На западе и северо-востоке расположены обширные лесные массивы. Берега песчаные, низкие, заболоченные, поросшие кустарником и редколесьем, местами лесом. Мелководье обширное, вдоль берегов песчаное и песчано-илистое, глубже дно сапропелистое. Вдоль берега полосы тростника, камыша и рдеста шириной до 120 м. Зарастает почти полностью. Соединено каналами с обширными системами мелиоративных каналов, с р. Ясельда и с оз. Белое. В озере обитают карась, карп, плотва, окунь и др. рыба.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

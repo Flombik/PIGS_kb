@@ -12,13 +12,13 @@ Hreckaje
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Gretskoye is located in the Miorsky district of the Vitebsk region, 6 km north-east of the city of Miory, between the villages of Tatary, Gretsky and Lipovka. It belongs to the Meritsa River basin. The terrain is flat, sometimes ridged, around there are small woodlands and plantings. In the north-east there is a vast forest area with a Moss swamp. The banks are sandy, mostly low, sometimes littered, overgrown with bushes, sometimes sparsely wooded. The shallow water is narrow, sandy, and the bottom is muddy. The greatest depths are located in the center of the middle part of the lake (on the map opposite the mark 134.3). Overgrown significantly. It is connected by a wide channel to the lake. Cheres and a stream from the lake. Trubines. 5 streams flow in. The lake is home to bream, pike, roach, tench, rudd, perch and other fish. Commercial fishing is carried out. Paid amateur fishing is organized. The mirror area is about 0.71 km? (according to other data, 0.77 km?), the length is 4.63 km, the maximum width is 0.24 km, the maximum depth is 6.5 m, the length of the coastline is about 5km.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[озеро в Белоруссии]
+				[Озеро Грецкое находится в Миорском районе Витебской обл., в 6 км на северо-восток от г. Миоры, между деревнями Татары, Грецкие и Липовка. Относится к бассейну р. Мерица. Местность равнинная, местами грядистая, вокруг расположены небольшие лесные массивы и посадки. На северо-востоке расположен обширный лесной массив с болотом Мох. Берега песчаные, преимущественно низкие, местами завалуненные, поросшие кустарником, местами редколесьем. Мелководье узкое, песчаное, глубже дно илистое. Наибольшие глубины находятся в центре средней части озера (на карте напротив отметки 134.3). Зарастает существенно. Соединено широкой протокой с оз. Черес и ручьем с оз. Трубинец. Впадают 5 ручьев. В озере обитают лещ, щука, плотва, линь, красноперка, окунь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство. Площадь зеркала около 0,71 км? (по др. данным 0,77 км?), длина 4,63 км, наибольшая ширина 0,24 км, максимальная глубина 6,5 м, длина береговой линии около 10,4 км. Объем воды 1,67 млн. м3, площадь водосбора около 5 км?.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

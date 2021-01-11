@@ -12,13 +12,13 @@ Q3920243
 		    ...
 			(*
 			-> rrel_example:
-				[lake in Belarus]
+				[Lake Boloiso is located in the Braslav district of the Vitebsk region, 2.6 km north-east of Braslav, between the village of Lapki and the village of Antonovtsy, near the Great Field tract. It belongs to the Druika River basin. The lake is eutrophic, of a complex type. It is part of the Braslav Group of Lakes and the Braslav Lakes National Park.The banks are mostly low, sandy and sandy loam (in the east clay), sometimes swampy, overgrown with shrubs and woodlands. The shallow water is extensive (narrow in the west), sandy, sometimes sandy-pebble and littered. The greatest depths are in the central and northern parts of the lake, south and northwest of the largest island. In summer, in sunny weather, the water of the lake is characterized by an unusual dark blue. Overgrown significantly. There are 3 islands on the lake. It is connected to the lake by a wide channel. Strusto In the lake live pike, snetok, eel, gustera, tench, carp, ide, crucian carp, perch, roach, catfish, burbot, walleye, rudd, ruff, bleak. There are cancers.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Озеро Болойсо находится в Браславском районе Витебской обл., в в 2,6 км на северо-восток от г. Браслав, между д. Лапки и хутором Антоновцы, возле урочища Великое Поле. Относится к бассейну р. Друйка. Озеро эвтрофное, сложного типа. Входит в Браславскую группу озер и в состав национального парка Браславские озера.Берега преимущественно низкие, песчаные и супесчаные (на востоке глинистые), местами заболоченные, поросшие кустарником и редколесьем. Мелководье обширное (на западе узкое), песчаное, местами песчано-галечное и завалуненное. Наибольшие глубины находятся в центральной и северной частях озера, южнее и северо-западнее самого крупного острова. Летом, в солнечную погоду, вода озера отличается необыкновенной темной голубизной. Зарастает существенно. На озере имеется 3 острова. Широкой протокой соединено с оз. Струсто В озере обитают щука, снеток, угорь, густера, линь, карп, язь, карась, окунь, плотва, сом, налим, судак, красноперка, ерш, уклейка. Встречаются раки.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);

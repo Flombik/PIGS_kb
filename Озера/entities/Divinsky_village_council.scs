@@ -12,13 +12,13 @@ Q1408209
 		    ...
 			(*
 			-> rrel_example:
-				[selsaviet of Belarus]
+				[Divinsky Selsoviet is a selsoviet in the Kobrin district of the Brest region of the Republic of Belarus. In 2013, the territory of the disbanded Osovsky Village Council was included in the Divinsky Council. According to the 2009 census, the village Council had a population of 5,494. According to current data at the beginning of 2016, the population was 5,925 people.]
 				(* <-lang_en;; *);; 
 			*);
 		    ...
 			(*
 			-> rrel_example:
-				[None]
+				[Ди́винский сельсовет — сельсовет в Кобринском районе Брестской области Республики Беларусь. В 2013 году в состав Дивинского совета была включена территория расформированного Осовского сельсовета. Согласно переписи населения 2009 года, в сельсовете проживало 5494 человека. По текущим данным на начало 2016 года население составило 5925 человек.]
 				(* <-lang_ru;; *);; 
 			*);;
     *);
