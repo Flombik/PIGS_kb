@@ -1,0 +1,26 @@
+Q13667887
+=> nrel_main_idtf:
+	[Gadyn] (* <- lang_en;; *);
+	[Гадынь] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Gadyn)] (* <-lang_en;; *);
+			[Опр.(Гадынь)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Gadyn is located in the Rechitsa district of the Gomel region, 5 km north-east of Rechitsa, near the village of Kopan and belongs to the basin of the Dnieper River (in fact, it is located in its floodplain, which is flooded during high floods). It is an old-style lake. The terrain is flat (sometimes hilly), low-lying, mostly swampy, overgrown with shrubs, sometimes forest. The banks are mostly low, swampy, overgrown with shrubs and woodlands. The lake, in its middle part, is crossed by a railway bridge (Gomel-Kalinkovichi section). 3 streams flow into the lake, one of which is connected to the lake. The curve of Girov, which, in turn, is connected to the Dnieper River by a wide channel. There are 2 small islands. The lake is home to pike, bream, ide, crucian carp, tench, roach, catfish and other fish. Commercial fishing is carried out. Paid amateur fishing is organized.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Гадынь находится в Речицком районе Гомельской обл., в 5 км на северо-восток от г. Речица, возле д. Копань и относится к бассейну р. Днепр (фактически расположено в ее затапливаемой, во время высоких паводков, пойме). Является озером старичного типа. Местность равнинная (местами холмистая), низинная, большей частью болотистая, поросшая кустарником, местами лесом. Берега преимущественно низкие, заболоченные, поросшие кустарником и редколесьем. Озеро, в средней его части, пересекает по мосту железная дорога (участок Гомель-Калинковичи). Впадают 3 ручья, одним из которых озеро соединено с оз. Кривой Гиров, которое, в свою очередь, широкой протокой соединено с р. Днепр. Имеется 2 маленьких острова. В озере обитают щука, лещ, язь, карась, линь, плотва, сом и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

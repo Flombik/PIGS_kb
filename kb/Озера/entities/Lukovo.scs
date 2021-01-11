@@ -1,0 +1,26 @@
+Q21864460
+=> nrel_main_idtf:
+	[Lukovo] (* <- lang_en;; *);
+	[Луково] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Lukovo)] (* <-lang_en;; *);
+			[Опр.(Луково)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The Lukovskoye reservoir, created on the site of the disappearing Lukovskoye Lake in 1980, is located 53 km from the city of Brest. From the direction of the locality d.Lukovo reservoir is surrounded by a dam, the length of which is 9.5 km.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Луковское водохранилище, созданное на месте исчезающего Луковского озера в 1980 году, находится в 53 км от города Бреста. Со стороны населенного пункта д.Луково водохранилище ограждено дамбой, длинна которой составляет 9,5 км.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

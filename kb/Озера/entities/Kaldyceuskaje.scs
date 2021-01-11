@@ -1,0 +1,28 @@
+Kaldyceuskaje
+=> nrel_main_idtf:
+	[Kaldyceuskaje] (* <- lang_en;; *);
+	[Колдычевское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Kaldyceuskaje)] (* <-lang_en;; *);
+			[Опр.(Колдычевское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The reservoir is located 12 km north of Baranovichi and belongs to the basin of the Shchara River, which flows through it (this site has undergone reclamation). The nearest settlements are the villages of Arabovshchina and Koldychevo, located respectively near the south-western and north-western shores. The area of Lake Koldychevskoye is 0.58 km2, and the maximum depth does not exceed 1.5 m.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Водоем расположен в 12 км севернее Барановичей и относится к бассейну реки Щара, протекающей через него (данный участок подвергся мелиорации). Ближайшими населенными пунктами являются деревни Арабовщина и Колдычево, расположенные соответственно близ юго-западного и северо-западного берегов. Площадь озера Колдычевское составляет 0,58 км2, а максимальная глубина не превышает 1,5 м.
+
+]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

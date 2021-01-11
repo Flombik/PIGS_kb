@@ -1,0 +1,33 @@
+Plucinok
+=> nrel_main_idtf:
+	[Plucinok] (* <- lang_en;; *);
+	[Плюсинок] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Plucinok)] (* <-lang_en;; *);
+			[Опр.(None)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Plucinok_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

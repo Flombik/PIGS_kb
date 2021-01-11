@@ -1,0 +1,30 @@
+Vymno_lake
+=> nrel_main_idtf:
+	[Vymno (lake in Vitebsk region)] (* <- lang_en;; *);
+	[Вымно (озеро в Витебском районе)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vymno (lake in Vitebsk region))] (* <-lang_en;; *);
+			[Опр.(Вымно (озеро в Витебском районе))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is home to pike, bream, perch, roach, rudd, tench and other fish species. Commercial fishing is carried out. Paid amateur fishing is organized and spearfishing is allowed.
+
+In the vicinity of the lake, the common kestrel lives, included in the Red Book of the Republic of Belarus.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[В озере обитают щука, лещ, окунь, плотва, краснопёрка, линь и другие виды рыб. Производится промысловый лов рыбы. Организовано платное любительское рыболовство и рзрешена подводная охота.
+
+В окрестностях озера обитает обыкновенная пустельга, занесённая в Красную книгу Республики Беларусь. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

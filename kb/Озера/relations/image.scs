@@ -1,0 +1,25 @@
+image
+=> nrel_main_idtf:
+	[image] (* <- lang_en;; *);
+	[изображение] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(image)] (* <-lang_en;; *);
+			[Опр.(изображение)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[image of relevant illustration of the subject; if available, use more specific properties (sample: coat of arms image, locator map, flag image, signature image, logo image, collage image); only images which exist on Wikimedia Commons are acceptable]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[соответствующая иллюстрация]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

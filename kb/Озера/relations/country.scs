@@ -1,0 +1,25 @@
+country
+=> nrel_main_idtf:
+	[country] (* <- lang_en;; *);
+	[государство] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(country)] (* <-lang_en;; *);
+			[Опр.(государство)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[sovereign state of this item (not to be used for human beings)]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[суверенное государство этого элемента]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

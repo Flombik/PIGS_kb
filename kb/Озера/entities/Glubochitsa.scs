@@ -1,0 +1,26 @@
+Q17047281
+=> nrel_main_idtf:
+	[Glubochitsa] (* <- lang_en;; *);
+	[Глубочица] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Glubochitsa)] (* <-lang_en;; *);
+			[Опр.(Глубочица)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Glybochitsa is located in the Lepel district of the Vitebsk region, 3 km east of Lepel, near the village of Hlubochitsa and belongs to the Ulla River basin. The area is ridged, treeless, sometimes overgrown with shrubs and sparsely wooded. The banks are sandy, high, sometimes overgrown with bushes. The shallow water is narrow (in the bays and in the south it is wider), sandy and sandy-clay, the bottom is deeper muddy. The greatest depths are in the central part of the lake. Overgrown moderately. It is connected by a narrow channel to the lake. Borovno. The lake is home to perch, roach, pike, bream, bleak, gustera, crucian carp, tench and other fish. Commercial fishing is carried out. Paid amateur fishing is organized.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Глыбочица находится в Лепельском районе Витебской обл., в 3 км на восток от г. Лепель, возле д. Глубочица и относится к бассейну р. Улла. Местность грядистая, безлесная, местами поросшая кустарником и редколесьем. Берега песчаные, высокие, местами поросшие кустарником. Мелководье узкое (в заливах и на юге шире), песчаное и песчано-глинистое, глубже дно илистое. Наибольшие глубины находятся в центральной части озера. Зарастает умеренно. Соединено узкой протокой с оз. Боровно. В озере обитают окунь, плотва, щука, лещ, уклейка, густера, карась, линь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

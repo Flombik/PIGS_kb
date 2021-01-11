@@ -1,0 +1,33 @@
+Brest_Region
+=> nrel_main_idtf:
+	[Brest Region] (* <- lang_en;; *);
+	[Брестская область] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Brest Region)] (* <-lang_en;; *);
+			[Опр.(Брестская область)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Brest region (Brestskaya voblast) is a region in the south-west of Belarus. Population 1 348 115 people (according to the census of 2019). Its administrative center is the city of Brest.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Бре́стская о́бласть (Брэ́сцкая вобласць) — область на юго-западе Белоруссии. Население 1 348 115 человек (по переписи 2019 года). Административный центр — город Брест.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Brest_Region_image.png" (* => nrel_format: format_png;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

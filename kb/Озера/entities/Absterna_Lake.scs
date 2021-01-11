@@ -1,0 +1,33 @@
+Absterna_Lake
+=> nrel_main_idtf:
+	[Absterna Lake] (* <- lang_en;; *);
+	[Обстерно] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Absterna Lake)] (* <-lang_en;; *);
+			[Опр.(Обстерно)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Obsterno is part of the group of lakes of Obsterno, from which it takes its name. Obsterno is located in the vicinity of the city of Miory, Braslav district. Lake Obsterno is a great place for fishing and recreation. On the shores of the lake and in the forest that surrounds it, there are many places for parking and camping. The lake boasts relatively clean and clear water, as several streams flow into the lake Obsterno, the most famous are the streams from the lakes Uklya, Gorushka and Vazha.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Обстерно входит в группу Обстерновских озер, откуда берет свое название. Обстерно расположилось в близи города Миоры, Браславского района. Озеро Обстерно -прекрасное место для рыбалки и отдыха. На берегах озера и в лесу, который его окружает, есть множество мест для стоянки и кемпинга. Озеро может похвастаться сравнительно чистой и прозрачной водой, так как в озеро Обстерно впадает несколько ручье, самые известные это ручьи из озер Укля, Горушка и Важа.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Absterna_Lake_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

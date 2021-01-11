@@ -1,0 +1,33 @@
+Vojsa
+=> nrel_main_idtf:
+	[Vojsa] (* <- lang_en;; *);
+	[Войса] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vojsa)] (* <-lang_en;; *);
+			[Опр.(Войса)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is inhabited by pike, bream, ide, tench, roach, rudd, perch, bleak, ruff. Filled with carp and eel. Commercial fishing is carried out. Paid amateur fishing is organized. In the area of ​​the lake, in the west in a pine-birch forest, a rare plant species, listed in the Red Book of the Republic of Belarus, is noted - anemone forest (poisonous).]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[В озере обитают щука, лещ, язь, линь, плотва, красноперка, окунь, уклейка, ерш. Зарыблено сазаном и угрем. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.В районе озера, на западе в сосново-березовом лесу, отмечен редкий вид растения, занесенный в Красную книгу Республики Беларусь - ветреница лесная (ядовитое).]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Vojsa_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

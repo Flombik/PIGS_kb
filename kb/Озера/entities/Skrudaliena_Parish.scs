@@ -1,0 +1,26 @@
+Skrudaliena_Parish
+=> nrel_main_idtf:
+	[Skrudaliena Parish] (* <- lang_en;; *);
+	[Скрудалиенская волость] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Skrudaliena Parish)] (* <-lang_en;; *);
+			[Опр.(Скрудалиенская волость)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

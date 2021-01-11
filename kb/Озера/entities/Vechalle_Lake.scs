@@ -1,0 +1,33 @@
+Vechalle_Lake
+=> nrel_main_idtf:
+	[Vechalle Lake] (* <- lang_en;; *);
+	[Вечелье] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vechalle Lake)] (* <-lang_en;; *);
+			[Опр.(Вечелье)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The maximum depth is 35.9 m. The length is 3.68 km, the maximum width is 0.48 km. The coastline is 8.2 km long. The volume of water in the lake is 25.1 million m³, the catchment area is 37.2 km².]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Максимальная глубина — 35,9 м. Длина 3,68 км, наибольшая ширина 0,48 км. Длина береговой линии 8,2 км. Объём воды в озере составляет 25,1 млн м³, площадь водосбора 37,2 км². ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Vechalle_Lake_image.JPG" (* => nrel_format: format_JPG;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

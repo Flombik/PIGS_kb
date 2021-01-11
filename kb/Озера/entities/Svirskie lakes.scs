@@ -1,0 +1,30 @@
+Svirskie_lakes
+=> nrel_main_idtf:
+	[Svirskie lakes] (* <- lang_en;; *);
+	[Свирские озёра] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Svirskie lakes)] (* <-lang_en;; *);
+			[Опр.(Свирские озёра)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lakes are located in a long, almost 25 km elongated from north-west to south-east hollow in a vast interhill depression. From the west, the high (up to 25 m) slopes of the Svir ridge are closely adjacent, the gentle eastern slopes are represented by the spurs of the Konstantinovskaya ridge. Lake Vishnevskoe through the Smolka river has a flow into the Svir lake, from which the Sviritsa river flows into the Stracha. Lakes Svirnishche and Glukhoe have a flow into the Sviritsa River through a canalized stream.
+
+Lakes and the surrounding area are part of the Narochansky National Park.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озёра расположены в длинной, вытянутой почти на 25 км с северо-запада на юго-восток ложбине в обширном межхолмном понижении. С запада вплотную примыкают высокие (до 25 м) склоны Свирской гряды, пологие восточные склоны представлены отрогами Константиновской гряды. Озеро Вишневское через реку Смолка имеет сток в озеро Свирь, из которого вытекает река Свирица впадающая в Страчу. Озёра Свирьнище и Глухое имеют сток в реку Свирицу через канализированный ручей.
+
+Озёра и окружающая территория входят в национальный парк «Нарочанский». ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

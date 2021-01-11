@@ -1,0 +1,26 @@
+Viellie
+=> nrel_main_idtf:
+	[Viellie] (* <- lang_en;; *);
+	[Велье] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Viellie)] (* <-lang_en;; *);
+			[Опр.(Велье)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Velye is surrounded by agricultural land on almost all sides. The shores are mostly low, sandy, overgrown with forest and bushes, and in places peaty. The shallow waters are narrow, sandy, and in places peaty. There are sapropel deposits at the bottom. The surrounding area of ​​this reservoir is mostly flat, only in the east of the lake is a low ridge.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Почти со всех сторон озеро Велье окружено сельскохозяйственными угодьями. Берега преимущественно низкие, песчаные, поросшие лесом и кустарником, местами торфянистые. Мелководье узкое, песчаное, местами торфянистое. На дне имеются залежи сапропеля. Окружающая местность этого водоёма носит в основном равнинный характер, лишь на востоке озера расположена невысокая гряда. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

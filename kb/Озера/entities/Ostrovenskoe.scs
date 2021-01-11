@@ -1,0 +1,33 @@
+Q13029092
+=> nrel_main_idtf:
+	[Ostrovenskoe] (* <- lang_en;; *);
+	[Островенское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Ostrovenskoe)] (* <-lang_en;; *);
+			[Опр.(Островенское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Ostrovenskoe is located in the Beshenkovichi district of the Vitebsk region, 16 km east of the urban settlement. Beshenkovichi, between the villages of Zabelie, Dashkovo and Sorzhitsa and belongs to the river basin. Chernogostnitsa (left tributary of the Western Dvina River). The terrain is ridge-hilly, overgrown with forest and bushes, in places marshy. In the south and southwest there are vast swampy forests. The surrounding forests are rich in blueberries, lingonberries, cranberries and mushrooms. The lake is almost completely surrounded by a high (in some places up to about 20 m) ridge overgrown with tall grass and sparse bushes, which is adjoined by meadows and arable land.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Островенское находится в Бешенковичском районе Витебской обл., в 16 км на восток от г.п. Бешенковичи, между деревнями Забелье, Дашково и Соржица и относится к бассейну р. Черногостница (лев. приток р. Западная Двина). Местность грядисто-холмистая, поросшая лесом и кустарником, местами болотистая. На юге и юго-западе расположены обширные заболоченные лесные массивы. Окрестные леса богаты черникой, брусникой, клюквой и грибами. Озеро почти полностью окружено высокой (местами примерно до 20 м) грядой, поросшей высокой травой и редким кустарником, к которой примыкают луга и пашни.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Q13029092_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

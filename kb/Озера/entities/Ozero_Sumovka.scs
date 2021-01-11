@@ -1,0 +1,26 @@
+Ozero_Sumovka
+=> nrel_main_idtf:
+	[Ozero Sumovka] (* <- lang_en;; *);
+	[Сумовка (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Ozero Sumovka)] (* <-lang_en;; *);
+			[Опр.(Сумовка (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Sumovka is located in the Miory district of the Vitebsk region, 8 km south-west of the town of Miory, between the villages of Yanovo and Gentovo and belongs to the basin of the river. Golchitsa (pr. Tributary of the Horobrovka River). The terrain is flat, overgrown with forest and bushes, in places very swampy. The surrounding forests are rich in blueberries, lingonberries, cranberries and mushrooms. The shores of the lake are sandy, low, overgrown with bushes and woodlands, in places swampy. The shallow water is narrow (in the eastern reach, mostly extensive), sandy, deeper, the bottom is silty.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Сумовка находится в Миорском районе Витебской обл., в 8 км на юго-запад от г. Миоры, между деревнями Яново и Гентово и относится к бассейну р. Голчица (пр. приток р. Хоробровка). Местность равнинная, поросшая лесом и кустарником, местами сильно заболоченная. Окрестные леса богаты черникой, брусникой, клюквой, а также грибами. Берега озера песчаные, низкие, поросшие кустарником и редколесьем, местами заболоченные. Мелководье узкое (в восточном плесе преимущественно обширное), песчаное, глубже дно илистое.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

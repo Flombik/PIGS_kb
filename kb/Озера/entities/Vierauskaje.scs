@@ -1,0 +1,30 @@
+Vierauskaje
+=> nrel_main_idtf:
+	[Vierauskaje] (* <- lang_en;; *);
+	[Веровское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vierauskaje)] (* <-lang_en;; *);
+			[Опр.(Веровское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Verovskoye is located 33 km northeast of the city of Grodno, near the village of Glushnevo, at an altitude of 116.5 m above sea level.
+
+The surface area of ​​the lake is 1.23 km². Length - 7.5 km, maximum width - 400 m, average width - 160 m. The length of the coastline is 15.75 km. The maximum depth is 9.2 m. The volume of water is about 8.1 million m³, the catchment area is about 20 km².]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Веровское располагается в 33 км к северо-востоку от города Гродно, возле деревни Глушнево, на высоте 116,5 м над уровнем моря.
+
+Площадь поверхности озера составляет 1,23 км². Длина — 7,5 км, наибольшая ширина — 400 м, средняя ширина — 160 м. Длина береговой линии — 15,75 км. Максимальная глубина — 9,2 м. Объём воды — около 8,1 млн м³, площадь водосбора — около 20 км². ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,26 @@
+Q28006548
+=> nrel_main_idtf:
+	[Glinets (lake)] (* <- lang_en;; *);
+	[Глинец (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Glinets (lake))] (* <-lang_en;; *);
+			[Опр.(Глинец (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Glinets is located in the Grodno region, 37 km north-east of Grodno, 2.3 km south-west of d. Orlova Mountain and belongs to the basin of the Berwenka River (left tributary of the Pyranka River). The area is flat (in the west and east of the ridge), swampy, overgrown with forest and shrubs. The banks are mostly low, swampy, overgrown with shrubs and forest. Overgrown significantly. The lake is home to carp, tench, pike, bream, roach and other fish. Commercial fishing and the use of floating vehicles with motors are prohibited. Paid amateur fishing is organized.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Глинец находится в Гродненском районе, в 37 км на северо-восток от г. Гродно, в 2,3 км на юго-запад от д. Орлова Гора и относится к бассейну р. Бервенка (лев. приток р. Пыранка). Местность равнинная (на западе и востоке грядистая), болотистая, заросшая лесом и кустарником. Берега преимущественно низкие, заболоченные, поросшие кустарником и лесом. Зарастает существенно. В озере обитают карась, линь, щука, лещ, плотва и др. рыба. Запрещено промысловое рыболовство и использование плавучих средств с моторами. Организовано платное любительское рыболовство.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

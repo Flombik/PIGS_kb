@@ -1,0 +1,33 @@
+Atolava_Lake
+=> nrel_main_idtf:
+	[Atolava Lake] (* <- lang_en;; *);
+	[Отолово] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Atolava Lake)] (* <-lang_en;; *);
+			[Опр.(Отолово)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Atolovo in Ushachi district Vitebsk region known as "Crooked". This is because, with a length of less than 10 km, it has a coastline of 40 km. Non-standard in it and in depth - from shallow water to 16 meters. Another feature: the lake can fit a whole archipelago – 7 islands. The ichthyofauna is mainly bream-pike. But the general set of views is wide. Here they catch: carp, tench, roach, perch, guster, crayfish. At the source of the Diva River flowing out of the lake, Red Book eels are found.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Отолово в Ушачском районе Витебской области известно ещё как "Кривое". Это потому, что при длине менее 10 км имеет береговую линию в 40 км. Нестандарт в нём и по глубине – от мелководья и до 16 метров. Ещё одна особенность: в озере уместился целый архипелаг – 7 островов. Ихтиофауна в основном лещево-щучья. Но общий набор видов широк. Здесь ловят: карасей, линей, плотву, окуней, густеру, раков. У истока вытекающей из озера речки Дивы попадаются краснокнижные угри.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Atolava_Lake_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

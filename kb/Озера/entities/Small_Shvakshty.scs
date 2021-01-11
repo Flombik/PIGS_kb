@@ -1,0 +1,30 @@
+Small_Shvakshty
+=> nrel_main_idtf:
+	[Small Shvakshty] (* <- lang_en;; *);
+	[Малые Швакшты] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Small Shvakshty)] (* <-lang_en;; *);
+			[Опр.(Малые Швакшты)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The height of the slopes of the basin, in which the lake is located, is 3-4 m. Shrubs grow on the slopes. The shores are low, swampy. The bottom of the lake is sapropelous, sandy-pebble in the coastal part. There are two islands.
+
+In summer, the water mixes well and warms up, and the reservoir is completely overgrown, mainly by underwater vegetation.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Высота склонов котловины, в которой расположено озеро, составляет 3-4 м. На склонах произрастает кустарник. Берега низкие, заболоченные. Дно озера — сапропелистое, в прибрежной части песчано-галечное. Имеются два острова.
+
+В летнее время вода хорошо перемешивается и прогревается, а водоём полностью зарастает — преимущественно подводной растительностью. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

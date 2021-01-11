@@ -1,0 +1,26 @@
+Akuniouka
+=> nrel_main_idtf:
+	[Akuniouka] (* <- lang_en;; *);
+	[Акунёўка] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Akuniouka)] (* <-lang_en;; *);
+			[Опр.(Акунёўка)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Okunevka is a river in Vitebsk oblast (the basin of the Western Dvina).The river is 13 km long. The catchment area is 151 km2. The average slope of the water surface is 0.7 %.The main tributary-the river Cervinka (right).Follows from the lake Double about 1.3 km to the East of the village Double flows within the Braslav range. It flows into Lake Drivyaty from the south, 0.7 km in the direction to the south-east of the village of Dukeli. The riverbed is canalized throughout. In the river basin ozyory Rodakis, Baranka, Pagoda, Opsa, Steril.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Окуневка-река в Витебской области (бассейн Западной Двины).Длина реки составляет 13 км. Площадь водосбора составляет 151 км2. Средний уклон водной поверхности составляет 0,7 %.Главный приток-река Червинка (справа). Вытекает из озера двойное примерно в 1,3 км к востоку от села двойное, протекает в пределах Браславского хребта. Она впадает в озеро Дривяты с юга, в 0,7 км в направлении на юго-восток от села Дукели. Русло реки на всем протяжении канализировано. В бассейне реки Озеры Родакис, Баранка, Пагода, Опса, Стериль.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,26 @@
+Q21865981
+=> nrel_main_idtf:
+	[Mozhnevo] (* <- lang_en;; *);
+	[Можнево] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Mozhnevo)] (* <-lang_en;; *);
+			[Опр.(Можнево)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Mozhnevo is located in the Grodno region, 30 km east of the city of Grodno, about 2.3 km south of the village. Dubinka, about 1.9 km northwest of d. Zabelezena and belongs to the basin of the river Paranka (D. tributary of the KOTRA). It is part of the national landscape reserve Ozery. The area is mostly ridge-hilly, densely overgrown with forest and shrubs, mostly swampy.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Можнево расположено в Гродненском районе, в 30 км на восток от г. Гродно, примерно в 2,3 км на юг от д. Дубинка, примерно в 1,9 км на северо-запад от д. Заберезино и относится к бассейну р. Пыранка (пр. приток р. Котра). Входит в состав республиканского ландшафтного заказника Озеры. Местность преимущественно грядисто-холмистая, густо заросшая лесом и кустарником, большей частью болотистая. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

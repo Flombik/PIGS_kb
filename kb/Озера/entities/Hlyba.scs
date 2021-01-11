@@ -1,0 +1,26 @@
+Hlyba
+=> nrel_main_idtf:
+	[Hlyba] (* <- lang_en;; *);
+	[Глыба] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Hlyba)] (* <-lang_en;; *);
+			[Опр.(Глыба)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Glyba is located in the Rossonsky district of the Vitebsk region, 1.7 km from the border with the Pskov region (Russia), 32 km north-east of the town of Rossony, near the village of Sherstovo and belongs to the Drissa River basin. It is part of the national landscape reserve of Sinsha. The area is hilly, densely forested, swampy in places, almost uninhabited. The surrounding forests are rich in blueberries, cranberries, cranberries, wild blackberries and rose hips, as well as mushrooms. The lake is bordered by a narrow (along the bays extensive, swampy) floodplain, overgrown with water-meadow vegetation, sometimes sparse shrubs. The banks are sandy, mostly high, overgrown with bushes and forest. The shallow water is narrow, sandy, and the bottom is muddy. The greatest depths are located in the center of the northwestern part of the lake, opposite the peninsula. Overgrown slightly. 3 streams flow into the lake. In the south-eastern part of it there is an island with an area of 0.7 hectares. It is connected by a wide channel to the lake. Driss. The lake is home to pike, roach and bream]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Глыба находится в Россонском районе Витебской обл., в 1,7 км от границы с Псковской обл. (РФ), в 32 км на северо-восток от г.п. Россоны, возле д. Шерстово и относится к бассейну р. Дрисса. Входит в состав республиканского ландшафтного заказника Синьша. Местность грядисто-холмистая, густо заросшая лесом, местами заболоченная, почти незаселенная. Окрестные леса богаты черникой, брусникой, клюквой, дикорастущими ежевикой и шиповником, а также грибами. Озеро окаймлено узкой (вдоль заливов обширной, заболоченной) поймой, поросшей водно-луговой растительностью, местами редким кустарником. Берега песчаные, преимущественно высокие, поросшие кустарником и лесом. Мелководье узкое, песчаное, глубже дно илистое. Наибольшие глубины находятся в центре северо-западной части озера, напротив полуострова. Зарастает незначительно. В озеро впадают 3 ручья. В юго-восточной его части имеется остров площадью 0,7 га. Соединено широкой протокой с оз. Дриссы. В озере обитают щука, плотва лещ, уклейка, густера, карась, язь, линь, ёрш, окунь.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

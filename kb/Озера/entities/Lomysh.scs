@@ -1,0 +1,28 @@
+Q4266382
+=> nrel_main_idtf:
+	[Lomysh] (* <- lang_en;; *);
+	[Ломыш] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Lomysh)] (* <-lang_en;; *);
+			[Опр.(Ломыш)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lomysh Lake is located in the Khoiniki district, approximately 23 km south-west of Khoiniki, near the Zarechye tract. Lake of the old type. It belongs to the basin of the Pripyat River (actually located in its floodplain). In the south, it is connected to the lake by a wide channel. Rechitsa. The area is low-lying, swampy, sometimes ridge-hilly, overgrown with shrubs.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Ломыш находится в Хойникском районе, приблизительно в 23 км на юго-запад от г. Хойники, рядом с урочищем Заречье. Озеро старичного типа. Относится к бассейну р. Припять (фактически расположено в ее пойме). На юге широкой протокой соединено с оз. Речица. Местность низинная, болотистая, местами грядисто-холмистая, поросшая кустарником.
+
+]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

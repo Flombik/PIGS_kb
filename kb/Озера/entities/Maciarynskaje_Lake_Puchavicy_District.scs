@@ -1,0 +1,33 @@
+Maciarynskaje_Lake_Puchavicy_District
+=> nrel_main_idtf:
+	[Maciarynskaje Lake, Puchavicy District] (* <- lang_en;; *);
+	[Материнское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Maciarynskaje Lake, Puchavicy District)] (* <-lang_en;; *);
+			[Опр.(Материнское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[A lake in the Pukhovichi district of the Minsk region of Belarus. It is located in the Svisloch River basin, 18 km north-west of the town of Maryina Gorka, 2 km south of the town of Svisloch and 2.5 km south-east of the village of Druzhny.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро в Пуховичском районе Минской области Белоруссии. Находится в бассейне реки Свислочь, в 18 км к северо-западу от города Марьина Горка, 2 км к югу от городского посёлка Свислочь и 2,5 км к юго-востоку от посёлка Дружный.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Maciarynskaje_Lake,_Puchavičy_District_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

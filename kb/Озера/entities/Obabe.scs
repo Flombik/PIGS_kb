@@ -1,0 +1,35 @@
+Q13029076
+=> nrel_main_idtf:
+	[Obabe] (* <- lang_en;; *);
+	[Обабье] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Obabe)] (* <-lang_en;; *);
+			[Опр.(Обабье)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[16 kilometers northeast of the city of Braslav, on the territory of the NP "Braslav Lakes",
+				near the village of Obabye, there is a lake of the same name - Obabye.
+				The lake belongs to the basin of the Druyka River, which is a left tributary of
+				the Western Dvina River. It is connected by narrow channels in the north with Lake Dubro,
+				in the east with Lake Dubrok and in the west with Lake Yelnya Bolshaya. 2 streams flow
+				into Lake Obabe and the Obabitsa River flows out in the south.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[В 16 километрах на северо-востоке от города Браслав, на территории НП «Браславские озера»,
+				возле деревни Обабье расположилось озеро с одноименным названием – Обабье. Относиться озеро
+				к бассейну реки Друйка, которая является левым притоком реки Западная Двина.
+				Узкими протоками соединено на севере с озером Дубро, на востоке – с озером Дуброк
+				и на западе – с озером Ельня Большая. В озеро Обабье впадают 2 ручья и вытекает река Обабица на юге.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

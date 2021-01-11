@@ -1,0 +1,34 @@
+Strievka
+=> nrel_main_idtf:
+	[Strievka (river)] (* <- lang_en;; *);
+	[Стриевка (река)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Strievka (river))] (* <-lang_en;; *);
+			[Опр.(Стриевка (река))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The Strievka River begins 4 km south-west of the agro-town Porechye, flows mainly through wooded areas and flows into Lake Rybnitsa from the northeastern side.
+
+The length of the river is 24 km. The catchment area is 145 km².
+
+The channel is sewed for 17 km (from the village of Pereseltsy to the mouth). The river receives runoff from drainage channels.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Река Стриевка начинается в 4 км к юго-западу от агрогородка Поречье, течёт преимущественно по лесистой местности и впадает в озеро Рыбница с северо-восточной стороны.
+
+Длина реки равняется 24 км. Площадь водосбора — 145 км².
+
+Русло на протяжении 17 км (от деревни Пересельцы до устья) канализовано. Река принимает сток с мелиорационных каналов. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

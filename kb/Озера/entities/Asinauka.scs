@@ -1,0 +1,26 @@
+Asinauka
+=> nrel_main_idtf:
+	[Asinauka] (* <- lang_en;; *);
+	[Осиновка] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Asinauka)] (* <-lang_en;; *);
+			[Опр.(Осиновка)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Osinovka is located in the Miory district of the Vitebsk region, 0.7 km south-west of the city of Miory, near d. Tomki and belongs to the Meritsa River basin (left tributary of the Zap River. Dvina). The banks are sandy, mostly low, overgrown with bushes, sometimes sparsely wooded. The shallow water is narrow (wider in bays), sandy, the bottom is deeper muddy and sapropelic. The greatest depths are located in the northern part of the southern reach, closer to the eastern shore. Grows weak. In the northern ples there is an island with an area of 0.8 hectares. It is connected by channels to the lakes Miorskoe and Voron. 3 streams flow in. The lake is home to perch, roach, bream, pike, tench and other fish. Commercial fishing is carried out. Paid amateur fishing is organized.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Осиновка находится в Миорском районе Витебской обл., в 0,7 км на юго-запад от г. Миоры, возле д. Томки и относится к бассейну р. Мерица (лев. приток р. Зап. Двина). Берега песчаные, преимущественно низкие, поросшие кустарником, местами редколесьем. Мелководье узкое (в заливах шире), песчаное, глубже дно илистое и сапропелистое. Наибольшие глубины находятся в северной части южного плеса, ближе к восточному берегу. Зарастает слабо. В северном плесе имеется остров площадью 0,8 га. Соединено протоками с озерами Миорское и Воронь. Впадают 3 ручья. В озере обитают окунь, плотва, лещ, щука, линь и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

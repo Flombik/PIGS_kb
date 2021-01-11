@@ -1,0 +1,30 @@
+Uzmienka
+=> nrel_main_idtf:
+	[Uzmienka] (* <- lang_en;; *);
+	[Узьминка] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Uzmienka)] (* <-lang_en;; *);
+			[Опр.(Узьминка)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake type: bream-zander. Mass species of fish: bream, pike perch, pike, roach, perch, silver bream, rudd, ruff, bleak, blue bream, burbot, crucian carp.
+
+The lake is characterized by: in the littoral - sand, clay, sand with clay, silted sand, stones, in the center - silt, silted sand.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Тип озера: лещово-судачье. Массовые виды рыб: лещ, судак, щука, плотва, окунь, густера, красноперка, ерш, уклея, синец, налим, карась.
+
+Для озера характерно: в литорали — песок, глина, песок с глиной, заиленный песок, камни, в центре — ил, заиленный песок.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

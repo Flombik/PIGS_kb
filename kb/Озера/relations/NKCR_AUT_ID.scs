@@ -1,0 +1,25 @@
+NKCR_AUT_ID
+=> nrel_main_idtf:
+	[NKCR AUT ID] (* <- lang_en;; *);
+	[код NKC] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(NKCR AUT ID)] (* <-lang_en;; *);
+			[Опр.(код NKC)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[identifier in the Czech National Authority Database (National Library of Czech Republic)]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[код в каталоге Национальной библиотеки Чехии]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

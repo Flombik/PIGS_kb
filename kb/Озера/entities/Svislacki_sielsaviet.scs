@@ -1,0 +1,33 @@
+Svislacki_sielsaviet
+=> nrel_main_idtf:
+	[Svislacki sielsaviet] (* <- lang_en;; *);
+	[Свислочский сельсовет] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Svislacki sielsaviet)] (* <-lang_en;; *);
+			[Опр.(Свислочский сельсовет)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[sieĺsaviet of Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Svislacki_sieĺsaviet_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

@@ -1,0 +1,33 @@
+Idolta_Lake
+=> nrel_main_idtf:
+	[Idolta Lake] (* <- lang_en;; *);
+	[Идолта] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Idolta Lake)] (* <-lang_en;; *);
+			[Опр.(Идолта)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Idolta Lake is located in the Miora district of the Vitebsk region, 6.6 km from the border with Latvia, 11 km northwest of Miora, between the villages of Idolta and Miloshevo. It belongs to the basin of the Vyata River (left tributary of the Zap River. Dvina). The area is hilly-ridged, overgrown with shrubs and sparse forests, around small woodlands. Settlements mostly in the form of farms (some abandoned). The banks are sandy, low, overgrown with bushes and sparsely wooded, in the south with forest. The shallow water is narrow (extensive in the bays), sandy, and the bottom is muddy deeper. 2 streams flow in. In the north, a canalized stream is connected to a small system of reclamation channels and to the lake. Surasena (nameless). Grows weak. The lake is home to perch, roach, pike, bream, tench, rudd and other fish. Commercial fishing is carried out. Paid amateur fishing is organized. Spearfishing is allowed during daylight hours.In the area of the lake there is a rare plant species listed in the Red Book of the Republic of Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Идолта находится в Миорском районе Витебской обл., в 6,6 км от границы с Латвией, в 11 км на северо-запад от г. Миоры, между деревнями Идолта и Милошево. Относится к бассейну р. Вята (лев. приток р. Зап. Двина). Местность холмисто-грядистая, поросшая кустарником и редколесьем, вокруг небольшие лесные массивы. Населенные пункты преимущественно в виде хуторов (некоторые заброшенные). Берега песчаные, невысокие, поросшие кустарником и редколесьем, на юге лесом. Мелководье узкое (в заливах обширное), песчаное, глубже дно илистое. Впадают 2 ручья. На севере канализованным ручьем соединено с небольшой системой мелиоративных каналов и с оз. Суромщина (безымянное). Зарастает слабо. В озере обитают окунь, плотва, щука, лещ, линь, красноперка и др. рыба. Производится промысловый лов рыбы. Организовано платное любительское рыболовство. Разрешена подводная охота в светлое время суток.В районе озера отмечен редкий вид растения, занесенный в Красную книгу Республики Беларусь - морошка приземистая.Площадь озера около 0,52 км? (по др. данным 0,58 км?), длина 1,71 км, наибольшая ширина 0,63 км, максимальная глубина 13,1 м. длина береговой линии около 5,5 км. Объем воды 2,47 млн. м3, площадь водосбора около 13 км?.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Idolta_Lake_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

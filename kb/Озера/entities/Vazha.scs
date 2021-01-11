@@ -1,0 +1,30 @@
+Vazha
+=> nrel_main_idtf:
+	[Vazha] (* <- lang_en;; *);
+	[Важа] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vazha)] (* <-lang_en;; *);
+			[Опр.(Важа)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is inhabited by bream, pike, roach, tench, rudd, perch and other fish. Commercial fishing is carried out, as well as paid amateur fishing.
+
+The surrounding forests are rich in blueberries, lingonberries, cranberries, wild blackberries and mushrooms.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[В озере обитают лещ, щука, плотва, линь, краснопёрка, окунь и другая рыба. Производится промысловый лов рыбы, а также организовано платное любительское рыболовство.
+
+Окрестные леса богаты черникой, брусникой, клюквой, дикорастущей ежевикой, а также грибами. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,25 @@
+area
+=> nrel_main_idtf:
+	[area] (* <- lang_en;; *);
+	[площадь] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(area)] (* <-lang_en;; *);
+			[Опр.(площадь)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[area occupied by an object]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[численная характеристика двумерной геометрической фигуры]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

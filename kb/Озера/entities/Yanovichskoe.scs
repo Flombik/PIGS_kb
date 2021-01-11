@@ -1,0 +1,30 @@
+Yanovichskoe
+=> nrel_main_idtf:
+	[Yanovichskoe] (* <- lang_en;; *);
+	[Яновичское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Yanovichskoe)] (* <-lang_en;; *);
+			[Опр.(Яновичское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The width of the vegetation strip is up to 100 m (above water - up to 50 m). Vegetation extends to a depth of 1.8 m.
+
+The lake is home to bream, pike, perch, roach, rudd, bleak, tench, crucian carp.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Ширина полосы растительности — до 100 м (надводной — до 50 м). Растительность распространяется до глубины 1,8 м.
+
+В озере водятся лещ, щука, окунь, плотва, краснопёрка, уклейка, линь, карась. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

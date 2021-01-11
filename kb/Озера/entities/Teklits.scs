@@ -1,0 +1,26 @@
+Teklits
+=> nrel_main_idtf:
+	[Teklits] (* <- lang_en;; *);
+	[Теклиц] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Teklits)] (* <-lang_en;; *);
+			[Опр.(Теклиц)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is located 13 km northwest of the city of Lepel. On the east coast is the village of Zvezda, on the other banks there is a forest, partly with peat bogs. The Lepel - Dokshitsy highway runs near the western coast. Lake Teklits lies on the global watershed of the Black and Baltic Seas, 3 km to the north-east of it are Dolgoe and Pyshno lakes belonging to the basin of Lake Lepel and the Western Dvina.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро расположено в 13 км к северо-западу от города Лепель. На восточном берегу находится деревня Звезда, на других берегах — лес, частично с торфяными болотами. Рядом с западным берегом проходит автодорога Лепель — Докшицы. Озеро Теклиц лежит на глобальном водоразделе Чёрного и Балтийского морей, в 3 км к северо-востоку от него находятся озёра Долгое и Пышно, принадлежащих бассейну Лепельского озера и Западной Двины. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

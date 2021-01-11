@@ -1,0 +1,26 @@
+Q17094493
+=> nrel_main_idtf:
+	[Plyusy] (* <- lang_en;; *);
+	[Плюсы] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Plyusy)] (* <-lang_en;; *);
+			[Опр.(Плюсы)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Plyusy is located in the Braslav district of the Vitebsk region, 0.4 km from the border with Latvia, 20 km north of Braslav, near the village of Plyusy and belongs to the basin of the river. Western Dvina. The shores are mostly low (elevated in the southwest), sandy, in places sandy-clayey. The shallow water is sandy, narrow (extensive in the west and in the eastern bay), deeper the bottom is silty and sapropelous. The greatest depths are in the central part of the lake, closer to the northwest. There are 9 islands (of which Bolshoy and Maly are rather large), with a total area of ​​about 10 hectares.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Плюсы находится в Браславском районе Витебской обл., в 0,4 км от границы с Латвией, в 20 км на север от г. Браслав, возле д. Плюсы и относится к бассейну р. Западная Двина. Берега преимушественно низкие (на юго-западе возвышенные), песчаные, местами песчано-глинистые. Мелководье песчаное, узкое (на западе и в восточном заливе обширное), глубже дно илистое и сапропелистое. Наибольшие глубины находятся в центральной части озера, ближе к северо-западу. Имеется 9 островов (из них Большой и Малый - довольно крупные), общей площадью около 10 га.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,33 @@
+Rosica_lake
+=> nrel_main_idtf:
+	[Rosica lake] (* <- lang_en;; *);
+	[Росица] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Rosica lake)] (* <-lang_en;; *);
+			[Опр.(Росица)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Rositsa is located in the Verkhnedvinsky district of the Vitebsk region, 5.2 km from the border with Latvia, 9 km north-west from the city of Verkhnedvinsk, near the village of Rositsa. Refers to the river basin. Rositsa. The banks are predominantly high, overgrown with bushes and meadow vegetation, and swampy in the south. It grows poorly. 3 streams flow in. In the north, the river flows into. Berezovka, through a canalized stream flowing into it, the lake is connected to the river. Saryanka. In the south and southwest, flowing streams are connected with the river. Rositsa. The terrain is ridge-hilly, overgrown with forest and bushes, there are woodlands around. Spearfishing is allowed during daylight hours.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Росица находится в Верхнедвинском районе Витебской обл., в 5,2 км от границы с Латвией, в 9 км на северо-запад от г. Верхнедвинск, возле д. Росица. Относится к бассейну р. Росица. Берега преимущественно высокие, поросшие кустарником и луговой растительностью, на юге заболоченные. Зарастает слабо. Впадают 3 ручья. На севере впадает р. Березовка, через впадающий в нее канализованный ручей озеро соединено с р. Сарьянка. На юге и юго-западе вытекающими ручьями соединено с р. Росица. Местность грядисто-холмистая, поросшая лесом и кустарником, вокруг расположены лесные массивы. Разрешена подводная охота в светлое время суток.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Rosica_lake_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

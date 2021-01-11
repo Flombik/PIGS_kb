@@ -1,0 +1,26 @@
+Q6788149
+=> nrel_main_idtf:
+	[Psuya] (* <- lang_en;; *);
+	[Псуя] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Psuya)] (* <-lang_en;; *);
+			[Опр.(Псуя)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Psuya is located in the Glubokoye District of the Vitebsk Region, 30 km northeast of the town of Glubokoe, between the villages of Psuya and Obrub and belongs to the basin of the river. Shosha. It is part of the Dolgoye Republican Hydrological Reserve. The terrain is predominantly flat, in places ridge-hilly, overgrown with shrubs and woodlands, with copses and forest plantations, in the west there is an extensive forest area. The shores are predominantly low, sandy, overgrown with bushes, in places with sparse forests.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Псуя находится в Глубокском районе Витебской обл., в 30 км на северо-восток от г. Глубокое, между деревнями Псуя и Обруб и относится к бассейну р. Шоша. Входит в состав республиканского гидрологического заказника Долгое. Местность преимущественно равнинная, местами грядисто-холмистая, поросшая кустарником и редколесьем, с перелесками и лесопосадками, на западе расположен обширный лесной массив. Берега преимущественно низкие, песчаные, поросшие кустарником, местами редколесьем.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

@@ -1,0 +1,26 @@
+Q13133515
+=> nrel_main_idtf:
+	[Knyagininskoe] (* <- lang_en;; *);
+	[Княгининское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Knyagininskoe)] (* <-lang_en;; *);
+			[Опр.(Княгининское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[This reservoir, which is part of the Narochansky National Park, is located 7 km northwest of Myadel and belongs to the Myadelka River basin. The nearest locality is d. Rossokhi, located 1 km from the north-eastern coast. The area of the water mirror is 0.13 km2. About 1.4 km to the east is the Myadel-Postavy highway.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Этот водоем, который входит в состав Национального парка «Нарочанский, расположен в 7 км северо-западнее Мяделя и относится к бассейну реки Мяделка. Ближайшим населенным пунктом является д. Россохи, расположенная в 1 км от северо-восточного берега. Площадь водного зеркала составляет 0,13 км2. Примерно в 1,4 км восточнее проходит трасса Мядель-Поставы.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

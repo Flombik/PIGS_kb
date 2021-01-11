@@ -1,0 +1,26 @@
+Jelna
+=> nrel_main_idtf:
+	[Jelna] (* <- lang_en;; *);
+	[Ельно] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Jelna)] (* <-lang_en;; *);
+			[Опр.(Ельно)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The lake is one of the rare relict reservoirs that appeared on the site of a pre-glacial lake. It lies in the center of a large upland swamp, which completely determines the nature of the lake. The basin of the lake is sharply outlined, the slopes are not pronounced. The western banks, composed of peat, have a height of 1.0-1.5 m and form an overhanging wall over the water. The eastern shores are sandy and swampy. The basin of the lake is a flat depression with a poorly defined transition from the central to the coastal part. The bottom of the lake is lined with sapropel, at the western shore with peat, at the eastern shore with sand and pebbles.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро принадлежит к числу редких реликтовых водоёмов, возникших на месте приледникового озера. Оно лежит в центре крупного верхового болота, что полностью обуславливает характер озера. Котловина озера резко очерчена, склоны не выражены. Западные берега, сложенные торфом, имеют высоту 1,0-1,5 м и образуют нависающую над водой стенку. Восточные берега песчаные, заболоченные. Котловина озера представляет собой плоское углубление с плохо выраженным переход от центральной к прибрежной части. Дно озера выстлано сапропелем, у западного берега торфом, у восточного ― песком и галькой.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

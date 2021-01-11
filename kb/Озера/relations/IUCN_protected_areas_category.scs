@@ -1,0 +1,25 @@
+IUCN_protected_areas_category
+=> nrel_main_idtf:
+	[IUCN protected areas category] (* <- lang_en;; *);
+	[категория защищённых зон МСОП] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(IUCN protected areas category)] (* <-lang_en;; *);
+			[Опр.(категория защищённых зон МСОП)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[protected areas category by the World Commission on Protected Areas. Used with dedicated items for each category.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

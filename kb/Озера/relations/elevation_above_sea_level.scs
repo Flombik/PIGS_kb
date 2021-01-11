@@ -1,0 +1,25 @@
+elevation_above_sea_level
+=> nrel_main_idtf:
+	[elevation above sea level] (* <- lang_en;; *);
+	[высота над уровнем моря] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(elevation above sea level)] (* <-lang_en;; *);
+			[Опр.(высота над уровнем моря)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[height of the item (geographical object) as measured relative to sea level]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[высота объекта, измеряемая от уровня воды]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

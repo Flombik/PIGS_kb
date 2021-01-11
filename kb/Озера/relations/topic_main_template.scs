@@ -1,0 +1,25 @@
+topic_main_template
+=> nrel_main_idtf:
+	[topic's main template] (* <- lang_en;; *);
+	[основной шаблон по теме] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(topic's main template)] (* <-lang_en;; *);
+			[Опр.(основной шаблон по теме)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[primary infobox or navigational template of this subject]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[карточка или навигационный]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

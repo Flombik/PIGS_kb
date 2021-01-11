@@ -1,0 +1,26 @@
+Q17094424
+=> nrel_main_idtf:
+	[Navata] (* <- lang_en;; *);
+	[Навята] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Navata)] (* <-lang_en;; *);
+			[Опр.(Навята)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[This reservoir is located on the south-eastern outskirts of Braslav and belongs to the basin of the Druika River, which flows into the Western Dvina. The area of the water mirror is 0.73 km2, and the maximum depth is 5.1 m. Lake Novyata is surrounded on almost all sides by private residential buildings, only the northern shore, which is partially swampy, is adjacent to a large meadow overgrown with shrubs. It is in this place that the mostly high sandy shores are significantly lowered, which leads to the formation of extensive shallow water.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Этот водоем расположен на юго-восточной окраине Браслава и относится к бассейну реки Друйка, которая впадает в Западной Двину. Площадь водного зеркала составляет 0,73 км2, а максимальная глубина – 5,1 м. Озеро Новята почти со всех сторон окружено частной жилой застройкой, лишь к северному берегу, который частично заболочен, примыкает большой луг, зарастающий кустарником. Именно в этом месте преимущественно высокие песчаные берега существенно понижаются, что приводит к образованию обширного мелководья.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

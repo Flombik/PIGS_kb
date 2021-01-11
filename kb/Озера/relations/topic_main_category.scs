@@ -1,0 +1,25 @@
+topic_main_category
+=> nrel_main_idtf:
+	[topic's main category] (* <- lang_en;; *);
+	[основная категория по теме] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(topic's main category)] (* <-lang_en;; *);
+			[Опр.(основная категория по теме)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[main Wikimedia category]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[категория Викимедиа, соответствующая данной теме]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

@@ -1,0 +1,33 @@
+Vitebsk_Region
+=> nrel_main_idtf:
+	[Vitebsk Region] (* <- lang_en;; *);
+	[Витебская область] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vitebsk Region)] (* <-lang_en;; *);
+			[Опр.(Витебская область)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[administrative division (voblasć) in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[область на севере Белорусии]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Vitebsk_Region_image.svg" (* => nrel_format: format_svg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

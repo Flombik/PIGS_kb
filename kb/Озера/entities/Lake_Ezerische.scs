@@ -1,0 +1,33 @@
+Lake_Ezerische
+=> nrel_main_idtf:
+	[Lake Ezerische] (* <- lang_en;; *);
+	[Езерище] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Lake Ezerische)] (* <-lang_en;; *);
+			[Опр.(Езерище)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake ezerishe is located in Gorodok district, Vitebsk region, on the border with the Pskov region (Russian Federation), 42 km North of Town, near G. p. yezerishe and belongs to the basin of the Obol (D. tributary of Western Dvina), which is derived from it.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Езерище находится в Городокском районе Витебской обл., на границе с Псковской обл. (РФ), в 42 км на север от г. Городок, возле г.п. Езерище и относится к бассейну р. Оболь (пр. приток Западной Двины), которая вытекает из него.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Lake_Ezerische_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

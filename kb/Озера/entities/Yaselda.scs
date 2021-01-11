@@ -1,0 +1,33 @@
+Yaselda
+=> nrel_main_idtf:
+	[Jasieĺda River] (* <- lang_en;; *);
+	[Ясельда] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Jasieĺda River)] (* <-lang_en;; *);
+			[Опр.(Ясельда)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[It originates from the Dikoe swamp, 4 km north of the village of Klepachi, east of Belovezhskaya Pushcha. In the upper reaches it flows along the Pribugskaya plain, then along the Pripyat Polesye, within which it flows through the Sporovskoe and Motolskoe lakes. It flows into Pripyat near the village of Kachanovichi.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Берёт исток из болота Дикое в 4 км к северу от деревни Клепачи восточнее Беловежской пущи. В верховье течёт по Прибугской равнине, далее по Припятскому Полесью, в пределах которого протекает через озёра Споровское и Мотольское. Впадает в Припять близ деревни Качановичи.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Yaselda_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

@@ -1,0 +1,26 @@
+Studenitsa
+=> nrel_main_idtf:
+	[Studenitsa] (* <- lang_en;; *);
+	[Студеница] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Studenitsa)] (* <-lang_en;; *);
+			[Опр.(Студеница)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The length of the river is 85 km, the area of ​​the drainage basin is 477 km², the slope is 2.74 m / km, the average width of the channel in the middle reaches is 5-10 m. The slopes of the valley are steep, terraced, in the lower reaches they are steep, strongly dissected by ravines and ravines 20- 80 m. 14.5 km from the mouth there is a waterfall 0.5 m high. The river takes water from more than 36 ponds with a total area of ​​about 180 hectares, with a total volume of 2.03 million m³.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Длина реки 85 км, площадь водосборного бассейна — 477 км², уклон 2,74 м/км, средняя ширина русла в среднем течении 5-10 м. Склоны долины крутые, террасированные, в низовьях — отвесные, сильно расчлененные балками и оврагами шириной 20-80 м. В 14,5 км от устья расположен водопад высотой 0,5 м. Река берёт воду из более чем 36 прудов общей площадью около 180 га, общим объемом 2,03 млн м³. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

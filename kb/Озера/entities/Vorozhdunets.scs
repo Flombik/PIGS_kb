@@ -1,0 +1,26 @@
+Vorozhdunets
+=> nrel_main_idtf:
+	[Vorozhdunets] (* <- lang_en;; *);
+	[Ворождунец] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vorozhdunets)] (* <-lang_en;; *);
+			[Опр.(Ворождунец)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The terrain is hilly-ridged, overgrown with bushes and forest, in places swampy. The shores are sandy, low, merge with the slopes, in some places overgrown with bushes, mostly swampy. Grows moderately.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Местность холмисто-грядистая, поросшая кустарником и лесом, местами болотистая. Берега песчаные, низкие, сливаются со склонами, местами поросшие кустарником, большей частью заболоченные. Зарастает умеренно.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

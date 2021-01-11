@@ -1,0 +1,35 @@
+Lake_Strusta
+=> nrel_main_idtf:
+	[Strusta] (* <- lang_en;; *);
+	[Струсто] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Strusta)] (* <-lang_en;; *);
+			[Опр.(Струсто)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Strusto Lake is located in the Braslav district of the Vitebsk region, 10.5 km from the border with Latvia, 4 km north of Braslav, and belongs to the Druika River basin (left tributary of the Zap River. Dvina). It occupies the 10th place in terms of water volume and the 18th place in terms of mirror area. The lake is located at an altitude of about 130 m above sea level and occupies a wide basin of a complex type. It is part of the Braslav Group of Lakes and the Braslav Lakes National Park. In summer, in sunny weather, the water of the lake is unusually blue.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Струсто находится в Браславском районе Витебской обл., в 10,5 от границы с Латвией, в 4 км на север от г. Браслав, и относится к бассейну р. Друйка (лев. приток р. Зап. Двина). Занимает 10-е место по объему воды и 18-е место по площади зеркала. Озеро расположено на высоте около 130 м над уровнем моря и занимает широкую котловину сложного типа. Входит в Браславскую группу озер и в состав национального парка Браславские озера. Летом, в солнечную погоду, вода озера отличается необыкновенной синевой.
+
+]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Lake_Strusta_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

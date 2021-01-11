@@ -1,0 +1,33 @@
+Q3919429
+=> nrel_main_idtf:
+	[Polozerie] (* <- lang_en;; *);
+	[Полозерье] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Polozerie)] (* <-lang_en;; *);
+			[Опр.(Полозерье)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Polozerye is located in the Ushachsky (on the border with Beshenkovichi) district of the Vitebsk region, 28 km southeast of the town of Ushachi, between the villages of Sokorovo, Poluozerye, Orlovo, Lyubizhino and Pola and belongs to the river basin. Diva (called Turovlyanka in the lower reaches). Included in the Ushachskaya group of lakes. The terrain is predominantly marshy, flat (in the north and east, ridge-hilly), overgrown with shrubs and woodlands, in places forest, in the north there is a vast forest area. The lake is surrounded by a vast (up to 350 m) swampy floodplain, which is adjoined by vast swampy meadows (in the west and east - swamps, in the south - arable land), overgrown with bog-meadow vegetation and bushes.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Полозерье находится в Ушачском (на границе с Бешенковичским) районе Витебской обл., в 28 км на юго-восток от г.п. Ушачи, между деревнями Сокорово, Полуозерье, Орлово, Любижино и Пола и относится к бассейну р. Дива (в нижнем течении называется Туровлянка). Входит в Ушачскую группу озер. Местность преимущественно болотистая, равнинная (на севере и востоке грядисто-холмистая), поросшая кустарником и редколесьем, местами лесом, на севере расположен обширный лесной массив. Озеро окружено обширной (до 350 м) заболоченной поймой, к которой примыкают обширные болотистые луга (на западе и востоке - болота, на юге - пашня), поросшие болотно-луговой растительностью и кустарником.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Q3919429_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

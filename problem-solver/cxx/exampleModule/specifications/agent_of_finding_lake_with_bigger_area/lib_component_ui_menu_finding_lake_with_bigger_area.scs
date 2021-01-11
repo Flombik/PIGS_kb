@@ -1,0 +1,11 @@
+lib_component_ui_menu_finding_lake_with_bigger_area
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса поиска озер с большей площадью]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command of search of lakes with bigger area]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;
+
+lib_component_ui_menu_finding_lake_with_bigger_area = [*^"file://ui_menu_finding_lake_with_bigger_area.scsi"*];;

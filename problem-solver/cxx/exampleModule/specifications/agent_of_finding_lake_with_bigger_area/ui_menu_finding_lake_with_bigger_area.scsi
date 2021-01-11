@@ -1,0 +1,29 @@
+ui_menu_finding_lake_with_bigger_area <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_finding_lake_with_bigger_area
+=> nrel_main_idtf: 
+	[У каких озер площадь больше чем у данного?]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска озер с большей площадью]
+	(* <- lang_ru;; *);;
+
+ui_menu_finding_lake_with_bigger_area 
+=> nrel_main_idtf: 
+	[What lakes have a bigger area than this?]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request to search for lakes with a bigger area]
+	(* <- lang_en;; *);;
+
+ui_menu_finding_lake_with_bigger_area => ui_nrel_command_template:
+	[*
+		question_find_lake_with_bigger_area _-> ._question_find_lake_with_bigger_area_instance
+			(*
+				_-> ui_arg_1;;
+			*);;
+		._question_find_lake_with_bigger_area_instance _<- question;;
+	*];;
+
+ui_menu_finding_lake_with_bigger_area => ui_nrel_command_lang_template: [У каких озер площадь больше чем у $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_finding_lake_with_bigger_area => ui_nrel_command_lang_template: [Which lakes have a bigger area than $ui_arg_1] (* <- lang_en;; *);;

@@ -1,0 +1,33 @@
+UTC_03_00
+=> nrel_main_idtf:
+	[UTC+03:00] (* <- lang_en;; *);
+	[UTC+3:00] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(UTC+03:00)] (* <-lang_en;; *);
+			[Опр.(UTC+3:00)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[identifier for a time offset from UTC of +3]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[часовой пояс со смещением +3 относительно UTC]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/UTC_03_00_image.png" (* => nrel_format: format_png;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

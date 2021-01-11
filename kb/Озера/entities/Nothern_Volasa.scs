@@ -1,0 +1,38 @@
+Nothern_Volasa
+=> nrel_main_idtf:
+	[Nothern Volasa] (* <- lang_en;; *);
+	[Волосо Северный] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Nothern Volasa)] (* <-lang_en;; *);
+			[Опр.(Волосо Северный)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Volos Severny is located 8.6 kilometers northeast
+				of the city of Braslav, near the village of Danki. The lake belongs to the Druyka river basin.
+				The strait connects the lake with Lake Volos Yuzhny, channels - with lakes Malaya Yelnya and Snudy.
+				There are five islands on the lake.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Находится озеро Волос Северный в 8,6 километрах на северо-востоке от города Браслав,
+				близ деревни Даньки. Озеро относится к бассейну реки Друйка. Пролив соединяет
+				озеро с озером Волос Южный, каналы – с озерами Малая Ельня и Снуды. На озере расположено пять остров.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Nothern_Volasa_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

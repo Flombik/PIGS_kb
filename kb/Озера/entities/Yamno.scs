@@ -1,0 +1,30 @@
+Yamno
+=> nrel_main_idtf:
+	[Yamno (lake, Vitebsk region)] (* <- lang_en;; *);
+	[Ямно (озеро, Витебская область)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Yamno (lake, Vitebsk region))] (* <-lang_en;; *);
+			[Опр.(Ямно (озеро, Витебская область))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Six streams flow into Lake Yamno. From the northern part of the reservoir flows the Yazmenok stream, flowing through Lake Somino and flowing into Lake Usvecha, located in the Nevelsky district of the Pskov region of Russia.
+
+The lake is home to bream, pike, perch, roach, silver bream, bleak, tench, crucian carp, rudd.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[В озеро Ямно впадают шесть ручьёв. Из северной части водоёма вытекает ручей Язьменок, протекающий через озеро Сомино и впадающий в озеро Усвеча, расположенное на территории Невельского района Псковской области России.
+
+В озере водятся лещ, щука, окунь, плотва, густера, уклейка, линь, карась, краснопёрка. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

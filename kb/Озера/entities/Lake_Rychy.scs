@@ -1,0 +1,34 @@
+Lake_Rychy
+=> nrel_main_idtf:
+	[Ryčy] (* <- lang_en;; *);
+	[Ричи] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Ryčy)] (* <-lang_en;; *);
+			[Опр.(Ричи)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Only part of this reservoir with an area of 12.84 sq. km is located on the territory of the Braslav district. It is the border of Belarus and Latvia. Lake Ritchie is known for being the second deepest lake in our country (this figure reaches almost 52 m). The purity of the water, whose transparency reaches 5.5 m in winter, and the richness of the animal world led to the fact that in 1979 the lake itself and the surrounding area were declared a hydrological reserve. Together with the Silene Nature Park, it will become another cross-border protected area in the future.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Только часть этого водоема площадью 12,84 кв.км находится на территории Браславского района. По нему проходит граница Беларуси и Латвии. Озеро Ричи известно тем, что занимает второе место в нашей стране по глубине (данный показатель достигает почти 52 м). Чистота воды, чья прозрачность зимой достигает 5,5 м, и богатство животного мира привели к тому, что в 1979 году само озеро и прилегающая к нему территория были объявлены гидрологическим заказником. Вместе с природным парком «Силене» в будущем он станет еще одной трансграничной ООПТ.
+]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Lake_Rychy_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

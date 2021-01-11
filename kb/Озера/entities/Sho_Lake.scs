@@ -1,0 +1,26 @@
+Sho_Lake
+=> nrel_main_idtf:
+	[Sho Lake] (* <- lang_en;; *);
+	[Шо] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Sho Lake)] (* <-lang_en;; *);
+			[Опр.(Шо)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Refers to the basin of the Shosha River flowing out of the lake. The lake is considered one of the contenders for the status of the geographical center of Europe.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Относится к бассейну реки Шоша, вытекающей из озера. Озеро считается одним из претендентов на статус географического центра Европы. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

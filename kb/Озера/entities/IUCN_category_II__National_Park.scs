@@ -1,0 +1,26 @@
+IUCN_category_II__National_Park
+=> nrel_main_idtf:
+	[IUCN category II: National Park] (* <- lang_en;; *);
+	[категория МСОП II: национальный парк] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(IUCN category II: National Park)] (* <-lang_en;; *);
+			[Опр.(категория МСОП II: национальный парк)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[IUCN protected area category: large natural areas set aside to protect ecological processes, species and ecosystems. Not every area named "National Park"]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[охрана экосистем, сочетающаяся с туризмом]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

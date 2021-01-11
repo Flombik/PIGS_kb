@@ -1,0 +1,34 @@
+Vozyera_Plisa
+=> nrel_main_idtf:
+	[Vozyera Plisa] (* <- lang_en;; *);
+	[Плисса (озеро, бассейн Мнюты)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Vozyera Plisa)] (* <-lang_en;; *);
+			[Опр.(Плисса (озеро, бассейн Мнюты))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Coastal vegetation forms a narrow discontinuous strip. Reed, reed and calamus prevail. To a depth of 3 m, pondweed grows.
+
+The lake is inhabited by pike, bream, silver bream, roach, carp, ide, rudd, perch, crucian carp and other fish species.
+
+The shore of the lake is covered mainly with coniferous forests. Many springs gush from the bottom of the lake, thanks to which the lake is considered one of the cleanest lakes in Belarus.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Прибрежная растительность образует узкую прерывистую полосу. Преобладают тростник, камыш, аир. До глубины 3 м растут рдесты.
+
+В озере обитают щука, лещ, густера, плотва, карп, язь, краснопёрка, окунь, карась и другие виды рыб.
+
+Берег озера покрывают преимущественно хвойные леса. Со дна озера бьёт множество родников, благодаря чему озеро считается одним из чистейших озёр Беларуси. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

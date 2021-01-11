@@ -1,0 +1,33 @@
+Dryvyaty
+=> nrel_main_idtf:
+	[Dryviaty] (* <- lang_en;; *);
+	[Дривяты] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Dryviaty)] (* <-lang_en;; *);
+			[Опр.(Дривяты)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Drivyaty is one of the most beautiful and largest (the third largest by water volume and the fifth largest) lakes in Belarus and is located in the Braslav district of the Vitebsk region, near the southern outskirts of Braslav. It is part of the Braslav Lakes National Park and the Braslav Lakes Group. It belongs to the Druika River basin. The lake is eutrophic, podprudnoe type. The banks are mostly low (elevated in the north and north-west), sandy and pebbly, overgrown with shrubs, sometimes sparsely wooded. The southern banks are flat and low-lying, overgrown with forest, swampy in places. A very beautiful section of the south-western coast, where a pine forest on high hills forms a picturesque tract of Ratsky Bor. There are convenient parking spaces. From the tops of the coastal hills, the lake and its surroundings are visible at a glance.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Дривяты является одним из самых красивых и больших (третье по объему воды и пятое по величине) озер Беларуси и находится в Браславском районе Витебской обл., возле южной окраины г. Браслав. Входит в состав национального парка Браславские озера и в группу Браславских озер. Относится к бассейну р. Друйка. Озеро эвтрофное, подпрудного типа. Берега преимущественно низкие (на севере и северо-западе возвышенные), песчаные и галечниковые, поросшие кустарником, местами редколесьем. Южные берега пологие и низменные, поросшие лесом, местами заболочены. Очень красив nbsp;участок юго-западного побережья, где сосновый лес на высоких холмах образует живописное урочище Рацкий Бор. Здесь имеются удобные места для стоянки. С вершин прибрежных холмов озеро и его окрестности видны как на ладони.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Dryvyaty_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

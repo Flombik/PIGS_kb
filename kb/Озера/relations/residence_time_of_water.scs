@@ -1,0 +1,25 @@
+residence_time_of_water
+=> nrel_main_idtf:
+	[residence time of water] (* <- lang_en;; *);
+	[период обновления воды] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(residence time of water)] (* <-lang_en;; *);
+			[Опр.(период обновления воды)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[residence time of water in a lake or sea]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

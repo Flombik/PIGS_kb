@@ -1,0 +1,33 @@
+Sviciaz_Lake
+=> nrel_main_idtf:
+	[Sviciaz Lake] (* <- lang_en;; *);
+	[Свитязь] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Sviciaz Lake)] (* <-lang_en;; *);
+			[Опр.(Свитязь)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Svityaz is a lake of karst origin. It was formed as a result of the collapse of Quaternary sediments into underground voids. The assertion of geologists about the origin of this unique reservoir is quite consistent with the legend used by Adam Mitskevich in the ballad "Svityaz". Legend has it that at the time of the first Grand Duke of Lithuania, Mindaugas (XIII century), the city of Svityaz stood on the site of the lake, in which Prince Turan ruled. During the war, Mindovg summoned the retinue of the retinue to help defend Novogrudok. Turan, obeying his duty, left the city to women, old people and children. When the enemy army approached Svityaz, the inhabitants decided to resist, but unable to hold the city, they began to set fire to their houses. At that moment, the city fell into the lake, which formed in its place. All residents turned into flowers, and the enemies who touched them died. So the inhabitants of Svityaz escaped the shame of bondage.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Свитязь — озеро карстового происхождения. Образовалось оно в результате провала четвертичных отложений в подземные пустоты. Утверждение геологов о происхождении этого уникального водоёма вполне согласуется с легендой, использованной Адамом Мицкевичем в балладе «Свитязь». Легенда гласит, что во времена первого великого князя литовского Миндовга (XIII век) на месте озера стоял город Свитязь, в котором правил князь Туран. Во время войны Миндовг вызвал свитяжскую дружину на помощь в обороне Новогрудка. Туран, подчиняясь своему долгу, оставил город на женщин, стариков и детей. Когда к Свитязи подошла вражеская рать, жители решили оказать сопротивление, но не имея возможности удержать город, они стали поджигать свои дома. В этот момент город провалился в озеро, которое образовалось на его месте. Все жители превратились в цветы, а враги, которые прикасались к ним, умирали. Так жители Свитязи избежали позора неволи. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Śviciaź_Lake_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

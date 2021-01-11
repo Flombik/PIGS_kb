@@ -1,0 +1,30 @@
+Uklya
+=> nrel_main_idtf:
+	[Uklya] (* <- lang_en;; *);
+	[Укля] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Uklya)] (* <-lang_en;; *);
+			[Опр.(Укля)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The surrounding forests are rich in wild strawberries, blueberries, lingonberries, wild raspberries and mushrooms.
+
+The lake is home to perch, bream, pike, roach, rudd, tench, burbot, pike perch, eel and other fish species. Commercial fishing is carried out, and paid amateur fishing is also organized. Spearfishing allowed.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Окрестные леса богаты земляникой, черникой, брусникой, дикорастущей малиной, а также грибами.
+
+В озере водятся окунь, лещ, щука, плотва, краснопёрка, линь, налим, судак, угорь и другие виды рыб. Производится промысловый лов рыбы, также организовано платное любительское рыболовство. Разрешена подводная охота. ]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

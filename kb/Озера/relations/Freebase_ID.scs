@@ -1,0 +1,25 @@
+Freebase_ID
+=> nrel_main_idtf:
+	[Freebase ID] (* <- lang_en;; *);
+	[код Freebase] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Freebase ID)] (* <-lang_en;; *);
+			[Опр.(код Freebase)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[identifier for a page in the Freebase database. Format: "/m/0" followed by 2 to 7 characters. For those starting with "/g/", use Google Knowledge Graph identifier (P2671)]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[идентификатор в базе данных Freebase]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

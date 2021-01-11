@@ -1,0 +1,35 @@
+Miastra
+=> nrel_main_idtf:
+	[Miastra] (* <- lang_en;; *);
+	[Мястро] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Miastra)] (* <-lang_en;; *);
+			[Опр.(Мястро)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[This reservoir is located on the outskirts of Myadel and belongs to the Naroch River basin. He is a member of the Naroch group. The area of the water mirror is 13.1 km2, and the maximum depth is 11.3 m.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Этот водоем расположен на окраине Мяделя и относится к бассейну реки Нарочь. Он входит в Нарочанскую группу. Площадь водного зеркала составляет 13,1 км2, а максимальная глубина – 11,3 м.
+
+]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Miastra_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

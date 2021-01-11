@@ -1,0 +1,26 @@
+Q13029070
+=> nrel_main_idtf:
+	[Ives] (* <- lang_en;; *);
+	[Ивесь] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Ives)] (* <-lang_en;; *);
+			[Опр.(Ивесь)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus in the Glubokoe district of the Vitebsk region, belongs to the basin of the Shoshi River.The size of the lake is 2.12 by 0.44 km, it stretches from north to south. The average depth of the lake is 8.7 meters, the highest reaches 26 m. The lake's water volume is 4.71 million m3. The area of the water mirror is 0.55 km2. The lake catchment area is 12.4 km2. The terrain is mostly flat, sometimes hilly-ridged, overgrown with forest and shrubs, sometimes swampy. The lake is surrounded by a swampy floodplain up to 200 m wide. The banks are sandy, mostly low, overgrown with shrubs. The bottom relief is complex, with depressions and shoals. The shallow water is sandy and occupies 20 % of the lake's area.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[озеро в Белоруссии в Глубокском районе Витебской области, относится к бассейну реки Шоши.Размеры озера 2,12 на 0,44 км, оно вытянуто с севера на юг. Средняя глубина озера — 8,7 метра, наибольшая достигает 26 м. Объём вод озера — 4,71 млн м³. Площадь водного зеркала — 0,55 км². Площадь озёрного водосбора — 12,4 км². Местность преимущественно равнинная, местами холмисто-грядистая, поросшая лесом и кустарником, местами болотистая. Озеро окружено заболоченной поймой шириной до 200 м. Берега песчаные, преимущественно низкие, поросшие кустарником. Рельеф дна сложный, со впадинами и мелями. Мелководье песчаное, занимает 20 % площади озера.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

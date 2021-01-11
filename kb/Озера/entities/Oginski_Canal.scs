@@ -1,0 +1,44 @@
+Oginski_Canal
+=> nrel_main_idtf:
+	[Oginski Canal] (* <- lang_en;; *);
+	[Огинский канал] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Oginski Canal)] (* <-lang_en;; *);
+			[Опр.(Огинский канал)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Oginsky Canal, Dnieper-Neman Canal (Belorussian Aginsk Canal, Dnyaproska-Nemansk Canal) -
+				a canal in Belarus, built in 1767-1783, connects the Yaselda (Pripyat basin) and Shchara (Neman basin) rivers,
+				thus connecting the Baltic Sea with Black [1]. Lakes Vygonoshchanskoye and Vulkovskoye are part of the channel.
+				The canal is about 55 km long (including 5 km along Lake Vygonoshchanskoye). Lake Vygonoshchanskoye
+				is connected to the Shchara River by a 2.5-kilometer puncture [what?].
+				There were two pier on the channel - Telekhany and Oginskaya. Initially, the channel was called Telekhany channel.
+]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Кана́л Оги́нского, Днепровско-Неманский канал (белор. Агінскі канал, Дняпроўска-Нёманскі канал) —
+				канал в Белоруссии, построенный в 1767—1783 годах, соединяет реки Ясельда (бассейн Припяти) и
+				Щара (бассейн Немана), соединяя таким образом Балтийское море с Чёрным[1]. Частью канала являются
+				озёра Выгонощанское и Вульковское. Длина канала около 55 км (в том числе 5 км по озеру Выгонощанское).
+				Озеро Выгонощанское соединено с рекой Щара 2,5-километровым проколом[чем?].
+				На канале было две пристани — Телеханы и Огинская. Первоначально канал назывался Телеханский канал.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Oginski_Canal_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

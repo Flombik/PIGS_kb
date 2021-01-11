@@ -1,0 +1,26 @@
+Kacilava
+=> nrel_main_idtf:
+	[Kacilava] (* <- lang_en;; *);
+	[Катилово] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Kacilava)] (* <-lang_en;; *);
+			[Опр.(Катилово)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Katilova is located in Miory district, Vitebsk region, 4 km on southwest from the city Miory, near d Katilova. It belongs to the Meritsa River basin. It is located on the edge of a reclaimed swamp. It is surrounded by a vast floodplain, overgrown with swamp-meadow vegetation and rare shrubs. The banks are low, peaty (elevated in the north-west), overgrown with shrubs and sparsely wooded, sometimes swampy. Shallow water is narrow, sandy, deeper bottom sapropelite. It is poorly overgrown, however, with underwater vegetation completely. Connected by streams on the North by lake Varone and Miory, in the South channels with a system of drainage channels.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Катилово находится в Миорском районе Витебской обл., в 4 км на юго-запад от г. Миоры, возле д. Катилово. Относится к бассейну р. Мерица. Находится на краю мелиорированного болота. Окружено обширной поймой, поросшей болотно-луговой растительностью и редким кустарником. Берега низкие, торфянистые (на северо-западе возвышенные), поросшие кустарником и редколесьем, местами заболоченные. Мелководье узкое, песчаное, глубже дно сапропелистое. Зарастает слабо, однако, подводной растительностью полностью. Соединено ручьями на севере с озерами Воронь и Миорское, на юге каналами с системой мелиоративных каналов.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

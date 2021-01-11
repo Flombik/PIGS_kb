@@ -1,0 +1,25 @@
+inflows
+=> nrel_main_idtf:
+	[inflows] (* <- lang_en;; *);
+	[впадающие в озеро реки] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(inflows)] (* <-lang_en;; *);
+			[Опр.(впадающие в озеро реки)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[major inflow sources — rivers, aquifers, glacial runoff, etc. Some terms may not be place names, e.g. none]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

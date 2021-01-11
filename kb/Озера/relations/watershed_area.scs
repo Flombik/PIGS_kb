@@ -1,0 +1,25 @@
+watershed_area
+=> nrel_main_idtf:
+	[watershed area] (* <- lang_en;; *);
+	[площадь бассейна] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(watershed area)] (* <-lang_en;; *);
+			[Опр.(площадь бассейна)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[size of a stream's watershed (drainage basin)]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[площадь, с которой собираются воды в данный водный объект]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);	
+<-sc_node_norole_relation;;

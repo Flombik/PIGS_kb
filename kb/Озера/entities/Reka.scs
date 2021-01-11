@@ -1,0 +1,26 @@
+Q3920949
+=> nrel_main_idtf:
+	[Reka (lake)] (* <- lang_en;; *);
+	[Река (озеро)] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Reka (lake))] (* <-lang_en;; *);
+			[Опр.(Река (озеро))] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[lake in Belarus]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[None]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

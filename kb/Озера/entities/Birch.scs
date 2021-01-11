@@ -1,0 +1,27 @@
+Q6769162
+=> nrel_main_idtf:
+	[
+Birch] (* <- lang_en;; *);
+	[Береза] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Birch)] (* <-lang_en;; *);
+			[Опр.(Береза)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Birch (Belarus. Byarozayskae) is a lake in the Sennensky district of the Vitebsk region of Belarus in the Western Dvina basin.The lake has a surface area of 2.6 km2, a length of 5.1 km, and a maximum width of 1.05 km. The maximum depth of the lake reaches 15.8 m, the average depth is 5.8 m.  The length of the coastline is 18.9 km, the catchment area is 25.8 km2.The lake is located 10 km east of the town of Senno. On the north-western shore of the lake is the village of Berezki, on the east — Zaozerye, on the south — Dawn and Studenka. On the western shore of the lake is the source of the river Beryozka, several streams flow into the lake. In the north, it is connected to Lake Dobrino by a narrow short channel. The lake has a strongly elongated shape from north-west to south-east. The coastline is very winding, there are a number of peninsulas and islands. About 26% of the lake area is overgrown. Underwater vegetation spreads at a distance of up to 50 m, surface vegetation up to 150 m from the shore of the lake.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Берёзовское (белор. Бяро́заўскае) — озеро в Сенненском районе Витебской области Белоруссии в бассейне Западной Двины.Площадь поверхности озера 2,6 км², длина 5,1 км, наибольшая ширина 1,05 км. Наибольшая глубина озера достигает 15,8 м, средняя глубина — 5,8 м. Длина береговой линии 18,9 км, площадь водосбора — 25,8 км².Озеро расположено в 10 км к востоку от города Сенно. На северо-западном берегу озера располагается деревня Берёзки, на восточном — Заозёрье, на южном — Рассвет и Студёнка. На западном берегу озера находится исток реки Берёзка, в озеро впадают несколько ручьёв. На севере узкой короткой протокой соединено с озером Добрино.Озеро имеет сильно вытянутую с северо-запада на юго-восток форму. Береговая линия сильно извилистая, есть ряд полуостровов и островов. Зарастает около 26 % площади озера. Подводная растительность распространяется на расстоянии до 50 м, надводная до 150 м от берега озера]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

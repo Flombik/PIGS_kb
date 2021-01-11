@@ -1,0 +1,30 @@
+Zielianskoje
+=> nrel_main_idtf:
+	[Zielianskoje] (* <- lang_en;; *);
+	[Зеленское] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Zielianskoje)] (* <-lang_en;; *);
+			[Опр.(Зеленское)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Zelenskoe lake is flowing. Two rivers with the same name, Uzmenka and the Verkhita River, flow into the river. The river Luchos flows out. Through the Verkhita River and the Zelenskoe stream flowing into it, it is connected with Lake Sitno.
+
+Zelensky Lake is home to pike, bream, roach, rudd, perch, tench, ide, silver bream and other fish species.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Зеленское озеро проточное. Впадают две реки с одинаковым названием Узменка и река Верхита. Вытекает река Лучоса. Через реку Верхита и впадающий в неё ручей Зеленское связано с озером Ситно.
+
+В Зеленском озере обитают щука, лещ, плотва, краснопёрка, окунь, линь, язь, густера и другие виды рыб.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

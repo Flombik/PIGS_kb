@@ -1,0 +1,26 @@
+Carnica
+=> nrel_main_idtf:
+	[Carnica] (* <- lang_en;; *);
+	[Карника] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Carnica)] (* <-lang_en;; *);
+			[Опр.(Карника)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Chernitsa is located in the Beshenkovichi district of the Vitebsk region, 28 km south-east of the town of Beshenkovichi, about 0.8 km north-west of the village. Latygovo and belongs to the basin of the Chernichanka River (left tributary of the Luchesa River). The area is mostly flat, sometimes hilly, lowland, mostly overgrown with forest and shrubs, swampy. The surrounding forests are rich in cranberries and blueberries (perhaps the lake got its name because of the abundance of blueberries in the vicinity). The banks are mostly low, swampy, overgrown with shrubs and forest. Overgrown moderately. In the south-east of the flowing river. Chernivchanka is connected to the lake. Skrydlevo. In the north and in the south, 2 streams flow. The lake is home to perch, roach, bream, tench and other fish. Paid amateur fishing is organized.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Черница находится в Бешенковичском районе Витебской обл., в 28 км на юго-восток от г.п. Бешенковичи, примерно в 0,8 км на северо-запад от д. Латыгово и относится к бассейну р. Черничанка (лев. приток р. Лучеса). Местность преимущественно равнинная, местами холмистая, низинная, большей частью заросшая лесом и кустарником, болотистая. Окрестные леса богаты брусникой и черникой (возможно название озеро получило из-за обилия в окрестностях черники). Берега преимущественно невысокие, заболоченные, поросшие кустарником и лесом. Зарастает умеренно. На юго-востоке вытекающей р. Черничанка соединено с оз. Скрыдлево. На севере и на юге впадают 2 ручья. В озере обитают окунь, плотва, лещ, линь и др. рыба. Организовано платное любительское рыболовство.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+	
+<-sc_node_not_relation;;

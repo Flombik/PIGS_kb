@@ -1,0 +1,33 @@
+Janova_Lake
+=> nrel_main_idtf:
+	[Janova Lake] (* <- lang_en;; *);
+	[Яново] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Janova Lake)] (* <-lang_en;; *);
+			[Опр.(Яново)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[The basin of the lake Yanovo podprudnoe type, is elongated from North-West to South-East. The greatest depth is 13.2 m. The slopes of the basin are up to 12 meters high. The 25 km long coastline in the western part forms two bays (North Horn and South Horn). The banks are sandy with a height of up to 1 m, in the east merging with a swampy lowland.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Котловина озера Яново подпрудного типа, вытянута с северо-запада на юго-восток. Наибольшая глубина 13,2 м. Склоны котловины высотой до 12 метров. Береговая линия длиной 25 км в западной части образует два залива (Северный Рог и Южный Рог). Берега песчаные высотой до 1 м, на востоке сливающиеся с заболоченной низиной.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Janova_Lake_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;

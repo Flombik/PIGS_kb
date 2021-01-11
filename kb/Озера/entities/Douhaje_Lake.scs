@@ -1,0 +1,33 @@
+Douhaje_Lake
+=> nrel_main_idtf:
+	[Douhaje Lake] (* <- lang_en;; *);
+	[Долгое] (* <- lang_ru;; *);
+<- rrel_key_sc_element: ...
+    (*
+		<- sc_definition;;
+		=> nrel_main_idtf:
+			[Def.(Douhaje Lake)] (* <-lang_en;; *);
+			[Опр.(Долгое)] (* <-lang_ru;; *);;
+	    <= nrel_sc_text_translation:
+		    ...
+			(*
+			-> rrel_example:
+				[Lake Dolgoye is located in the Glubokoe district of the Vitebsk region, 32 km north-east of Glubokoe, near the villages of Dolgoye, Zyabki and Zaozernaya. It belongs to the Shosha River basin and is the deepest in Belarus. It ranks 22nd in terms of water volume. It is part of the Republican hydrological reserve Long (established in 1979). The area is ridged, sometimes overgrown with woodlands and shrubs, as well as copses and forest plantations. Localities are mainly in the form of farms. There are extensive woodlands all around. The surrounding forests are rich in strawberries, raspberries, blueberries, cranberries, mushrooms.]
+				(* <-lang_en;; *);; 
+			*);
+		    ...
+			(*
+			-> rrel_example:
+				[Озеро Долгое находится в Глубокском районе Витебской обл., в 32 км на северо-восток от г. Глубокое, возле деревень Долгое, Зябки и Заозерная. Относится к бассейну р. Шоша и является самым глубоким в Беларуси. Занимает 22-е место по объему воды. Входит в состав республиканского гидрологического заказника Долгое (создан в 1979 г.). Местность грядистая, местами поросшая редколесьем и кустарником, а также перелесками и лесопосадками. Населенные пункты преимущественно в виде хуторов. Вокруг расположены обширные лесные массивы. Окрестные леса богаты земляникой, малиной, черникой, брусникой, грибами.]
+				(* <-lang_ru;; *);; 
+			*);;
+    *);
+<- rrel_key_sc_element: ...
+    (*
+	    <-sc_illustration;;
+	    <=nrel_sc_text_translation: ...
+	    (*
+		    -> rrel_example: "file://images/Doŭhaje_Lake_image.jpg" (* => nrel_format: format_jpg;; *);;
+	    *);;
+    *);	
+<-sc_node_not_relation;;
